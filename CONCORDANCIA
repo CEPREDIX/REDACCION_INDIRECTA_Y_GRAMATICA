@@ -1,0 +1,395 @@
+[
+  {
+    "question": "Selecciona la oración donde la concordancia entre sujeto y verbo sea impecable, considerando la ambigüedad contextual:",
+    "options": [
+      {"text": "La mayoría de los delegados, tras horas de debate, ha decidido apoyar la moción.", "correct": true},
+      {"text": "La mayoría de los delegados, tras horas de debate, han decidido apoyar la moción, aunque algunos se abstuvieron.", "correct": false},
+      {"text": "La mayoría de los delegados ha decidido apoyar la moción, pero otros no.", "correct": false},
+      {"text": "La mayoría de los delegados, influidos por el discurso, decide apoyar la moción.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Colectivo + complemento preposicional plural. ¿Singular o plural?",
+    "explanation": "Aunque 'la mayoría' (singular) puede llevar verbo en singular o plural, en contextos formales se prefiere el singular ('ha decidido') cuando el colectivo actúa como unidad."
+  },
+  {
+    "question": "¿Cuál de estas construcciones con 'ni...ni' viola las reglas de concordancia?",
+    "options": [
+      {"text": "Ni el director ni el equipo estaban al tanto del error.", "correct": true},
+      {"text": "Ni el director ni el equipo estuvieron al tanto del error.", "correct": false},
+      {"text": "Ni el director ni el equipo estaba al tanto del error, según reveló la investigación.", "correct": false},
+      {"text": "Ni el director ni el equipo supieron del error hasta ayer.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sujetos coordinados con 'ni' exigen plural, pero hay excepciones.",
+    "explanation": "Con 'ni...ni', el verbo debe ir en plural ('estaban'). La opción correcta muestra el error al usar el singular ('estaba')."
+  },
+  {
+    "question": "Completa el texto con la opción gramaticalmente más rigurosa: 'El que hayas mentido y que ocultaras pruebas ________ que el caso ________ revisado.'",
+    "options": [
+      {"text": "exige, sea", "correct": true},
+      {"text": "exigen, sea", "correct": false},
+      {"text": "exige, sean", "correct": false},
+      {"text": "exigiría, fuera", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Proposiciones con 'el que' + subjuntivo.",
+    "explanation": "Dos proposiciones con 'el que' requieren verbo en singular ('exige'). 'Sea' concuerda con 'caso' (singular)."
+  },
+  {
+    "question": "Relaciona cada construcción con su problema de concordancia: A) 'Ustedes es el grupo seleccionado', B) 'El conjunto de herramientas fueron robadas', C) 'Lo que dices y lo que callas son contradictorios'.",
+    "options": [
+      {"text": "A) Error con 'ustedes' (debe ser 'son'); B) Colectivo singular con verbo plural; C) Correcta.", "correct": true},
+      {"text": "A) Correcta; B) Error de género; C) Error con demostrativos neutros.", "correct": false},
+      {"text": "A) Error de número; B) Correcta; C) Error con verbo copulativo.", "correct": false},
+      {"text": "A) Error con pronombre formal; B) Error de plural; C) Error de sujeto compuesto.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Analiza cada caso: pronombres, colectivos y demostrativos.",
+    "explanation": "A) 'Ustedes' exige verbo en plural; B) 'Conjunto' (singular) debería llevar verbo en singular; C) La concordancia es correcta."
+  },
+  {
+    "question": "Identifica la oración donde la concordancia entre sujeto y predicado nominal sea incorrecta:",
+    "options": [
+      {"text": "Los problemas principales es la falta de recursos.", "correct": true},
+      {"text": "Los problemas principales son la falta de recursos.", "correct": false},
+      {"text": "El problema principal son los recursos limitados.", "correct": false},
+      {"text": "La falta de recursos es el problema principal.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sujeto plural + verbo copulativo.",
+    "explanation": "El verbo 'ser' debe concordar con el sujeto plural ('son'), no con el predicado nominal singular ('es')."
+  },
+  {
+    "question": "¿Cuál de estas oraciones con 'todo' aplica correctamente la concordancia ad sensum?",
+    "options": [
+      {"text": "Todo lo que prometiste y lo que cumpliste son irrelevantes ahora.", "correct": true},
+      {"text": "Todo lo que prometiste y lo que cumpliste es irrelevante ahora.", "correct": false},
+      {"text": "Todo lo que prometiste y lo que cumpliste fueron irrelevantes.", "correct": false},
+      {"text": "Todo lo que prometiste y lo que cumpliste resulta irrelevantes.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Demostrativos neutros + predicado plural.",
+    "explanation": "Aunque 'todo' es singular, puede concordar con un predicado plural ('son irrelevantes') por sentido."
+  },
+  {
+    "question": "Completa la oración con la opción más precisa: 'El flujo y reflujo de las mareas ________ un fenómeno cíclico, pero su intensidad ________ según la luna.'",
+    "options": [
+      {"text": "es, varía", "correct": true},
+      {"text": "son, varían", "correct": false},
+      {"text": "es, varían", "correct": false},
+      {"text": "son, varía", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sujeto compuesto como unidad + singular/plural.",
+    "explanation": "'Flujo y reflujo' actúa como unidad singular ('es'). 'Intensidad' (singular) requiere 'varía'."
+  },
+  {
+    "question": "Selecciona la oración con error de concordancia en voz pasiva refleja:",
+    "options": [
+      {"text": "En este taller se reparan muebles antiguos con esmero.", "correct": true},
+      {"text": "En este taller se repara muebles antiguos con esmero.", "correct": false},
+      {"text": "En este taller se están reparando muebles antiguos.", "correct": false},
+      {"text": "En este taller se ha reparado muebles antiguos.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Pasiva refleja + complemento directo plural.",
+    "explanation": "El complemento directo plural ('muebles') exige verbo en plural ('reparan'). 'Repara' es incorrecto."
+  },
+  {
+    "question": "¿Cuál oración usa incorrectamente la concordancia con sustantivos colectivos indeterminados?",
+    "options": [
+      {"text": "La gente salió corriendo cuando escucharon la explosión.", "correct": true},
+      {"text": "La gente salió corriendo cuando escuchó la explosión.", "correct": false},
+      {"text": "El grupo de manifestantes se dispersó cuando vieron a la policía.", "correct": false},
+      {"text": "El grupo de manifestantes se dispersó cuando vio a la policía.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Colectivos + verbo en oraciones coordinadas.",
+    "explanation": "Aunque 'gente' (singular) puede llevar verbo en plural ('escucharon') por sentido, en contextos formales se prefiere el singular ('escuchó')."
+  },
+  {
+    "question": "Relaciona cada caso con su explicación: A) 'El ministro, junto a sus asesores, viajó a Bruselas', B) 'El ministro y sus asesores viajaron a Bruselas', C) 'El ministro con sus asesores viajaron a Bruselas'.",
+    "options": [
+      {"text": "A) 'Junto a' no une gramaticalmente; B) Sujeto compuesto plural; C) Uso aceptable de 'con' para plural.", "correct": true},
+      {"text": "A) Error de concordancia; B) Correcta; C) Error con 'con'.", "correct": false},
+      {"text": "A) Correcta; B) Error de número; C) Correcta.", "correct": false},
+      {"text": "A) Uso de plural; B) Correcta; C) Error de estilo.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Preposiciones que unen sujetos.",
+    "explanation": "A) 'Junto a' es un inciso, no une sujetos; B) 'y' forma sujeto plural; C) 'con' puede usarse para plural en algunos contextos."
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones tiene correcta concordancia entre sujeto y verbo?",
+    "options": [
+      {"text": "Tú y yo somos responsables del proyecto.", "correct": true},
+      {"text": "Tú y yo es responsable del proyecto.", "correct": false},
+      {"text": "Tú y yo será responsable del proyecto, aunque no lo parezca.", "correct": false},
+      {"text": "Tú y yo ha sido responsables del proyecto desde el inicio.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sujeto compuesto con 1ª persona.",
+    "explanation": "Cuando el sujeto incluye 'yo' (1ª persona), el verbo va en 1ª persona plural ('somos')."
+  },
+  {
+    "question": "Identifica la oración con concordancia incorrecta:",
+    "options": [
+      {"text": "Ustedes y él irán a la conferencia.", "correct": true},
+      {"text": "Ustedes y él irá a la conferencia.", "correct": false},
+      {"text": "Ustedes y él van a la conferencia, según lo planeado.", "correct": false},
+      {"text": "Ustedes y él asistirán a la conferencia sin falta.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sujeto compuesto con 2ª y 3ª persona.",
+    "explanation": "Con sujetos de 2ª y 3ª persona, el verbo debe ir en 2ª persona plural ('irán')."
+  },
+  {
+    "question": "Completa la oración: ________ de los estudiantes ________ tarde debido al tráfico.",
+    "options": [
+      {"text": "La mayoría, llegó", "correct": true},
+      {"text": "La mayoría, llegaron", "correct": false},
+      {"text": "Las mayorías, llegó", "correct": false},
+      {"text": "El grupo, llegaron", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Colectivo singular con complemento plural.",
+    "explanation": "'La mayoría' (singular) admite verbo en singular ('llegó') o plural ('llegaron'), pero la primera opción es más formal."
+  },
+  {
+    "question": "Relaciona las construcciones con su concordancia correcta: A) Sujeto simple 3ª singular, B) Sujeto compuesto 1ª + 3ª persona, C) Colectivo con complemento plural.",
+    "options": [
+      {"text": "A) Él canta; B) Ellos y yo cantamos; C) Un grupo de niños llegó.", "correct": true},
+      {"text": "A) Él cantan; B) Ellos y yo canta; C) Un grupo de niños llegaron.", "correct": false},
+      {"text": "A) Él canta; B) Ellos y yo cantáis; C) Un grupo de niños llega.", "correct": false},
+      {"text": "A) Él cantamos; B) Ellos y yo cantan; C) Un grupo de niños llegó.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Reglas básicas de concordancia.",
+    "explanation": "A) Verbo en 3ª singular; B) 1ª persona plural; C) Colectivo singular con verbo en singular o plural."
+  },
+  {
+    "question": "¿Cuál oración usa correctamente la concordancia con 'usted'?",
+    "options": [
+      {"text": "Usted es el encargado.", "correct": true},
+      {"text": "Usted eres el encargado.", "correct": false},
+      {"text": "Usted está siendo el encargado de este importante proyecto.", "correct": false},
+      {"text": "Usted son los encargados, según el informe.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Pronombre formal.",
+    "explanation": "'Usted' requiere verbo en 3ª persona singular ('es')."
+  },
+  {
+    "question": "Selecciona la opción con concordancia correcta en predicado nominal:",
+    "options": [
+      {"text": "Los violadores son gente enferma.", "correct": true},
+      {"text": "Los violadores es gente enferma.", "correct": false},
+      {"text": "Los violadores está siendo gente enferma, según los expertos.", "correct": false},
+      {"text": "Los violadores fueron gente enferma en ese caso.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sujeto plural + verbo copulativo.",
+    "explanation": "En predicados nominales, el verbo concuerda con el sujeto ('son')."
+  },
+  {
+    "question": "Completa: ________ y lo que ocultaste ________ suficiente para sospechar.",
+    "options": [
+      {"text": "Esto, es", "correct": true},
+      {"text": "Esto, son", "correct": false},
+      {"text": "Estas cosas, es", "correct": false},
+      {"text": "Aquellos detalles, fueron", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Demostrativos neutros en singular.",
+    "explanation": "'Esto' (neutro) exige verbo en singular ('es')."
+  },
+  {
+    "question": "Identifica la oración incorrecta:",
+    "options": [
+      {"text": "El funcionario con su asistente fue abucheado.", "correct": true},
+      {"text": "El funcionario con su asistente fueron abucheados.", "correct": false},
+      {"text": "El funcionario y su asistente fueron abucheados.", "correct": false},
+      {"text": "El funcionario, junto con su asistente, fue abucheado.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Sujetos unidos por 'con'.",
+    "explanation": "Con 'con', el verbo va en plural ('fueron'). La opción correcta usa 'fue' porque 'junto con' no une gramaticalmente."
+  },
+  {
+    "question": "¿Cuál oración sigue la regla de concordancia para sujetos colectivos?",
+    "options": [
+      {"text": "La mitad de los empleados perecieron en el accidente.", "correct": true},
+      {"text": "La mitad de los empleados pereció en el accidente.", "correct": false},
+      {"text": "Las mitades de los empleados perecieron en el accidente.", "correct": false},
+      {"text": "La mitad de los empleados han perecido en el accidente, según testigos.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Colectivo + complemento plural.",
+    "explanation": "'La mitad' (colectivo) admite verbo en singular o plural, pero el plural ('perecieron') enfatiza la acción individual."
+  },
+  {
+    "question": "Relaciona los casos especiales con su ejemplo correcto: A) Discordancia deliberada, B) Plural mayestático, C) Silepsis.",
+    "options": [
+      {"text": "A) ¿Cómo estamos? (refiriéndose a una persona); B) Nos os bendecimos; C) Compró la bicicleta donde las vendían.", "correct": true},
+      {"text": "A) Nos os bendecimos; B) ¿Cómo estamos?; C) Compró la bicicleta donde la vendían.", "correct": false},
+      {"text": "A) Compró la bicicleta donde las vendían; B) ¿Cómo estamos?; C) Nos os bendecimos.", "correct": false},
+      {"text": "A) ¿Cómo estamos?; B) Compró la bicicleta donde las vendían; C) Nos os bendecimos.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Figuras de construcción.",
+    "explanation": "A) Uso expresivo del plural; B) Plural en lugar de singular (autoridad); C) Concordancia por sentido, no gramática."
+  },
+  {
+    "question": "Completa: ________ de manchas ________ la pared.",
+    "options": [
+      {"text": "Una especie, cubría", "correct": true},
+      {"text": "Una especie, cubrían", "correct": false},
+      {"text": "Unas especies, cubría", "correct": false},
+      {"text": "El tipo, cubrieron", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Colectivo singular + verbo.",
+    "explanation": "'Una especie' (singular) puede llevar verbo en singular ('cubría') o plural ('cubrían')."
+  },
+  {
+    "question": "¿Cuál oración usa correctamente la concordancia con 'todo'?",
+    "options": [
+      {"text": "Todo lo anterior fueron errores.", "correct": true},
+      {"text": "Todo lo anterior fue errores.", "correct": false},
+      {"text": "Todos lo anterior fueron errores.", "correct": false},
+      {"text": "Todo lo anterior han sido errores según el informe.", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "Colectivo demostrativo neutro.",
+    "explanation": "Con 'todo lo anterior' y predicado plural, el verbo puede ir en plural ('fueron')."
+  },
+  {
+  "question": "Analiza la siguiente oración compleja y selecciona la opción con la concordancia verbal correcta: 'Ni el informe financiero ni la auditoría ____ capaz de detectar las irregularidades, lo que ____ graves consecuencias legales.'",
+  "options": [
+    {"text": "fue, trajo", "correct": true},
+    {"text": "fueron, trajo", "correct": false},
+    {"text": "fue, trajeron", "correct": false},
+    {"text": "fueron, trajeron", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Coordinación disyuntiva con 'ni...ni' y consecutiva con 'lo que'",
+  "explanation": "Con 'ni...ni' el verbo puede concordar con el elemento más cercano ('fue'). 'Lo que' como sujeto singular requiere 'trajo'."
+},
+
+{
+  "question": "¿Cuál de estas construcciones con sujeto tácito y verbo copulativo presenta una concordancia incorrecta?",
+  "options": [
+    {"text": "En el análisis final, somos nosotros los responsables.", "correct": true},
+    {"text": "En el análisis final, eres tú el responsable.", "correct": false},
+    {"text": "En el análisis final, es ella la responsable.", "correct": false},
+    {"text": "En el análisis final, soy yo el responsable.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Concordancia en construcciones enfáticas con sujeto tácito",
+  "explanation": "El verbo copulativo debe concordar con el atributo ('los responsables' exige 'somos'). La opción correcta muestra el error al usar 'somos' con atributo singular."
+},
+
+{
+  "question": "Completa el período hipotético manteniendo la concordancia: 'Si ____ más atención y ____ menos distracciones, los resultados ____ diferentes.'",
+  "options": [
+    {"text": "hubiera, hubiera habido, serían", "correct": true},
+    {"text": "hubieran, hubiera, serían", "correct": false},
+    {"text": "hubiera, hubieran, sería", "correct": false},
+    {"text": "hubieran, hubieran, serían", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Condicional con sujetos implícitos diferentes",
+  "explanation": "El primer 'hubiera' refiere a 'tú' (implícito), el segundo a 'distracciones' (plural), y 'serían' concuerda con 'resultados'."
+},
+
+{
+  "question": "Identifica la oración donde la concordancia entre el relativo y su antecedente sea incorrecta:",
+  "options": [
+    {"text": "Es uno de esos artistas que nunca está satisfecho con su obra.", "correct": true},
+    {"text": "Es uno de esos artistas que nunca están satisfechos con su obra.", "correct": false},
+    {"text": "Es uno de los pocos estudiantes que ha obtenido esa beca.", "correct": false},
+    {"text": "Es una de aquellas canciones que perduran en la memoria.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Concordancia en construcciones partitivas con relativo",
+  "explanation": "El relativo 'que' debe concordar con 'artistas' (plural: 'están'), no con 'uno' (singular)."
+},
+
+{
+  "question": "Selecciona la versión correcta de esta construcción adversativa: 'No ____ los documentos, sino que ____ mal archivados.'",
+  "options": [
+    {"text": "faltan, están", "correct": true},
+    {"text": "falta, está", "correct": false},
+    {"text": "faltan, está", "correct": false},
+    {"text": "falta, están", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Coordinación adversativa con sujeto plural implícito",
+  "explanation": "'Documentos' (plural) exige 'faltan' y 'están'. La concordancia debe mantenerse en ambas proposiciones."
+},
+
+{
+  "question": "¿Cuál de estas construcciones con verbo defectivo aplica incorrectamente la concordancia?",
+  "options": [
+    {"text": "Los datos que se suelen analizar es complejo.", "correct": true},
+    {"text": "Los datos que suelen analizarse son complejos.", "correct": false},
+    {"text": "Los datos que se solían analizar eran complejos.", "correct": false},
+    {"text": "Los datos que solían analizar los expertos eran complejos.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Perífrasis con verbos defectivos + sujeto plural",
+  "explanation": "El verbo 'ser' debe concordar con 'datos' (plural: 'son'), no con el infinitivo 'analizar'."
+},
+
+{
+  "question": "Relaciona cada construcción con su problema de concordancia: A) 'Cada cual en su casa son libres', B) 'Quienes callan otorga', C) 'Varios de los asistentes ha protestado'",
+  "options": [
+    {"text": "A) Error con 'cada cual' (singular); B) Error con relativo plural; C) Error con cuantificador plural", "correct": true},
+    {"text": "A) Error de género; B) Correcta; C) Error de verbo impersonal", "correct": false},
+    {"text": "A) Correcta; B) Error de número; C) Error de sujeto colectivo", "correct": false},
+    {"text": "A) Error con indefinido; B) Error con singular genérico; C) Correcta", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Análisis de concordancias atípicas con pronombres y cuantificadores",
+  "explanation": "A) 'Cada cual' exige singular; B) 'Quienes' (plural) requiere 'otorgan'; C) 'Varios' exige 'han protestado'."
+},
+
+{
+  "question": "Completa la construcción comparativa manteniendo la concordancia: 'Tanto el director ____ los productores ____ satisfechos con el guión, aunque ____ opiniones divergentes.'",
+  "options": [
+    {"text": "como, están, hubo", "correct": true},
+    {"text": "como, está, hubo", "correct": false},
+    {"text": "como, están, habían", "correct": false},
+    {"text": "y, están, hubieron", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Estructura correlativa (tanto...como) + verbo impersonal",
+  "explanation": "'Tanto...como' exige plural ('están'). 'Hubo' (impersonal) es correcto con 'opiniones' (sujeto paciente)."
+},
+
+{
+  "question": "Selecciona la oración donde la concordancia entre el participio y el sujeto sea incorrecta:",
+  "options": [
+    {"text": "Las medidas anunciadas ha causado controversia.", "correct": true},
+    {"text": "Las medidas anunciadas han causado controversia.", "correct": false},
+    {"text": "La medida anunciada ha causado controversia.", "correct": false},
+    {"text": "Las medidas recién anunciadas causaron controversia.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Concordancia en tiempos compuestos con sujeto pospuesto",
+  "explanation": "El participio 'causado' debe concordar con 'medidas' (femenino plural: 'han causado'). 'Ha causado' es incorrecto."
+},
+
+{
+  "question": "¿Cuál de estas construcciones con 'se' pasivo reflejo viola las reglas de concordancia?",
+  "options": [
+    {"text": "Se vende libros antiguos en esta tienda.", "correct": true},
+    {"text": "Se venden libros antiguos en esta tienda.", "correct": false},
+    {"text": "En esta tienda se venden libros antiguos.", "correct": false},
+    {"text": "Aquí se vende el libro antiguo que buscabas.", "correct": false},
+    {"text": "No puedo identificar la respuesta 😥", "correct": false}
+  ],
+  "hint": "Pasiva refleja con complemento directo plural",
+  "explanation": "Con 'libros' (plural), el verbo debe ir en plural ('venden'). 'Vende' solo es válido para singular."
+}
+]
