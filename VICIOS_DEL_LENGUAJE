@@ -5,6 +5,7 @@
       {"text": "Pobreza léxica", "correct": true},
       {"text": "Barbarismo", "correct": false},
       {"text": "Anfibología", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Relacionado con la escasez de palabras.",
@@ -16,7 +17,8 @@
       {"text": "Accesar", "correct": true},
       {"text": "Libro", "correct": false},
       {"text": "Feliz", "correct": false},
-      {"text": "Coche", "correct": false}
+      {"text": "Coche", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Piensa en un verbo que a menudo se usa incorrectamente.",
     "explanation": "El verbo correcto en español es 'acceder', no 'accesar', lo que convierte a 'accesar' en un barbarismo."
@@ -27,7 +29,8 @@
       {"text": "Anfibología", "correct": true},
       {"text": "Pleonasmo", "correct": false},
       {"text": "Barbarismo", "correct": false},
-      {"text": "Pobreza léxica", "correct": false}
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Considera si la frase puede entenderse de más de una forma.",
     "explanation": "La anfibología ocurre cuando una expresión permite una doble interpretación, como en este caso, donde 'perra' puede referirse a la mascota o tener un sentido peyorativo."
@@ -38,7 +41,8 @@
       {"text": "Pleonasmo", "correct": true},
       {"text": "Solecismo", "correct": false},
       {"text": "Cacofonía", "correct": false},
-      {"text": "Anfibología", "correct": false}
+      {"text": "Anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Se trata de un uso de palabras innecesarias para la comprensión del mensaje.",
     "explanation": "El pleonasmo es el empleo de palabras innecesarias para expresar una idea que ya está implícita, como en 'te lo vuelvo a repetir', donde 'vuelvo a' es redundante."
@@ -49,7 +53,8 @@
       {"text": "Solecismo", "correct": true},
       {"text": "Barbarismo", "correct": false},
       {"text": "Anfibología", "correct": false},
-      {"text": "Pleonasmo", "correct": false}
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "No es un error de ortografía, sino de construcción gramatical.",
     "explanation": "El solecismo es una falta de sintaxis donde las palabras, aunque bien escritas, están mal implementadas o presentan errores de concordancia verbal y nominal."
@@ -60,6 +65,7 @@
       {"text": "Solecismo", "correct": true},
       {"text": "Barbarismo", "correct": false},
       {"text": "Queísmo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "El verbo 'haber' en este contexto suele conjugarse en singular.",
@@ -71,7 +77,8 @@
       {"text": "Cacofonía", "correct": true},
       {"text": "Pobreza léxica", "correct": false},
       {"text": "Anfibología", "correct": false},
-      {"text": "Pleonasmo", "correct": false}
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Piensa en cómo suena la frase.",
     "explanation": "La cacofonía es la repetición de sílabas o palabras que generan un sonido desagradable o difícil de pronunciar, como en los trabalenguas."
@@ -82,7 +89,8 @@
       {"text": "Estoy seguro que vendrá mañana", "correct": true},
       {"text": "Pienso de que conseguiremos ganar", "correct": false},
       {"text": "Me alegro de que hayas venido", "correct": false},
-      {"text": "Lo convencí de que escribiera el artículo", "correct": false}
+      {"text": "Lo convencí de que escribiera el artículo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Intenta formular la pregunta para ver si falta una preposición.",
     "explanation": "Para identificar el queísmo, se puede hacer una pregunta. En 'Estoy seguro que vendrá mañana', la pregunta correcta sería '¿De qué estás seguro?', indicando la ausencia indebida de 'de'."
@@ -93,7 +101,8 @@
       {"text": "Temo de que no llegues a tiempo", "correct": true},
       {"text": "No cabe duda de que es un gran escritor", "correct": false},
       {"text": "Es posible que nieve mañana", "correct": false},
-      {"text": "Me fijé que tenía muchas manchas en la cara", "correct": false}
+      {"text": "Me fijé que tenía muchas manchas en la cara", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Formula una pregunta con la oración para verificar si 'de' es necesario.",
     "explanation": "En 'Temo de que no llegues a tiempo', la pregunta adecuada es '¿Qué temo?', por lo tanto, la preposición 'de' es innecesaria, constituyendo un dequeísmo."
@@ -104,7 +113,8 @@
       {"text": "Afirmación", "correct": true},
       {"text": "Duda", "correct": false},
       {"text": "Negación", "correct": false},
-      {"text": "Indefinición", "correct": false}
+      {"text": "Indefinición", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Piensa en la 'ley de signos' aplicada al lenguaje.",
     "explanation": "La negación de una negación resulta en una afirmación. Por lo tanto, 'no' a '¿no vas a comer?' significa 'sí voy a comer'."
@@ -115,7 +125,8 @@
       {"text": "Solecismo", "correct": true},
       {"text": "Barbarismo", "correct": false},
       {"text": "Pleonasmo", "correct": false},
-      {"text": "Cacofonía", "correct": false}
+      {"text": "Cacofonía", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Es un error en la construcción gramatical de la frase.",
     "explanation": "La expresión 'en base a' es un solecismo porque es una construcción sintáctica incorrecta, un error en el régimen de preposiciones."
@@ -126,7 +137,8 @@
       {"text": "pobreza léxica, barbarismo, anfibología", "correct": true},
       {"text": "barbarismo, pleonasmo, solecismo", "correct": false},
       {"text": "solecismo, cacofonía, pobreza léxica", "correct": false},
-      {"text": "anfibología, queísmo, dequeísmo", "correct": false}
+      {"text": "anfibología, queísmo, dequeísmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Cada término se asocia con un tipo específico de error en el lenguaje.",
     "explanation": "La pobreza léxica es el uso repetitivo de palabras; el barbarismo es una palabra mal escrita; y la anfibología es una doble interpretación."
@@ -137,7 +149,8 @@
       {"text": "Neologismo", "correct": true},
       {"text": "Barbarismo", "correct": false},
       {"text": "Solecismo", "correct": false},
-      {"text": "Pleonasmo", "correct": false}
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Recuerda el término que se refiere a la creación de nuevas palabras aceptadas.",
     "explanation": "El neologismo es una palabra nueva en un idioma, a diferencia de los otros términos que son vicios del lenguaje que representan errores."
@@ -148,7 +161,8 @@
       {"text": "A-I; B-II; C-III", "correct": true},
       {"text": "A-II; B-I; C-III", "correct": false},
       {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-I; B-III; C-II", "correct": false}
+      {"text": "A-I; B-III; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Recuerda la regla de la pregunta para el queísmo y dequeísmo.",
     "explanation": "El queísmo es la supresión de 'de' (I); el dequeísmo es el uso indebido de 'de' (II); y el solecismo es un error sintáctico (III)."
@@ -159,7 +173,8 @@
       {"text": "Neologismo", "correct": true},
       {"text": "Cacofonía", "correct": false},
       {"text": "Barbarismo", "correct": false},
-      {"text": "Anfibología", "correct": false}
+      {"text": "Anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Uno de estos términos describe un proceso natural del idioma.",
     "explanation": "Un neologismo es una palabra o expresión nueva que se introduce en una lengua, y no se considera un vicio del lenguaje."
@@ -170,6 +185,7 @@
       {"text": "Beberé del café del que compraste", "correct": true},
       {"text": "Beberé del café que fue comprado", "correct": false},
       {"text": "Beberé el café que compraste", "correct": false},
+      {"text": "Beberé del café de que compraste", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Presta atención a la relación entre 'del' y 'que'.",
@@ -181,7 +197,8 @@
       {"text": "Anfibología", "correct": true},
       {"text": "Pleonasmo", "correct": false},
       {"text": "Solecismo", "correct": false},
-      {"text": "Barbarismo", "correct": false}
+      {"text": "Barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "La frase tiene una doble o confusa interpretación.",
     "explanation": "Es una anfibología porque la frase puede interpretarse de dos maneras: que los calcetines son de lana o que los caballeros son de lana."
@@ -192,7 +209,8 @@
       {"text": "Personificación", "correct": true},
       {"text": "Hipérbole", "correct": false},
       {"text": "Metáfora", "correct": false},
-      {"text": "Símil", "correct": false}
+      {"text": "Símil", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Implica dar cualidades humanas a algo no humano.",
     "explanation": "Es una personificación porque se le atribuye al tiempo (un concepto abstracto) una cualidad humana (ser tirano)."
@@ -203,7 +221,8 @@
       {"text": "Símil", "correct": true},
       {"text": "Metáfora", "correct": false},
       {"text": "Hipérbole", "correct": false},
-      {"text": "Personificación", "correct": false}
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "La presencia de conectores como 'como' es clave.",
     "explanation": "El símil es una comparación explícita entre dos elementos, utilizando conectores como 'como', 'parece', 'semejante a'."
@@ -214,7 +233,8 @@
       {"text": "Hipérbole", "correct": true},
       {"text": "Metáfora", "correct": false},
       {"text": "Símil", "correct": false},
-      {"text": "Personificación", "correct": false}
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Es una exageración desproporcionada.",
     "explanation": "La hipérbole es una figura retórica que consiste en una exageración desproporcionada de la realidad para enfatizar una idea."
@@ -225,7 +245,8 @@
       {"text": "metáfora, símil", "correct": true},
       {"text": "símil, metáfora", "correct": false},
       {"text": "hipérbole, personificación", "correct": false},
-      {"text": "personificación, hipérbole", "correct": false}
+      {"text": "personificación, hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Presta atención a la forma de la comparación.",
     "explanation": "'Sus cabellos de oro brillaban' es una metáfora por la comparación implícita, mientras que 'sus ojos eran como dos luceros' es un símil debido al uso de 'como'."
@@ -236,7 +257,8 @@
       {"text": "Pleonasmo", "correct": true},
       {"text": "Anfibología", "correct": false},
       {"text": "Barbarismo", "correct": false},
-      {"text": "Pobreza léxica", "correct": false}
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "La palabra 'público' resulta redundante.",
     "explanation": "'Servidor público' es un pleonasmo porque 'público' es una palabra innecesaria, ya que un servidor de gobierno se entiende que es para el público."
@@ -247,7 +269,8 @@
       {"text": "Masculino plural", "correct": true},
       {"text": "Femenino plural", "correct": false},
       {"text": "Masculino singular", "correct": false},
-      {"text": "Femenino singular", "correct": false}
+      {"text": "Femenino singular", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Es una regla de concordancia gramatical.",
     "explanation": "Según la regla de concordancia, si se mezclan géneros en un listado, el masculino en plural incluye al femenino, por lo que el verbo o característica debe estar en masculino plural."
@@ -258,7 +281,8 @@
       {"text": "Jirafas y perros viejos", "correct": true},
       {"text": "Jirafa y perro viejos", "correct": false},
       {"text": "Jirafas y perros viejas", "correct": false},
-      {"text": "Jirafas y perro viejo", "correct": false}
+      {"text": "Jirafas y perro viejo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Aplica la regla de concordancia para sustantivos de diferente género.",
     "explanation": "Debido a que 'jirafas' es femenino y 'perros' es masculino, el adjetivo que los acompaña debe ir en masculino plural: 'viejos'."
@@ -269,6 +293,7 @@
       {"text": "Se lo agradezco mucho", "correct": true},
       {"text": "Lo agradezco un montón", "correct": false},
       {"text": "Te lo agradezco mucho", "correct": false},
+      {"text": "Se lo agradezco bastante", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Considera un adverbio de cantidad más adecuado.",
@@ -280,7 +305,8 @@
       {"text": "pleonasmo, anfibología, barbarismo", "correct": true},
       {"text": "barbarismo, solecismo, pleonasmo", "correct": false},
       {"text": "anfibología, cacofonía, pobreza léxica", "correct": false},
-      {"text": "queísmo, dequeísmo, solecismo", "correct": false}
+      {"text": "queísmo, dequeísmo, solecismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Cada término tiene una definición precisa relacionada con la redundancia, la ambigüedad o el error ortográfico.",
     "explanation": "El pleonasmo es la redundancia, la anfibología es la doble interpretación y el barbarismo es una palabra mal escrita."
@@ -291,7 +317,8 @@
       {"text": "Cacofonía", "correct": true},
       {"text": "Barbarismo", "correct": false},
       {"text": "Pleonasmo", "correct": false},
-      {"text": "Anfibología", "correct": false}
+      {"text": "Anfibología", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Piensa en el efecto del sonido en la pronunciación.",
     "explanation": "La cacofonía es la repetición molesta y desagradable de sonidos similares dentro de una frase o verso, haciendo la pronunciación incómoda."
@@ -302,6 +329,7 @@
       {"text": "Por la ambigüedad sobre quién tiene la experiencia", "correct": true},
       {"text": "Por la repetición de palabras innecesarias en el mensaje", "correct": false},
       {"text": "Por un error gramatical en la conjugación del verbo 'buscar'", "correct": false},
+      {"text": "Por la mala escritura de alguna palabra", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "La pregunta clave es ¿quién posee la característica?",
@@ -313,7 +341,8 @@
       {"text": "Son difíciles de detectar sin un análisis consciente", "correct": true},
       {"text": "Son fáciles de identificar en el habla cotidiana", "correct": false},
       {"text": "Siempre requieren una corrección inmediata por parte de terceros", "correct": false},
-      {"text": "No son considerados errores graves en la comunicación formal", "correct": false}
+      {"text": "No son considerados errores graves en la comunicación formal", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "La naturaleza 'viciosa' implica falta de control.",
     "explanation": "Los vicios del lenguaje son difíciles de detectar porque se aprenden y usan comúnmente, lo que significa que a menudo no somos conscientes de que estamos cometiendo un error."
@@ -324,7 +353,8 @@
       {"text": "Barbarismo", "correct": true},
       {"text": "Solecismo", "correct": false},
       {"text": "Cacofonía", "correct": false},
-      {"text": "Pobreza léxica", "correct": false}
+      {"text": "Pobreza léxica", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Implica una falta de ortografía recurrente.",
     "explanation": "Escribir '¿qué haces?' con 'Q' es un barbarismo, ya que es una falta de ortografía constante y recurrente que se vuelve un vicio."
@@ -335,6 +365,7 @@
       {"text": "El neologismo es un desarrollo natural y no un error", "correct": true},
       {"text": "El neologismo es un error que debe evitarse siempre", "correct": false},
       {"text": "El neologismo siempre se convierte en un barbarismo", "correct": false},
+      {"text": "El neologismo es un tipo de solecismo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Considera la naturaleza de la evolución del idioma.",
@@ -346,7 +377,8 @@
       {"text": "Barbarismo", "correct": true},
       {"text": "Solecismo", "correct": false},
       {"text": "Anfibología", "correct": false},
-      {"text": "Cacofonía", "correct": false}
+      {"text": "Cacofonía", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Se refiere a palabras mal empleadas o de origen foráneo.",
     "explanation": "El barbarismo abarca el uso de palabras incorrectas en su forma, pronunciación, significado o la inclusión innecesaria de extranjerismos."
@@ -357,7 +389,8 @@
       {"text": "pleonasmo", "correct": true},
       {"text": "anfibología", "correct": false},
       {"text": "barbarismo", "correct": false},
-      {"text": "solecismo", "correct": false}
+      {"text": "solecismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Busca la redundancia en el significado.",
     "explanation": "Ambas frases son pleonasmos porque contienen palabras innecesarias que reiteran una idea ya expresada en la misma frase."
@@ -368,7 +401,8 @@
       {"text": "En la foto parece que aparece un fantasma", "correct": true},
       {"text": "Subió para arriba", "correct": false},
       {"text": "Lo vi con mis propios ojos", "correct": false},
-      {"text": "Pienso de que es buena idea", "correct": false}
+      {"text": "Pienso de que es buena idea", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Identifica la repetición de sonidos.",
     "explanation": "La frase 'En la foto parece que aparece un fantasma' presenta cacofonía por la repetición del sonido 'parece' y 'aparece', lo que la hace sonar desagradable."
@@ -379,7 +413,8 @@
       {"text": "Queísmo", "correct": true},
       {"text": "Dequeísmo", "correct": false},
       {"text": "Solecismo", "correct": false},
-      {"text": "Barbarismo", "correct": false}
+      {"text": "Barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Se relaciona con la omisión de una preposición.",
     "explanation": "Se corrigió un queísmo, ya que se añadió la preposición 'de' que estaba indebidamente suprimida antes de 'que'."
@@ -390,7 +425,8 @@
       {"text": "Cacofonía", "correct": true},
       {"text": "Pobreza léxica", "correct": false},
       {"text": "Anfibología", "correct": false},
-      {"text": "Pleonasmo", "correct": false}
+      {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "El problema radica en la sonoridad de la expresión.",
     "explanation": "Es una cacofonía por la repetición del sonido 'pa' y 'para', lo que hace la frase menos fluida y armoniosa."
@@ -401,7 +437,8 @@
       {"text": "A-III; B-I; C-II", "correct": true},
       {"text": "A-I; B-II; C-III", "correct": false},
       {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "A-III; B-II; C-I", "correct": false}
+      {"text": "A-III; B-II; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Asocia cada vicio con su característica principal.",
     "explanation": "La pobreza léxica es vocabulario limitado (III); el barbarismo es el uso de palabras mal escritas (I); y la cacofonía es la repetición de sonidos (II)."
@@ -412,6 +449,7 @@
       {"text": "Son estructuras gramaticales que no cumplen las reglas y son difíciles de detectar", "correct": true},
       {"text": "Son figuras retóricas utilizadas intencionalmente para embellecer el texto", "correct": false},
       {"text": "Son errores gramaticales que siempre son obvios para cualquier hablante", "correct": false},
+      {"text": "Son exclusivos del lenguaje escrito", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Recuerda la definición de los vicios del lenguaje.",
@@ -423,7 +461,8 @@
       {"text": "culto, técnico", "correct": true},
       {"text": "coloquial, formal", "correct": false},
       {"text": "informal, especializado", "correct": false},
-      {"text": "vulgar, culto", "correct": false}
+      {"text": "vulgar, culto", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Se refiere al nivel más elevado y preciso del idioma.",
     "explanation": "Se espera que los estudiantes alcancen el lenguaje culto, que se refiere al uso técnico y apropiado del idioma en su área de conocimiento."
@@ -434,7 +473,8 @@
       {"text": "maximizar o embellecer", "correct": true},
       {"text": "simplificar o resumir", "correct": false},
       {"text": "confundir o complicar", "correct": false},
-      {"text": "reiterar o corregir", "correct": false}
+      {"text": "reiterar o corregir", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Su función es artística o expresiva.",
     "explanation": "Las figuras retóricas son herramientas lingüísticas utilizadas para maximizar o embellecer el texto, dándole una función poética al lenguaje."
@@ -445,7 +485,8 @@
       {"text": "Sus ojos eran dos luceros", "correct": true},
       {"text": "Corría tan rápido como un rayo", "correct": false},
       {"text": "Tengo tanta hambre que me comería un elefante", "correct": false},
-      {"text": "El sol sonreía a la mañana", "correct": false}
+      {"text": "El sol sonreía a la mañana", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Busca una comparación implícita, sin conectores.",
     "explanation": "'Sus ojos eran dos luceros' es una metáfora porque se establece una comparación indirecta sin el uso de nexos comparativos explícitos."
@@ -456,7 +497,8 @@
       {"text": "La luna se asomaba tímidamente entre las nubes", "correct": true},
       {"text": "Lloré ríos de lágrimas", "correct": false},
       {"text": "Era tan alto como un gigante", "correct": false},
-      {"text": "Sus cabellos de oro brillaban", "correct": false}
+      {"text": "Sus cabellos de oro brillaban", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Piensa en acciones humanas atribuidas a algo no humano.",
     "explanation": "La frase 'La luna se asomaba tímidamente entre las nubes' es una personificación, ya que 'asomarse tímidamente' es una acción propia de seres humanos."
@@ -467,7 +509,8 @@
       {"text": "Hipérbole", "correct": true},
       {"text": "Símil", "correct": false},
       {"text": "Metáfora", "correct": false},
-      {"text": "Personificación", "correct": false}
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Es una exageración para expresar una emoción intensa.",
     "explanation": "Es una hipérbole, ya que 'lloré ríos de lágrimas' es una exageración desproporcionada para expresar la intensidad del llanto."
@@ -478,7 +521,8 @@
       {"text": "metáfora", "correct": true},
       {"text": "símil", "correct": false},
       {"text": "hipérbole", "correct": false},
-      {"text": "personificación", "correct": false}
+      {"text": "personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Se refiere a una comparación implícita.",
     "explanation": "La metáfora es una comparación indirecta que se establece sin la necesidad de nexos comparativos explícitos."
@@ -489,7 +533,8 @@
       {"text": "Símil", "correct": true},
       {"text": "Metáfora", "correct": false},
       {"text": "Hipérbole", "correct": false},
-      {"text": "Personificación", "correct": false}
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "La palabra 'como' es la clave.",
     "explanation": "Es un símil porque utiliza el conector 'como' para establecer una comparación explícita entre la persona y un ogro."
@@ -500,7 +545,8 @@
       {"text": "hipérbole", "correct": true},
       {"text": "personificación", "correct": false},
       {"text": "metáfora", "correct": false},
-      {"text": "símil", "correct": false}
+      {"text": "símil", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Es una frase que magnifica la realidad para dar un efecto dramático.",
     "explanation": "Es una hipérbole, ya que la frase 'me van a salir raíces' es una exageración para expresar que se ha esperado por un tiempo excesivamente largo."
@@ -511,6 +557,7 @@
       {"text": "Aiga", "correct": true},
       {"text": "Monstruo", "correct": false},
       {"text": "Diabetes", "correct": false},
+      {"text": "Persona", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Busca la palabra que está incorrectamente formada.",
@@ -522,6 +569,7 @@
       {"text": "Subir para arriba", "correct": true},
       {"text": "Ella dijo que iría", "correct": false},
       {"text": "Él anduvo por el parque", "correct": false},
+      {"text": "Nos vemos luego", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Implica una redundancia obvia.",
@@ -533,7 +581,8 @@
       {"text": "anfibología", "correct": true},
       {"text": "pleonasmo", "correct": false},
       {"text": "solecismo", "correct": false},
-      {"text": "barbarismo", "correct": false}
+      {"text": "barbarismo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Piensa en la ambigüedad que puede generar.",
     "explanation": "Es una anfibología porque no queda claro si la cuna es de madera o si los niños son de madera."
@@ -544,6 +593,7 @@
       {"text": "pobreza léxica", "correct": true},
       {"text": "cacofonía", "correct": false},
       {"text": "solecismo", "correct": false},
+      {"text": "anfibología", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Se relaciona con la falta de diversidad en el vocabulario.",
@@ -555,7 +605,8 @@
       {"text": "A-II; B-I; C-III", "correct": true},
       {"text": "A-I; B-II; C-III", "correct": false},
       {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-II; B-III; C-I", "correct": false}
+      {"text": "A-II; B-III; C-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Asocia cada vicio con su efecto en el lenguaje.",
     "explanation": "La anfibología permite doble interpretación (II); el pleonasmo usa palabras innecesarias (I); y la pobreza léxica es la repetición de palabras (III)."
@@ -566,6 +617,7 @@
       {"text": "Quería agradecerte de venir", "correct": true},
       {"text": "Voy a lavarme las manos", "correct": false},
       {"text": "Se lo agradezco mucho", "correct": false},
+      {"text": "El libro es interesante", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Presta atención al uso de la preposición.",
@@ -577,6 +629,7 @@
       {"text": "Las diputadas y los diputados", "correct": true},
       {"text": "Los diputados y las diputadas", "correct": false},
       {"text": "Los y las diputados", "correct": false},
+      {"text": "Las diputadas y diputados", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Cada artículo debe ir seguido de su sustantivo correspondiente si se enfatizan ambos géneros.",
@@ -588,6 +641,7 @@
       {"text": "Cacofonía", "correct": true},
       {"text": "Anfibología", "correct": false},
       {"text": "Solecismo", "correct": false},
+      {"text": "Pleonasmo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "El problema se relaciona con el sonido repetitivo.",
@@ -599,6 +653,7 @@
       {"text": "Solecismo", "correct": true},
       {"text": "Queísmo", "correct": false},
       {"text": "Dequeísmo", "correct": false},
+      {"text": "Barbarismo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Las preguntas negativas pueden sugestionar la respuesta.",
@@ -610,7 +665,8 @@
       {"text": "pleonasmo", "correct": true},
       {"text": "anfibología", "correct": false},
       {"text": "cacofonía", "correct": false},
-      {"text": "queísmo", "correct": false}
+      {"text": "queísmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Implica la repetición de una cualidad inherente.",
     "explanation": "Es un pleonasmo porque 'hielo' ya implica que es 'frío', haciendo el adjetivo redundante."
@@ -621,6 +677,7 @@
       {"text": "El joven y el señor vinieron a verme y tomó su maletín y se fue", "correct": true},
       {"text": "Te lo vuelvo a repetir", "correct": false},
       {"text": "Lo vi con mis propios ojos", "correct": false},
+      {"text": "El libro está sobre la mesa", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Hay un problema de concordancia o referencia ambigua del sujeto en la segunda parte de la oración.",
@@ -632,6 +689,7 @@
       {"text": "La adición de una 's' al final del verbo conjugado", "correct": true},
       {"text": "La conjugación del verbo en un tiempo incorrecto", "correct": false},
       {"text": "El uso de un pronombre indebido en la pregunta", "correct": false},
+      {"text": "La omisión de un signo de interrogación", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Se relaciona con la forma común de conjugar verbos en pasado.",
@@ -643,7 +701,8 @@
       {"text": "Personificación", "correct": true},
       {"text": "Metáfora", "correct": false},
       {"text": "Símil", "correct": false},
-      {"text": "Hipérbole", "correct": false}
+      {"text": "Hipérbole", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Implica la atribución de cualidades animadas.",
     "explanation": "La personificación es una figura retórica que atribuye cualidades o acciones propias de los seres humanos a objetos inanimados, animales o conceptos abstractos."
@@ -654,845 +713,250 @@
       {"text": "A-III; B-II; C-I", "correct": true},
       {"text": "A-I; B-II; C-III", "correct": false},
       {"text": "A-II; B-III; C-I", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false}
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
     "hint": "Presta atención a si la comparación es explícita o implícita y si hay exageración.",
     "explanation": "La metáfora es una comparación indirecta (III); el símil es una comparación directa con nexos (II); y la hipérbole es una exageración (I)."
   },
   {
-    "question": "Identifica la figura retórica en la frase: \"Mi intención es de que no participemos todos\", donde la preposición 'de' es innecesaria.",
+    "question": "Identifica la metáfora en la siguiente lista de frases:",
     "options": [
-      {"text": "Dequeísmo", "correct": true},
-      {"text": "Queísmo", "correct": false},
-      {"text": "Solecismo", "correct": false},
+      {"text": "Sus ojos eran dos luceros", "correct": true},
+      {"text": "Corría tan rápido como un rayo", "correct": false},
+      {"text": "Tengo tanta hambre que me comería un elefante", "correct": false},
+      {"text": "El sol sonreía a la mañana", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Recuerda la regla de la pregunta '¿qué?' para identificar este vicio.",
-    "explanation": "Es un dequeísmo porque la pregunta '¿Qué intención tengo?' no requiere la preposición 'de', haciendo su uso incorrecto."
+    "hint": "Busca una comparación implícita, sin conectores.",
+    "explanation": "'Sus ojos eran dos luceros' es una metáfora porque se establece una comparación indirecta sin el uso de nexos comparativos explícitos."
   },
   {
-    "question": "La expresión \"Te amaré por siempre\" contiene un solecismo. ¿Cuál es la forma correcta de esta frase?",
+    "question": "¿Cuál de las siguientes frases presenta una personificación?",
     "options": [
-      {"text": "Te amaré para siempre", "correct": true},
-      {"text": "Te amaré siempre", "correct": false},
-      {"text": "Por siempre te amaré", "correct": false},
+      {"text": "La luna se asomaba tímidamente entre las nubes", "correct": true},
+      {"text": "Lloré ríos de lágrimas", "correct": false},
+      {"text": "Era tan alto como un gigante", "correct": false},
+      {"text": "Sus cabellos de oro brillaban", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Considera la preposición adecuada para indicar duración.",
-    "explanation": "La forma correcta es 'Te amaré para siempre', ya que 'para' es la preposición adecuada para expresar duración en este contexto."
+    "hint": "Piensa en acciones humanas atribuidas a algo no humano.",
+    "explanation": "La frase 'La luna se asomaba tímidamente entre las nubes' es una personificación, ya que 'asomarse tímidamente' es una acción propia de seres humanos."
   },
   {
-    "question": "Un __________ es una doble interpretación de una expresión, un __________ es el uso de palabras innecesarias, y la __________ es la repetición molesta de sonidos.",
+    "question": "En la frase \"Lloré ríos de lágrimas\", ¿qué figura retórica se utiliza para enfatizar la cantidad de llanto?",
     "options": [
-      {"text": "anfibología, pleonasmo, cacofonía", "correct": true},
-      {"text": "pleonasmo, anfibología, solecismo", "correct": false},
-      {"text": "cacofonía, barbarismo, pobreza léxica", "correct": false},
-      {"text": "solecismo, queísmo, dequeísmo", "correct": false}
-    ],
-    "hint": "Cada término describe un tipo específico de error o característica lingüística.",
-    "explanation": "La anfibología es una doble interpretación; el pleonasmo es el uso de palabras innecesarias; y la cacofonía es la repetición molesta de sonidos."
-  },
-  {
-    "question": "Si una persona utiliza frecuentemente los términos \"esto\", \"eso\" o \"aquello\" para referirse a objetos específicos, ¿qué vicio del lenguaje está cometiendo?",
-    "options": [
-      {"text": "Pobreza léxica", "correct": true},
-      {"text": "Barbarismo", "correct": false},
-      {"text": "Anfibología", "correct": false},
-      {"text": "Pleonasmo", "correct": false}
-    ],
-    "hint": "Se relaciona con la falta de un vocabulario más preciso.",
-    "explanation": "El uso constante de demostrativos sin especificar el nombre del objeto es un indicio de pobreza léxica, ya que el hablante no utiliza un vocabulario más amplio y preciso."
-  },
-  {
-    "question": "La expresión \"repite el de nuevo\" contiene un pleonasmo. ¿Cuál es la palabra que genera la redundancia?",
-    "options": [
-      {"text": "De nuevo", "correct": true},
-      {"text": "Repite", "correct": false},
-      {"text": "El", "correct": false},
+      {"text": "Hipérbole", "correct": true},
+      {"text": "Símil", "correct": false},
+      {"text": "Metáfora", "correct": false},
+      {"text": "Personificación", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Una de las palabras repite la idea de la acción principal.",
-    "explanation": "'De nuevo' es redundante porque el verbo 'repetir' ya implica que algo se hace una vez más."
+    "hint": "Es una exageración para expresar una emoción intensa.",
+    "explanation": "Es una hipérbole, ya que 'lloré ríos de lágrimas' es una exageración desproporcionada para expresar la intensidad del llanto."
   },
   {
-    "question": "¿Cuál de las siguientes es una característica principal de los barbarismos?",
-    "options": [
-      {"text": "Palabras mal implementadas o con errores en su utilización", "correct": true},
-      {"text": "Doble interpretación de una expresión", "correct": false},
-      {"text": "Empleo de palabras innecesarias", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Piensa en errores de forma o uso de palabras foráneas.",
-    "explanation": "Los barbarismos son palabras que están mal implementadas, mal escritas o tienen errores en su utilización, incluyendo extranjerismos innecesarios."
-  },
-  {
-    "question": "El vicio del lenguaje que se produce por la omisión indebida de una preposición (como 'de' o 'en') antes de la conjunción 'que' se denomina __________.",
-    "options": [
-      {"text": "queísmo", "correct": true},
-      {"text": "dequeísmo", "correct": false},
-      {"text": "solecismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se relaciona con la falta de una preposición necesaria.",
-    "explanation": "El queísmo es la supresión indebida de una preposición, generalmente 'de', antes de la conjunción 'que'."
-  },
-  {
-    "question": "La oración \"Es posible de que nieve mañana\" contiene un dequeísmo. ¿Cuál es la pregunta que se utiliza para corregirlo, y cuál es la forma correcta?",
-    "options": [
-      {"text": "¿Qué es posible?, Es posible que nieve mañana", "correct": true},
-      {"text": "¿De qué es posible?, Es posible de que nieve mañana", "correct": false},
-      {"text": "¿Cómo es posible?, Es posible como que nieve mañana", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "La pregunta correcta no debe incluir la preposición 'de'.",
-    "explanation": "La pregunta correcta es '¿Qué es posible?', por lo tanto, la forma correcta de la oración es 'Es posible que nieve mañana', eliminando el 'de' indebido."
-  },
-  {
-    "question": "En el contexto de la lingüística, la polisemia se refiere a cuando a una palabra se le pueden dar diferentes interpretaciones. ¿Qué vicio del lenguaje puede surgir a raíz de la polisemia si no se utiliza el contexto adecuado?",
-    "options": [
-      {"text": "Anfibología", "correct": true},
-      {"text": "Pobreza léxica", "correct": false},
-      {"text": "Cacofonía", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "La ambigüedad es la clave.",
-    "explanation": "La anfibología es un vicio del lenguaje que puede surgir de la polisemia cuando una palabra o frase permite múltiples interpretaciones, creando confusión."
-  },
-  {
-    "question": "Relaciona las figuras retóricas con su descripción: A) Personificación, B) Hipérbole, C) Símil; I) Exageración desproporcionada, II) Atribución de cualidades humanas a seres no humanos, III) Comparación explícita usando nexos.",
-    "options": [
-      {"text": "A-II; B-I; C-III", "correct": true},
-      {"text": "A-I; B-II; C-III", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-II; B-III; C-I", "correct": false}
-    ],
-    "hint": "Asocia cada figura con su técnica expresiva.",
-    "explanation": "La personificación atribuye cualidades humanas (II); la hipérbole es una exageración (I); y el símil es una comparación explícita (III)."
-  },
-  {
-    "question": "La expresión \"lo vi con mis propios ojos\" es un ejemplo de __________.",
-    "options": [
-      {"text": "pleonasmo", "correct": true},
-      {"text": "anfibología", "correct": false},
-      {"text": "solecismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Una de las palabras es redundante.",
-    "explanation": "Es un pleonasmo porque 'con mis propios ojos' es una expresión redundante, ya que la acción de 'ver' implica el uso de los ojos."
-  },
-  {
-    "question": "Un __________ es cuando las palabras están muy mal implementadas o mal escritas, como el uso de 'diabetes' en lugar de 'diabetes'.",
-    "options": [
-      {"text": "barbarismo", "correct": true},
-      {"text": "solecismo", "correct": false},
-      {"text": "cacofonía", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se refiere a errores en la forma o escritura de una palabra.",
-    "explanation": "El uso de 'diabetes' en lugar de 'diabetes' es un barbarismo, que son palabras mal implementadas o mal escritas, a menudo por errores en la vocalización."
-  },
-  {
-    "question": "La figura retórica que se utiliza para establecer una relación de semejanza entre dos elementos que no están explícitamente conectados, sustituyendo un término por otro, es la __________.",
+    "question": "La figura retórica que se reconoce por la ausencia de nexos comparativos como 'como' o 'parece' es la __________.",
     "options": [
       {"text": "metáfora", "correct": true},
       {"text": "símil", "correct": false},
       {"text": "hipérbole", "correct": false},
+      {"text": "personificación", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Es una comparación implícita.",
-    "explanation": "La metáfora es una figura retórica que establece una comparación indirecta, sustituyendo un término por otro sin conectores explícitos."
+    "hint": "Se refiere a una comparación implícita.",
+    "explanation": "La metáfora es una comparación indirecta que se establece sin la necesidad de nexos comparativos explícitos."
   },
   {
-    "question": "En la frase \"El sol sonreía a la mañana\", ¿qué figura retórica atribuye una acción humana (sonreír) al sol?",
+    "question": "Si una oración dice \"Se puso como ogro\" para describir a alguien enojado, ¿qué figura retórica se está utilizando?",
     "options": [
-      {"text": "Personificación", "correct": true},
-      {"text": "Hipérbole", "correct": false},
+      {"text": "Símil", "correct": true},
       {"text": "Metáfora", "correct": false},
-      {"text": "Símil", "correct": false}
+      {"text": "Hipérbole", "correct": false},
+      {"text": "Personificación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Piensa en dar vida a un objeto inanimado.",
-    "explanation": "Es una personificación porque se le atribuye la acción de 'sonreír' al sol, que es un objeto inanimado."
+    "hint": "La palabra 'como' es la clave.",
+    "explanation": "Es un símil porque utiliza el conector 'como' para establecer una comparación explícita entre la persona y un ogro."
   },
   {
-    "question": "La figura retórica que consiste en una exageración desproporcionada de la realidad para dar énfasis a una idea es la __________.",
+    "question": "La expresión \"me van a salir raíces\" es un ejemplo de __________ porque exagera el tiempo de espera.",
     "options": [
       {"text": "hipérbole", "correct": true},
+      {"text": "personificación", "correct": false},
       {"text": "metáfora", "correct": false},
       {"text": "símil", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Se utiliza para magnificar una cualidad o acción.",
-    "explanation": "La hipérbole es una exageración desproporcionada que busca impactar o enfatizar una idea."
+    "hint": "Es una frase que magnifica la realidad para dar un efecto dramático.",
+    "explanation": "Es una hipérbole, ya que la frase 'me van a salir raíces' es una exageración para expresar que se ha esperado por un tiempo excesivamente largo."
   },
   {
-    "question": "La figura retórica que compara explícitamente dos elementos usando conectores como 'cual', 'parece', 'semejante a' es el __________.",
+    "question": "Identifica el barbarismo en la siguiente lista de palabras:",
     "options": [
-      {"text": "símil", "correct": true},
-      {"text": "metáfora", "correct": false},
-      {"text": "hipérbole", "correct": false},
+      {"text": "Aiga", "correct": true},
+      {"text": "Monstruo", "correct": false},
+      {"text": "Diabetes", "correct": false},
+      {"text": "Persona", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Los conectores son la clave de este tipo de comparación.",
-    "explanation": "El símil se distingue por el uso de conectores comparativos que hacen explícita la relación de semejanza entre los elementos."
+    "hint": "Busca la palabra que está incorrectamente formada.",
+    "explanation": "'Aiga' es un barbarismo porque la forma correcta del verbo 'haber' en subjuntivo es 'haya'."
   },
   {
-    "question": "Relaciona correctamente los vicios del lenguaje: A) Barbarismo, B) Solecismo, C) Anfibología; I) Errores en la conjugación o concordancia, II) Palabras mal escritas o extranjerismos innecesarios, III) Expresiones con doble interpretación.",
+    "question": "¿Cuál de las siguientes expresiones ilustra un pleonasmo?",
     "options": [
-      {"text": "A-II; B-I; C-III", "correct": true},
-      {"text": "A-I; B-II; C-III", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-II; B-III; C-I", "correct": false}
-    ],
-    "hint": "Cada vicio tiene un tipo de error característico.",
-    "explanation": "El barbarismo se refiere a palabras mal escritas o extranjerismos (II); el solecismo son errores de concordancia (I); y la anfibología tiene doble interpretación (III)."
-  },
-  {
-    "question": "Un vicio del lenguaje se diferencia de una figura retórica en que el vicio es un error involuntario. ¿Cuál de los siguientes podría ser tanto un vicio como una figura retórica dependiendo de la intención del hablante?",
-    "options": [
-      {"text": "Pleonasmo", "correct": true},
-      {"text": "Barbarismo", "correct": false},
-      {"text": "Pobreza léxica", "correct": false},
-      {"text": "Cacofonía", "correct": false}
-    ],
-    "hint": "Algunas repeticiones pueden ser con intención de énfasis.",
-    "explanation": "El pleonasmo puede ser un vicio si es involuntario, pero si se usa con una intención enfática o poética, se considera una figura retórica."
-  },
-  {
-    "question": "En la frase \"Estoy seguro que vendrá mañana\", se omite una preposición necesaria. Este vicio del lenguaje se denomina __________.",
-    "options": [
-      {"text": "queísmo", "correct": true},
-      {"text": "dequeísmo", "correct": false},
-      {"text": "solecismo", "correct": false},
+      {"text": "Subir para arriba", "correct": true},
+      {"text": "Ella dijo que iría", "correct": false},
+      {"text": "Él anduvo por el parque", "correct": false},
+      {"text": "Nos vemos luego", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Se trata de la ausencia de una palabra clave.",
-    "explanation": "Es un queísmo la omisión indebida de la preposición 'de' antes de 'que', siendo la forma correcta 'Estoy seguro de que vendrá mañana'."
+    "hint": "Implica una redundancia obvia.",
+    "explanation": "'Subir para arriba' es un pleonasmo ya que el verbo 'subir' por sí mismo ya indica la dirección hacia arriba."
   },
   {
-    "question": "¿Cuál de las siguientes es una característica de la pobreza léxica?",
-    "options": [
-      {"text": "Uso constante y repetitivo de las mismas palabras", "correct": true},
-      {"text": "Errores en la ortografía de las palabras", "correct": false},
-      {"text": "Confusión en la interpretación de las frases", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se relaciona con un vocabulario limitado.",
-    "explanation": "La pobreza léxica se manifiesta en el uso repetitivo de un vocabulario limitado, lo que empobrece la expresión y la claridad del mensaje."
-  },
-  {
-    "question": "Si una oración es gramaticalmente incorrecta debido a un error en la concordancia o en el régimen de preposiciones, se considera un __________.",
-    "options": [
-      {"text": "solecismo", "correct": true},
-      {"text": "barbarismo", "correct": false},
-      {"text": "anfibología", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Es un error de sintaxis.",
-    "explanation": "El solecismo es una construcción sintáctica incorrecta, un error en la concordancia o en el régimen de preposiciones."
-  },
-  {
-    "question": "La expresión \"Se busca un empleado para restaurante con experiencia\" es una anfibología. ¿Qué se podría hacer para corregir la ambigüedad?",
-    "options": [
-      {"text": "Reorganizar la frase para que la experiencia se refiera claramente al empleado", "correct": true},
-      {"text": "Añadir un adverbio que clarifique la frase", "correct": false},
-      {"text": "Eliminar la palabra 'experiencia' de la oración", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "La clave está en la estructura de la oración para eliminar la doble interpretación.",
-    "explanation": "Para corregir la anfibología, se debe reestructurar la frase para que la experiencia se asocie inequívocamente al empleado, por ejemplo, 'Se busca empleado con experiencia para restaurante'."
-  },
-  {
-    "question": "El uso de expresiones como \"subir para arriba\", \"entrar para adentro\" o \"salir para afuera\" son ejemplos de __________.",
-    "options": [
-      {"text": "pleonasmos", "correct": true},
-      {"text": "solecismos", "correct": false},
-      {"text": "cacofonías", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Implica la repetición innecesaria de ideas.",
-    "explanation": "Estos son pleonasmos porque los verbos 'subir', 'entrar' y 'salir' ya implican la dirección, haciendo la adición de 'para arriba', 'para adentro' y 'para afuera' redundante."
-  },
-  {
-    "question": "¿Qué vicio del lenguaje se manifiesta cuando la construcción \"a nivel de\" se utiliza indiscriminadamente en lugar de preposiciones más precisas como \"en\", \"desde\", \"según\" o \"con respecto a\", denotando imprecisión en el uso?",
-    "options": [
-      {"text": "Solecismo", "correct": true},
-      {"text": "Pobreza léxica", "correct": false},
-      {"text": "Barbarismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Implica una falta de precisión gramatical en la preposición.",
-    "explanation": "El uso excesivo e impreciso de 'a nivel de' en lugar de preposiciones más exactas es un solecismo, ya que es un error en la construcción sintáctica o régimen de preposiciones."
-  },
-  {
-    "question": "En un informe técnico, el uso repetitivo del verbo \"realizar\" para describir diversas acciones (e.g., \"realizar un análisis\", \"realizar una visita\", \"realizar una compra\") constituye un vicio del lenguaje. ¿Cuál es este vicio?",
-    "options": [
-      {"text": "Pobreza léxica", "correct": true},
-      {"text": "Barbarismo", "correct": false},
-      {"text": "Pleonasmo", "correct": false},
-      {"text": "Anfibología", "correct": false}
-    ],
-    "hint": "Se refiere a la limitación en el vocabulario.",
-    "explanation": "La reiteración de un verbo genérico como 'realizar' en lugar de sinónimos más específicos ('ejecutar', 'efectuar', 'llevar a cabo', 'comprar') denota pobreza léxica."
-  },
-  {
-    "question": "La construcción \"El alumno que le entregué el libro no vino hoy\" presenta un queísmo. ¿Cuál es la preposición que se ha omitido indebidamente?",
-    "options": [
-      {"text": "A", "correct": true},
-      {"text": "De", "correct": false},
-      {"text": "Por", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Considera la pregunta '¿a quién le entregué?'.",
-    "explanation": "El queísmo consiste en la omisión de la preposición necesaria. La construcción correcta sería 'El alumno a quien le entregué el libro no vino hoy'."
-  },
-  {
-    "question": "La frase \"Cuando fuimos al banco, vimos un perro que ladraba con una cadena\" es un ejemplo de anfibología. ¿Cuál es la fuente de la ambigüedad en esta oración?",
-    "options": [
-      {"text": "La posesión de la cadena", "correct": true},
-      {"text": "El lugar donde ladraba el perro", "correct": false},
-      {"text": "La acción de ladrar del perro", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Piensa en qué o quién tiene la cadena.",
-    "explanation": "La ambigüedad reside en si el perro o el banco (o incluso la persona) es quien tiene la cadena, lo que permite una doble interpretación y, por ende, es una anfibología."
-  },
-  {
-    "question": "Identifica el pleonasmo en la siguiente expresión:",
-    "options": [
-      {"text": "Caminar a pie", "correct": true},
-      {"text": "Ver una película", "correct": false},
-      {"text": "Entrar a la casa", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Una acción ya implica el uso de una parte del cuerpo.",
-    "explanation": "'Caminar a pie' es un pleonasmo, ya que el acto de caminar inherentemente se realiza con los pies."
-  },
-  {
-    "question": "El uso del extranjerismo \"e-mail\" en documentos formales en español, teniendo equivalentes como \"correo electrónico\", se considera un __________.",
-    "options": [
-      {"text": "barbarismo", "correct": true},
-      {"text": "solecismo", "correct": false},
-      {"text": "pobreza léxica", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se refiere a una palabra de otro idioma que tiene un equivalente en español.",
-    "explanation": "El empleo innecesario de un extranjerismo como 'e-mail' cuando existe un término equivalente en español ('correo electrónico') es un barbarismo."
-  },
-  {
-    "question": "La frase \"Comí lo que comí y me enfermé\" es un ejemplo de cacofonía. ¿Cuál es la razón principal de este vicio?",
-    "options": [
-      {"text": "La repetición del sonido 'comí'", "correct": true},
-      {"text": "La ambigüedad en lo que se comió", "correct": false},
-      {"text": "El uso de un verbo incorrecto", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "El problema radica en la sonoridad y la repetición de fonemas.",
-    "explanation": "La cacofonía se produce por la repetición del sonido 'comí', lo que crea una sonoridad desagradable y dificulta la fluidez de la frase."
-  },
-  {
-    "question": "Identifica la opción que presenta un solecismo:",
-    "options": [
-      {"text": "Venderé mi auto y los accesorios por separado", "correct": true},
-      {"text": "El libro que me prestaste es muy interesante", "correct": false},
-      {"text": "Fuimos al cine ayer", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Presta atención a la concordancia o a la estructura gramatical.",
-    "explanation": "La frase 'Venderé mi auto y los accesorios por separado' es un solecismo, ya que la concordancia debería ser 'Venderé mi auto y los accesorios, por separado' o 'Venderé mi auto y los accesorios de forma separada'."
-  },
-  {
-    "question": "La expresión \"Me alegro de que hayas venido\" es correcta. Sin embargo, si se dijera \"Me alegro que hayas venido\", ¿qué vicio del lenguaje se cometería?",
-    "options": [
-      {"text": "Queísmo", "correct": true},
-      {"text": "Dequeísmo", "correct": false},
-      {"text": "Solecismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se relaciona con la omisión de una preposición necesaria.",
-    "explanation": "La omisión de la preposición 'de' en 'Me alegro que hayas venido' convierte la frase en un queísmo, ya que el verbo 'alegrarse' requiere la preposición 'de'."
-  },
-  {
-    "question": "La frase \"Pienso de que deberíamos estudiar más\" contiene un dequeísmo. ¿Cuál es la forma correcta de expresar esta idea?",
-    "options": [
-      {"text": "Pienso que deberíamos estudiar más", "correct": true},
-      {"text": "Creo de que deberíamos estudiar más", "correct": false},
-      {"text": "Considero de que deberíamos estudiar más", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Formula la pregunta '¿qué pienso?' para verificar la necesidad de 'de'.",
-    "explanation": "El dequeísmo se corrige eliminando la preposición 'de' cuando no es exigida por el verbo. La pregunta '¿Qué pienso?' no incluye 'de', por lo tanto, la forma correcta es 'Pienso que deberíamos estudiar más'."
-  },
-  {
-    "question": "El vicio del lenguaje que se produce cuando una frase o expresión puede interpretarse de dos o más maneras diferentes, creando confusión en el mensaje, se denomina __________.",
+    "question": "La frase \"Vendo una cuna para niños de madera\" es un ejemplo de __________ porque su construcción permite varias interpretaciones.",
     "options": [
       {"text": "anfibología", "correct": true},
       {"text": "pleonasmo", "correct": false},
-      {"text": "barbarismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se refiere a la ambigüedad en la interpretación.",
-    "explanation": "La anfibología es un vicio del lenguaje que genera confusión debido a la posibilidad de múltiples interpretaciones de una misma frase."
-  },
-  {
-    "question": "Un __________ es el uso de palabras que son incorrectas en su forma o significado, incluyendo los extranjerismos, a diferencia de un __________ que es un error en la concordancia o la sintaxis.",
-    "options": [
-      {"text": "barbarismo, solecismo", "correct": true},
-      {"text": "solecismo, barbarismo", "correct": false},
-      {"text": "pleonasmo, cacofonía", "correct": false},
-      {"text": "queísmo, dequeísmo", "correct": false}
-    ],
-    "hint": "Considera la naturaleza del error: ¿es de forma de la palabra o de su uso en la frase?",
-    "explanation": "El barbarismo se refiere a palabras mal escritas o extranjerismos (error de forma), mientras que el solecismo es un error en la construcción gramatical (error de uso)."
-  },
-  {
-    "question": "En el discurso cotidiano, el uso de \"a por ello\" en lugar de \"por ello\" o \"a por él\" en lugar de \"por él\" es un __________ frecuente.",
-    "options": [
-      {"text": "solecismo", "correct": true},
-      {"text": "barbarismo", "correct": false},
-      {"text": "pleonasmo", "correct": false},
-      {"text": "cacofonía", "correct": false}
-    ],
-    "hint": "Implica una construcción preposicional incorrecta.",
-    "explanation": "La doble preposición en 'a por' es un solecismo, ya que la forma correcta es simplemente 'por' en la mayoría de los contextos."
-  },
-  {
-    "question": "Si una persona escribe \"haiga\" en lugar de \"haya\", está cometiendo un __________.",
-    "options": [
-      {"text": "barbarismo", "correct": true},
       {"text": "solecismo", "correct": false},
-      {"text": "cacofonía", "correct": false},
-      {"text": "pobreza léxica", "correct": false}
-    ],
-    "hint": "Se refiere a una alteración en la forma de la palabra.",
-    "explanation": "La palabra 'haiga' no existe en el español estándar; su uso en lugar de 'haya' es un barbarismo por alteración de la forma verbal."
-  },
-  {
-    "question": "La expresión \"Lo pidió gratis, sin costo alguno\" es un ejemplo de __________ porque la idea de gratuidad ya está implícita.",
-    "options": [
-      {"text": "pleonasmo", "correct": true},
-      {"text": "anfibología", "correct": false},
       {"text": "barbarismo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Una de las frases redundan en la misma idea.",
-    "explanation": "Es un pleonasmo porque 'sin costo alguno' es redundante cuando ya se ha dicho 'gratis', lo que indica que no tiene precio."
+    "hint": "Piensa en la ambigüedad que puede generar.",
+    "explanation": "Es una anfibología porque no queda claro si la cuna es de madera o si los niños son de madera."
   },
   {
-    "question": "La frase \"El estudiante que le di la tarea sacó diez\" presenta un queísmo. ¿Qué preposición debería ir antes de 'que' para corregir este vicio?",
-    "options": [
-      {"text": "A", "correct": true},
-      {"text": "De", "correct": false},
-      {"text": "Con", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Piensa en '¿a quién le di la tarea?'",
-    "explanation": "El queísmo se corrige añadiendo la preposición 'a' antes de 'que', de modo que la frase correcta sea 'El estudiante a quien le di la tarea sacó diez'."
-  },
-  {
-    "question": "En la oración \"Me parece de que es un buen candidato\", se observa un dequeísmo. ¿Cuál es la pregunta que permitiría identificar la forma correcta de esta expresión?",
-    "options": [
-      {"text": "¿Qué me parece?", "correct": true},
-      {"text": "¿De qué me parece?", "correct": false},
-      {"text": "¿Cómo me parece?", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "La pregunta correcta para el verbo 'parecer' no lleva 'de'.",
-    "explanation": "La pregunta '¿Qué me parece?' no requiere la preposición 'de', por lo tanto, la forma correcta de la oración es 'Me parece que es un buen candidato', eliminando el dequeísmo."
-  },
-  {
-    "question": "La construcción \"Las gentes estaban molestas\" contiene un solecismo. ¿Cuál es la palabra que debe ser corregida y cómo?",
-    "options": [
-      {"text": "Gentes, por gente", "correct": true},
-      {"text": "Molestas, por molestos", "correct": false},
-      {"text": "Estaban, por estaba", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "El sustantivo 'gente' es colectivo singular.",
-    "explanation": "El sustantivo 'gente' es colectivo y siempre se utiliza en singular, por lo tanto, la forma correcta es 'La gente estaba molesta', lo que corrige el solecismo."
-  },
-  {
-    "question": "¿Qué vicio del lenguaje se produce cuando una frase o expresión tiene una doble interpretación debido a la ambigüedad en su estructura, como en \"Se venden casas para perros grandes\"?",
-    "options": [
-      {"text": "Anfibología", "correct": true},
-      {"text": "Pleonasmo", "correct": false},
-      {"text": "Solecismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "La frase puede significar que las casas son grandes o que son para perros grandes.",
-    "explanation": "Es una anfibología porque no queda claro si las casas son grandes o si son para perros de raza grande, lo que genera una doble interpretación."
-  },
-  {
-    "question": "Identifica el barbarismo en la siguiente oración:",
-    "options": [
-      {"text": "Espero que este \"report\" sea leído por todos", "correct": true},
-      {"text": "El libro fue entregado ayer", "correct": false},
-      {"text": "La reunión será a las cinco", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Busca un término de otro idioma con un equivalente en español.",
-    "explanation": "El uso de 'report' en lugar de 'informe' es un barbarismo, ya que es un extranjerismo innecesario teniendo un equivalente en español."
-  },
-  {
-    "question": "La frase \"Subí para arriba y luego bajé para abajo\" es un claro ejemplo de __________.",
-    "options": [
-      {"text": "pleonasmo", "correct": true},
-      {"text": "cacofonía", "correct": false},
-      {"text": "solecismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Las acciones ya implican la dirección.",
-    "explanation": "Ambas partes de la frase son pleonasmos porque 'subir' y 'bajar' ya indican la dirección, haciendo redundantes 'para arriba' y 'para abajo'."
-  },
-  {
-    "question": "La repetición excesiva del sonido \"s\" en la frase \"Sus sesenta sentidos son suficientes\" es un ejemplo de __________.",
-    "options": [
-      {"text": "cacofonía", "correct": true},
-      {"text": "pobreza léxica", "correct": false},
-      {"text": "anfibología", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "El problema es la acumulación de sonidos similares.",
-    "explanation": "Es una cacofonía debido a la reiteración del sonido 's', que crea una sonoridad desagradable y dificulta la fluidez de la pronunciación."
-  },
-  {
-    "question": "El vicio del lenguaje que se caracteriza por la dificultad para encontrar palabras diversas, recurriendo a un vocabulario restringido, se conoce como __________.",
+    "question": "El uso constante de \"dijo, dijo, dijo\" en lugar de sinónimos más variados como \"expresó\", \"manifestó\", o \"declaró\" es un claro ejemplo de __________.",
     "options": [
       {"text": "pobreza léxica", "correct": true},
-      {"text": "barbarismo", "correct": false},
+      {"text": "cacofonía", "correct": false},
       {"text": "solecismo", "correct": false},
+      {"text": "anfibología", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Implica una escasez de recursos verbales.",
-    "explanation": "La pobreza léxica es la falta de variedad en el vocabulario, lo que lleva a la repetición de las mismas palabras y empobrece la expresión."
+    "hint": "Se relaciona con la falta de diversidad en el vocabulario.",
+    "explanation": "La repetición excesiva del mismo verbo como 'dijo' sin usar sinónimos es un indicativo de pobreza léxica."
   },
   {
-    "question": "Identifica la figura retórica en la expresión \"El rayo de sol acariciaba la ventana\".",
+    "question": "Relaciona los vicios del lenguaje con su característica: A) Anfibología, B) Pleonasmo, C) Pobreza léxica; I) Empleo de palabras innecesarias, II) Doble interpretación de una expresión, III) Uso constante de las mismas palabras.",
     "options": [
-      {"text": "Personificación", "correct": true},
-      {"text": "Metáfora", "correct": false},
-      {"text": "Hipérbole", "correct": false},
-      {"text": "Símil", "correct": false}
-    ],
-    "hint": "Se le atribuye una acción humana a un elemento inanimado.",
-    "explanation": "Es una personificación porque 'acariciar' es una acción humana que se le atribuye al rayo de sol, un elemento inanimado."
-  },
-  {
-    "question": "La frase \"Tengo un mar de dudas\" es un ejemplo de __________ por su naturaleza exagerada.",
-    "options": [
-      {"text": "hipérbole", "correct": true},
-      {"text": "metáfora", "correct": false},
-      {"text": "símil", "correct": false},
+      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-III; B-I; C-II", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Una cantidad inmensa se representa de forma grandilocuente.",
-    "explanation": "Es una hipérbole porque 'un mar de dudas' es una exageración para expresar una gran cantidad o intensidad de dudas."
+    "hint": "Asocia cada vicio con su efecto en el lenguaje.",
+    "explanation": "La anfibología permite doble interpretación (II); el pleonasmo usa palabras innecesarias (I); y la pobreza léxica es la repetición de palabras (III)."
   },
   {
-    "question": "La figura retórica que compara un elemento con otro de forma implícita, sin usar nexos comparativos explícitos, se conoce como __________.",
+    "question": "Identifica el solecismo en la siguiente oración:",
     "options": [
-      {"text": "metáfora", "correct": true},
-      {"text": "símil", "correct": false},
-      {"text": "personificación", "correct": false},
+      {"text": "Quería agradecerte de venir", "correct": true},
+      {"text": "Voy a lavarme las manos", "correct": false},
+      {"text": "Se lo agradezco mucho", "correct": false},
+      {"text": "El libro es interesante", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "La comparación es sugerida, no directa.",
-    "explanation": "La metáfora es una comparación indirecta que se establece mediante la identificación de un elemento con otro, sin el uso de nexos comparativos."
+    "hint": "Presta atención al uso de la preposición.",
+    "explanation": "'Quería agradecerte de venir' es un solecismo; la forma correcta es 'Quería agradecerte por venir'."
   },
   {
-    "question": "Si una descripción menciona que \"Los árboles danzaban con el viento\", se está utilizando una __________.",
+    "question": "La frase \"Las y los diputados\" es un solecismo. ¿Cuál es la forma correcta de expresar esta idea sin cometer un error de concordancia?",
     "options": [
-      {"text": "personificación", "correct": true},
-      {"text": "hipérbole", "correct": false},
-      {"text": "metáfora", "correct": false},
+      {"text": "Las diputadas y los diputados", "correct": true},
+      {"text": "Los diputados y las diputadas", "correct": false},
+      {"text": "Los y las diputados", "correct": false},
+      {"text": "Las diputadas y diputados", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "La acción de 'danzar' se le atribuye a los árboles.",
-    "explanation": "Es una personificación porque se le atribuye a los árboles una acción ('danzar') que es propia de seres humanos."
+    "hint": "Cada artículo debe ir seguido de su sustantivo correspondiente si se enfatizan ambos géneros.",
+    "explanation": "Para enfatizar ambos géneros, el artículo debe ir inmediatamente con su sustantivo, como en 'Las diputadas y los diputados'."
   },
   {
-    "question": "La expresión \"Es más viejo que Matusalén\" es una __________ porque exagera la edad de una persona.",
+    "question": "La expresión \"Parece que pasé la res en el pasto\" contiene un vicio del lenguaje debido a la repetición del sonido 'pasé' y 'pasto'. ¿Qué vicio es?",
     "options": [
-      {"text": "hipérbole", "correct": true},
-      {"text": "símil", "correct": false},
-      {"text": "metáfora", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se utiliza para magnificar una característica.",
-    "explanation": "Es una hipérbole, ya que compara una edad con la de Matusalén de forma exagerada para enfatizar lo anciano que es alguien."
-  },
-  {
-    "question": "La figura retórica que establece una comparación explícita entre dos elementos, utilizando nexos como 'como', 'cual', 'parece', es el __________.",
-    "options": [
-      {"text": "símil", "correct": true},
-      {"text": "metáfora", "correct": false},
-      {"text": "personificación", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "La comparación es directa y se identifica por conectores.",
-    "explanation": "El símil es una comparación directa y explícita, que se distingue por el uso de conectores como 'como', 'cual' o 'parece'."
-  },
-  {
-    "question": "Un __________ es el uso indebido de la preposición 'de' antes de la conjunción 'que' cuando esta no es necesaria, como en \"Me dijo de que no iría\".",
-    "options": [
-      {"text": "dequeísmo", "correct": true},
-      {"text": "queísmo", "correct": false},
-      {"text": "solecismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "El problema está en la adición de una preposición superflua.",
-    "explanation": "El dequeísmo se produce por el uso indebido de 'de que' cuando el verbo no lo requiere. La forma correcta sería 'Me dijo que no iría'."
-  },
-  {
-    "question": "La expresión \"Vuestra Majestad\" para referirse a una persona singular es un solecismo en el español moderno. ¿Cuál sería la forma correcta para dirigirse a una sola persona?",
-    "options": [
-      {"text": "Su Majestad", "correct": true},
-      {"text": "Vuestras Majestades", "correct": false},
-      {"text": "Tu Majestad", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Considera el pronombre posesivo que concuerda con la tercera persona singular.",
-    "explanation": "En el español actual, el pronombre posesivo 'vuestra' es para la segunda persona del plural ('vosotros'), por lo que para una sola persona se usa 'su'."
-  },
-  {
-    "question": "La frase \"Vendemos lavadoras para familias con niños pequeños\" es ambigua. ¿Qué vicio del lenguaje presenta?",
-    "options": [
-      {"text": "Anfibología", "correct": true},
+      {"text": "Cacofonía", "correct": true},
+      {"text": "Anfibología", "correct": false},
+      {"text": "Solecismo", "correct": false},
       {"text": "Pleonasmo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "hint": "El problema se relaciona con el sonido repetitivo.",
+    "explanation": "Es una cacofonía por la repetición del sonido 'pas', que hace que la frase suene incómoda y difícil de pronunciar fluidamente."
+  },
+  {
+    "question": "Si una persona pregunta \"¿No manejas este dispositivo?\" y se le corrige para preguntar \"¿Manejas este dispositivo?\", ¿qué tipo de vicio del lenguaje se está evitando?",
+    "options": [
+      {"text": "Solecismo", "correct": true},
+      {"text": "Queísmo", "correct": false},
+      {"text": "Dequeísmo", "correct": false},
       {"text": "Barbarismo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "La ambigüedad reside en si las lavadoras son para familias con niños o si las lavadoras tienen niños.",
-    "explanation": "Es una anfibología porque la frase puede interpretarse como que las lavadoras tienen niños pequeños o que están destinadas a familias con niños pequeños."
+    "hint": "Las preguntas negativas pueden sugestionar la respuesta.",
+    "explanation": "Evitar preguntas negativas es importante para no caer en un solecismo, ya que pueden sugestionar la respuesta y generar confusión."
   },
   {
-    "question": "El uso del anglicismo \"performance\" en lugar de \"rendimiento\" o \"actuación\" en un contexto formal se considera un __________.",
+    "question": "La expresión \"el uso redundante de adjetivos como frío, hielo\" (refiriéndose a \"hielo frío\") es un ejemplo de __________.",
     "options": [
-      {"text": "barbarismo", "correct": true},
-      {"text": "solecismo", "correct": false},
-      {"text": "pobreza léxica", "correct": false},
+      {"text": "pleonasmo", "correct": true},
+      {"text": "anfibología", "correct": false},
+      {"text": "cacofonía", "correct": false},
+      {"text": "queísmo", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Es una palabra extranjera innecesaria.",
-    "explanation": "El empleo de 'performance' cuando existen equivalentes en español es un barbarismo, ya que introduce una palabra de otro idioma sin necesidad."
+    "hint": "Implica la repetición de una cualidad inherente.",
+    "explanation": "Es un pleonasmo porque 'hielo' ya implica que es 'frío', haciendo el adjetivo redundante."
   },
   {
-    "question": "La expresión \"El cielo estaba llorando\" es un ejemplo de __________.",
+    "question": "Identifica el solecismo en la siguiente frase:",
     "options": [
-      {"text": "personificación", "correct": true},
-      {"text": "hipérbole", "correct": false},
-      {"text": "metáfora", "correct": false},
+      {"text": "El joven y el señor vinieron a verme y tomó su maletín y se fue", "correct": true},
+      {"text": "Te lo vuelvo a repetir", "correct": false},
+      {"text": "Lo vi con mis propios ojos", "correct": false},
+      {"text": "El libro está sobre la mesa", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Se atribuye una acción humana a un elemento de la naturaleza.",
-    "explanation": "Es una personificación porque se le atribuye al cielo la acción de 'llorar', que es propia de seres humanos."
+    "hint": "Hay un problema de concordancia o referencia ambigua del sujeto en la segunda parte de la oración.",
+    "explanation": "Es un solecismo porque el sujeto de 'tomó su maletín y se fue' es ambiguo; no queda claro si fue el joven o el señor."
   },
   {
-    "question": "La frase \"Su risa era música para mis oídos\" es un ejemplo de __________.",
+    "question": "La frase \"¿ya viniste?\" fue mencionada como un barbarismo. ¿Cuál es el error gramatical que presenta?",
     "options": [
-      {"text": "metáfora", "correct": true},
-      {"text": "símil", "correct": false},
-      {"text": "hipérbole", "correct": false},
+      {"text": "La adición de una 's' al final del verbo conjugado", "correct": true},
+      {"text": "La conjugación del verbo en un tiempo incorrecto", "correct": false},
+      {"text": "El uso de un pronombre indebido en la pregunta", "correct": false},
+      {"text": "La omisión de un signo de interrogación", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "La comparación es implícita, no directa.",
-    "explanation": "Es una metáfora porque se equipara la risa con la música sin usar un nexo comparativo explícito, estableciendo una relación de identidad."
+    "hint": "Se relaciona con la forma común de conjugar verbos en pasado.",
+    "explanation": "Es un barbarismo la adición de una 's' al final de la segunda persona del pretérito perfecto simple, la forma correcta es '¿ya viniste?' sin la 's'."
   },
   {
-    "question": "La expresión \"Me muero de vergüenza\" es una __________.",
+    "question": "¿Qué figura retórica se utiliza en las fábulas, donde animales u objetos realizan acciones humanas?",
     "options": [
-      {"text": "hipérbole", "correct": true},
-      {"text": "personificación", "correct": false},
-      {"text": "metáfora", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se exagera una emoción para darle más intensidad.",
-    "explanation": "Es una hipérbole porque la frase exagera la intensidad de la vergüenza hasta el punto de la muerte, lo cual no es literal."
-  },
-  {
-    "question": "Relaciona los vicios del lenguaje con su corrección: A) Queísmo, B) Dequeísmo, C) Solecismo; I) Insertar la preposición omitida, II) Eliminar la preposición 'de' innecesaria, III) Corregir la concordancia o sintaxis.",
-    "options": [
-      {"text": "A-I; B-II; C-III", "correct": true},
-      {"text": "A-II; B-I; C-III", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-I; B-III; C-II", "correct": false}
-    ],
-    "hint": "Cada vicio tiene una acción correctiva específica.",
-    "explanation": "El queísmo se corrige insertando la preposición (I); el dequeísmo se corrige eliminando la preposición (II); y el solecismo se corrige ajustando la gramática (III)."
-  },
-  {
-    "question": "Identifica la figura retórica en la frase \"Sus dientes eran perlas\".",
-    "options": [
-      {"text": "Metáfora", "correct": true},
+      {"text": "Personificación", "correct": true},
+      {"text": "Metáfora", "correct": false},
       {"text": "Símil", "correct": false},
       {"text": "Hipérbole", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "La comparación es directa y sustituye un término por otro.",
-    "explanation": "Es una metáfora porque se establece una comparación implícita entre los dientes y las perlas sin el uso de conectores comparativos."
+    "hint": "Implica la atribución de cualidades animadas.",
+    "explanation": "La personificación es una figura retórica que atribuye cualidades o acciones propias de los seres humanos a objetos inanimados, animales o conceptos abstractos."
   },
   {
-    "question": "La frase \"Canta que te canta, duerme que te duerme\" es un ejemplo de __________.",
+    "question": "Relaciona las figuras retóricas con su definición: A) Metáfora, B) Símil, C) Hipérbole; I) Exageración desproporcionada, II) Comparación directa con nexos, III) Comparación indirecta sin nexos.",
     "options": [
-      {"text": "cacofonía", "correct": true},
-      {"text": "pleonasmo", "correct": false},
-      {"text": "pobreza léxica", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Hay una repetición de sonidos similares que afecta la fluidez.",
-    "explanation": "Es una cacofonía debido a la repetición del sonido 'que te' y de los verbos conjugados, lo que crea un efecto sonoro desagradable."
-  },
-  {
-    "question": "El vicio del lenguaje donde se utilizan muletillas como \"o sea\", \"este\", \"¿me entiendes?\" de forma constante, revelando una falta de vocabulario o fluidez, es un ejemplo de __________.",
-    "options": [
-      {"text": "pobreza léxica", "correct": true},
-      {"text": "barbarismo", "correct": false},
-      {"text": "solecismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Indica una dificultad para expresarse con precisión.",
-    "explanation": "El uso excesivo de muletillas es una manifestación de pobreza léxica, ya que se usan para llenar vacíos en el discurso debido a la falta de palabras adecuadas."
-  },
-  {
-    "question": "En la frase \"Vi al hombre que vendía libros en la calle con el sombrero\", ¿qué vicio del lenguaje se presenta por la ambigüedad de quién lleva el sombrero?",
-    "options": [
-      {"text": "Anfibología", "correct": true},
-      {"text": "Solecismo", "correct": false},
-      {"text": "Pleonasmo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "No queda claro si el hombre o los libros llevan el sombrero.",
-    "explanation": "Es una anfibología porque la posición de 'con el sombrero' genera ambigüedad, no dejando claro si el hombre o los libros (o incluso la calle) lo tienen."
-  },
-  {
-    "question": "La expresión \"Lo vi con mis propios ojos, totalmente a la vista\" es un ejemplo de __________.",
-    "options": [
-      {"text": "pleonasmo", "correct": true},
-      {"text": "anfibología", "correct": false},
-      {"text": "barbarismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Hay redundancia de ideas en la frase.",
-    "explanation": "Es un pleonasmo porque 'lo vi con mis propios ojos' ya es redundante, y añadir 'totalmente a la vista' lo hace aún más, reiterando una acción evidente."
-  },
-  {
-    "question": "La palabra \"standby\" utilizada en el ámbito tecnológico, teniendo equivalentes como \"en espera\" o \"en reserva\", es un __________.",
-    "options": [
-      {"text": "barbarismo", "correct": true},
-      {"text": "solecismo", "correct": false},
-      {"text": "queísmo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Es un préstamo lingüístico innecesario.",
-    "explanation": "El uso de 'standby' es un barbarismo al ser un extranjerismo innecesario que tiene términos equivalentes y correctos en español."
-  },
-  {
-    "question": "La frase \"Apenas si casi no comió nada\" es un __________ debido a la acumulación de negaciones y adverbios que se contradicen.",
-    "options": [
-      {"text": "solecismo", "correct": true},
-      {"text": "pleonasmo", "correct": false},
-      {"text": "cacofonía", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Hay una construcción gramatical incorrecta por exceso de negación.",
-    "explanation": "Es un solecismo por la incorrecta combinación de adverbios de cantidad y negación ('apenas', 'casi', 'no', 'nada'), que generan una redundancia negativa y confusión."
-  },
-  {
-    "question": "La expresión \"Vino a la casa de la tía de Juan\" es un ejemplo de __________.",
-    "options": [
-      {"text": "solecismo", "correct": true},
-      {"text": "cacofonía", "correct": false},
-      {"text": "pobreza léxica", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Implica una repetición de preposiciones innecesaria.",
-    "explanation": "Es un solecismo debido a la repetición innecesaria de la preposición 'de la', la forma correcta sería 'Vino a casa de la tía de Juan'."
-  },
-  {
-    "question": "Relaciona correctamente los vicios del lenguaje: A) Dequeísmo, B) Queísmo, C) Solecismo; I) Supresión indebida de 'de', II) Uso indebido de 'de', III) Errores de concordancia.",
-    "options": [
-      {"text": "A-II; B-I; C-III", "correct": true},
+      {"text": "A-III; B-II; C-I", "correct": true},
       {"text": "A-I; B-II; C-III", "correct": false},
+      {"text": "A-II; B-III; C-I", "correct": false},
       {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-II; B-III; C-I", "correct": false}
-    ],
-    "hint": "Identifica la acción incorrecta con 'de' o el error gramatical.",
-    "explanation": "El dequeísmo es el uso indebido de 'de' (II); el queísmo es la supresión indebida de 'de' (I); y el solecismo son errores de concordancia (III)."
-  },
-  {
-    "question": "La frase \"El camión pasó por el puente con la carga pesada\" es un ejemplo de anfibología. ¿Qué parte de la oración genera la ambigüedad?",
-    "options": [
-      {"text": "La posesión de la carga pesada", "correct": true},
-      {"text": "El tipo de camión que pasó", "correct": false},
-      {"text": "La ubicación del puente", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "hint": "Piensa en qué elemento tiene la carga pesada.",
-    "explanation": "La ambigüedad reside en si la carga pesada está en el camión o en el puente, lo que permite una doble interpretación."
-  },
-  {
-    "question": "Identifica el barbarismo en el siguiente enunciado:",
-    "options": [
-      {"text": "El \"mouse\" de la computadora no funciona", "correct": true},
-      {"text": "El teclado es muy ruidoso", "correct": false},
-      {"text": "La pantalla está sucia", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Es un extranjerismo que tiene un equivalente en español.",
-    "explanation": "El uso de 'mouse' es un barbarismo, ya que existe el término 'ratón' en español para referirse al dispositivo."
-  },
-  {
-    "question": "La frase \"Salió al exterior afuera\" es un __________.",
-    "options": [
-      {"text": "pleonasmo", "correct": true},
-      {"text": "solecismo", "correct": false},
-      {"text": "cacofonía", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "La acción ya implica la dirección.",
-    "explanation": "Es un pleonasmo porque 'salir al exterior' y 'afuera' son redundantes, ya que ambos indican la misma dirección."
-  },
-  {
-    "question": "La repetición del sonido \"ción\" en \"La situación actual de la nación trae preocupación\" es un ejemplo de __________.",
-    "options": [
-      {"text": "cacofonía", "correct": true},
-      {"text": "pobreza léxica", "correct": false},
-      {"text": "anfibología", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "El problema se encuentra en la sonoridad de la frase.",
-    "explanation": "Es una cacofonía debido a la repetición del sonido similar 'ción', lo que hace que la frase sea menos armoniosa y fluida."
-  },
-  {
-    "question": "La expresión \"Vivir la vida\" es un __________.",
-    "options": [
-      {"text": "pleonasmo", "correct": true},
-      {"text": "solecismo", "correct": false},
-      {"text": "barbarismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "El verbo ya implica el sustantivo.",
-    "explanation": "Es un pleonasmo porque 'vivir' ya implica la 'vida', haciendo el sustantivo redundante en la expresión."
-  },
-  {
-    "question": "La frase \"Se lo agradezco infinitamente\" es más precisa que \"Se lo agradezco un montón\". ¿Qué vicio del lenguaje se corrige al usar la primera opción?",
-    "options": [
-      {"text": "Solecismo", "correct": true},
-      {"text": "Pobreza léxica", "correct": false},
-      {"text": "Barbarismo", "correct": false},
-      {"text": "No puedo identificar la respuesta 😥", "correct": false}
-    ],
-    "hint": "Se trata de una construcción idiomática menos formal.",
-    "explanation": "'Un montón' es una expresión coloquial que puede considerarse un solecismo en contextos formales, mientras que 'infinitamente' es más apropiada."
-  },
-  {
-    "question": "Relaciona correctamente los vicios del lenguaje: A) Pobreza léxica, B) Barbarismo, C) Anfibología; I) Falta de variedad en el vocabulario, II) Palabras mal formadas o extranjerismos, III) Ambigüedad en el significado.",
-    "options": [
-      {"text": "A-I; B-II; C-III", "correct": true},
-      {"text": "A-II; B-I; C-III", "correct": false},
-      {"text": "A-III; B-I; C-II", "correct": false},
-      {"text": "A-I; B-III; C-II", "correct": false}
-    ],
-    "hint": "Asocia cada vicio con su efecto en el lenguaje.",
-    "explanation": "La pobreza léxica es la falta de variedad (I); el barbarismo son palabras mal formadas (II); y la anfibología es la ambigüedad (III)."
+    "hint": "Presta atención a si la comparación es explícita o implícita y si hay exageración.",
+    "explanation": "La metáfora es una comparación indirecta (III); el símil es una comparación directa con nexos (II); y la hipérbole es una exageración (I)."
   }
 ]
