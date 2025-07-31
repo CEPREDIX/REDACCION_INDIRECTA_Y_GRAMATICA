@@ -544,5 +544,551 @@
     "hint": "Aunque no hay signos de interrogación, la oración expresa una duda o pregunta.",
     "explanation": "Los interrogativos como 'dónde' llevan acento ortográfico incluso cuando se encuentran dentro de una pregunta indirecta, que es una oración que equivale a una pregunta pero no tiene la forma directa ni los signos correspondientes.",
     "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según las reglas generales de acentuación, ¿cuál es la sílaba que se acentúa normalmente en una palabra que termina en 'n'?",
+    "options": [
+      { "text": "La penúltima sílaba.", "correct": true },
+      { "text": "La última sílaba.", "correct": false },
+      { "text": "La antepenúltima sílaba.", "correct": false },
+      { "text": "La sílaba preantepenúltima.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'cantan' o 'joven'.",
+    "explanation": "Si una palabra termina en vocal, 'n' o 's', se acentúa normalmente en la penúltima sílaba, clasificándose como palabra llana.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que contiene una palabra aguda que NO necesita tilde.",
+    "options": [
+      { "text": "El actor principal decidió cantar al final.", "correct": true },
+      { "text": "Mi primo Andrés vendrá en el autobús de las tres.", "correct": false },
+      { "text": "La situación en el país es de gran interés para todos.", "correct": false },
+      { "text": "Tomaré un café solo, sin ningún tipo de azúcar.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Las palabras agudas se acentúan en la última sílaba, pero la tilde depende de su letra final.",
+    "explanation": "La palabra 'cantar' es aguda porque se acentúa en la última sílaba. Sin embargo, no lleva tilde porque termina en 'r', una consonante distinta de 'n' o 's'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las palabras _______ se acentúan en la antepenúltima sílaba, y como regla general, _______ llevan acento ortográfico.",
+    "options": [
+      { "text": "esdrújulas, siempre", "correct": true },
+      { "text": "agudas, a veces", "correct": false },
+      { "text": "llanas, nunca", "correct": false },
+      { "text": "sobresdrújulas, casi nunca", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'fantástico' o 'murciélago'.",
+    "explanation": "Las palabras esdrújulas son aquellas acentuadas en la antepenúltima sílaba y, sin excepción, siempre deben llevar tilde o acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras es llana y está correctamente acentuada?",
+    "options": [
+      { "text": "El póster del concierto es increíble.", "correct": true },
+      { "text": "El caracter de tu amigo es muy fuerte.", "correct": false },
+      { "text": "Es un examen muy dificil para mí.", "correct": false },
+      { "text": "El arbol del patio da buena sombra.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Una palabra llana lleva tilde si termina en una consonante que no sea 'n' o 's'.",
+    "explanation": "'Póster' es una palabra llana acentuada en la penúltima sílaba. Lleva tilde porque termina en 'r', una consonante distinta de 'n' o 's'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son palabras agudas que requieren tilde:",
+    "options": [
+      { "text": "sofá, corazón, revés", "correct": true },
+      { "text": "pared, sentir, reloj", "correct": false },
+      { "text": "examen, cantan, crisis", "correct": false },
+      { "text": "mármol, césped, fútbol", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Revisa la regla de acentuación para palabras cuya sílaba tónica es la última.",
+    "explanation": "Las palabras agudas se acentúan en la última sílaba y llevan tilde si terminan en vocal, 'n' o 's'. 'Sofá' (termina en vocal), 'corazón' (termina en 'n') y 'revés' (termina en 's') cumplen esta regla.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración correcta según las reglas de acentuación.",
+    "options": [
+      { "text": "El miércoles habrá un examen de síntesis.", "correct": true },
+      { "text": "El miercoles habrá un examen de síntesis.", "correct": false },
+      { "text": "El miércoles habrá un examen de sintesis.", "correct": false },
+      { "text": "El miercoles proximo habrá un examen de sintesis.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Recuerda la regla invariable para las palabras esdrújulas.",
+    "explanation": "Tanto 'miércoles' como 'síntesis' son palabras esdrújulas (acentuadas en la antepenúltima sílaba), por lo que ambas deben llevar tilde siempre.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el tipo de palabra con su regla de acentuación: A) Aguda, B) Llana, C) Esdrújula",
+    "options": [
+      { "text": "A-Lleva tilde si termina en n, s o vocal; B-Lleva tilde si NO termina en n, s o vocal; C-Siempre lleva tilde", "correct": true },
+      { "text": "A-Siempre lleva tilde; B-Lleva tilde si termina en n, s o vocal; C-Lleva tilde si NO termina en n, s o vocal", "correct": false },
+      { "text": "A-Lleva tilde si NO termina en n, s o vocal; B-Siempre lleva tilde; C-Lleva tilde si termina en n, s o vocal", "correct": false },
+      { "text": "A-Lleva tilde si termina en consonante; B-Lleva tilde si termina en vocal; C-Nunca lleva tilde", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Cada categoría tiene una condición específica para el uso de la tilde.",
+    "explanation": "Las agudas llevan tilde si terminan en 'n', 's' o vocal. Las llanas llevan tilde si NO terminan en 'n', 's' o vocal. Las esdrújulas siempre llevan tilde.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Si una palabra no sigue las reglas generales de acentuación (terminación en vocal, n, s o en otra consonante), la sílaba _______ debe llevar un _______.",
+    "options": [
+      { "text": "tónica, acento ortográfico", "correct": true },
+      { "text": "átona, acento prosódico", "correct": false },
+      { "text": "final, diptongo", "correct": false },
+      { "text": "tónica, hiato", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es la tercera regla general de acentuación, que justifica el uso de la tilde.",
+    "explanation": "Si una palabra no sigue las dos primeras reglas de acentuación, se debe marcar la sílaba tónica con un acento ortográfico (tilde) para indicar la irregularidad.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Una palabra que termina en una consonante que no sea 'n' o 's' se acentúa normalmente en...",
+    "options": [
+      { "text": "la última sílaba.", "correct": true },
+      { "text": "la penúltima sílaba.", "correct": false },
+      { "text": "la antepenúltima sílaba.", "correct": false },
+      { "text": "la primera sílaba.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en palabras como 'cantar', 'reloj' o 'amistad'.",
+    "explanation": "Según la segunda regla general, si una palabra termina en una consonante que no sea 'n' o 's', se clasifica como aguda, con el acento prosódico en la última sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las palabras _________, al igual que las esdrújulas, siempre llevan acento ortográfico y suelen formarse con un verbo más _________.",
+    "options": [
+      { "text": "sobresdrújulas, dos pronombres adjuntos", "correct": true },
+      { "text": "llanas, un pronombre adjunto", "correct": false },
+      { "text": "agudas, un sufijo", "correct": false },
+      { "text": "monosílabas, dos verbos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en 'escribiéndoselo' o 'fumándomela'.",
+    "explanation": "Las palabras sobresdrújulas se acentúan en la sílaba anterior a la antepenúltima, siempre llevan tilde y típicamente se componen de un verbo con dos pronombres adjuntos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la diferencia fundamental entre una sílaba tónica y una átona?",
+    "options": [
+      { "text": "La sílaba tónica recibe el acento de la pronunciación y la átona no.", "correct": true },
+      { "text": "La sílaba tónica siempre lleva tilde y la átona nunca.", "correct": false },
+      { "text": "La sílaba tónica contiene vocales fuertes y la átona débiles.", "correct": false },
+      { "text": "Las palabras solo tienen sílabas tónicas, las átonas no existen.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Tiene que ver con la fuerza de la pronunciación, no necesariamente con la escritura.",
+    "explanation": "En las palabras de más de una sílaba, solo una es tónica (la que lleva el acento prosódico o de pronunciación), mientras que las demás son átonas. Una sílaba átona jamás llevará acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que muestra un uso correcto de tildes en palabras llanas y agudas.",
+    "options": [
+      { "text": "El líder del equipo mostró un gran carácter.", "correct": true },
+      { "text": "El lider del equipo mostró un gran carácter.", "correct": false },
+      { "text": "El líder del equipo mostro un gran caracter.", "correct": false },
+      { "text": "El lider del equipo mostro un gran carácter.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Revisa las reglas de acentuación para llanas terminadas en 'r' y agudas terminadas en vocal.",
+    "explanation": "'Líder' es una palabra llana que termina en 'r', por lo que debe llevar tilde. 'Carácter' es también una palabra llana que termina en 'r' y requiere tilde. La opción correcta es la única que acentúa 'líder' correctamente.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según el texto, ¿qué sucede cuando una vocal débil ('i', 'u') se encuentra junto a una vocal fuerte ('a', 'e', 'o')?",
+    "options": [
+      { "text": "Forman automáticamente un diptongo, es decir, una sola sílaba.", "correct": true },
+      { "text": "Forman siempre un hiato, es decir, dos sílabas separadas.", "correct": false },
+      { "text": "La vocal débil siempre debe llevar una tilde.", "correct": false },
+      { "text": "Se convierten ambas en vocales de fuerza media.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es la base para la formación de sílabas con múltiples vocales.",
+    "explanation": "Cuando una vocal débil se encuentra contigua a una vocal fuerte, forman automáticamente un diptongo, que se cuenta como una sola sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿En cuál de las siguientes palabras se utiliza la tilde para romper un diptongo y formar un hiato?",
+    "options": [
+      { "text": "La palabra 'panadería' tiene cinco sílabas.", "correct": true },
+      { "text": "La palabra 'farmacéutico' es un buen ejemplo.", "correct": false },
+      { "text": "La palabra 'luciérnaga' brilla en la oscuridad.", "correct": false },
+      { "text": "La palabra 'estaciones' cambia con el tiempo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca una vocal débil tónica junto a una vocal fuerte.",
+    "explanation": "En 'panadería' (pa-na-de-rí-a), se escribe un acento sobre la vocal débil 'i' para romper el diptongo natural que formaría con la 'a'. Esto crea un hiato y resulta en dos sílabas separadas.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Las vocales _______ ('a', 'e', 'o') siempre forman su propia _______, mientras que las vocales _______ ('i', 'u') pueden formar diptongos.",
+    "options": [
+      { "text": "fuertes, sílaba", "correct": true },
+      { "text": "débiles, palabra", "correct": false },
+      { "text": "tónicas, sílaba", "correct": false },
+      { "text": "abiertas, oración", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La clasificación de las vocales determina cómo se agrupan en sílabas.",
+    "explanation": "Las vocales fuertes (a, e, o) siempre forman su propia sílaba. Las vocales débiles (i, u) solo forman su propia sílaba cuando están separadas de otras vocales por una consonante; de lo contrario, forman diptongos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "De acuerdo con las reglas sobre monosílabos, ¿cuál de estas oraciones es correcta?",
+    "options": [
+      { "text": "Me dio un libro muy bueno.", "correct": true },
+      { "text": "Él me dió un libro excelente.", "correct": false },
+      { "text": "El pan que me díó estaba fresco.", "correct": false },
+      { "text": "Fué un gesto muy amable de su parte.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Como regla general, las palabras de una sola sílaba no llevan tilde, a menos que sea diacrítica.",
+    "explanation": "Las palabras de una sola sílaba, como 'dio', 'fue', 'vi', 'ti', no llevan acento ortográfico. La regla moderna fue adoptada en 1952 para simplificar la acentuación.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son palabras que contienen un diptongo:",
+    "options": [
+      { "text": "luego, tienes, buey", "correct": true },
+      { "text": "correo, sabana, aposento", "correct": false },
+      { "text": "tribu, cine, mito", "correct": false },
+      { "text": "río, baúl, María", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca la unión de una vocal débil y una fuerte en una misma sílaba.",
+    "explanation": "Las palabras 'luego' (ue), 'tienes' (ie) y 'buey' (ue) contienen diptongos, que son la unión de una vocal débil y una fuerte en una sola sílaba.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la razón para escribir una tilde en la palabra 'mía'?",
+    "options": [
+      { "text": "Para romper el diptongo natural y formar dos sílabas (mí-a).", "correct": true },
+      { "text": "Porque es una palabra esdrújula que siempre lleva tilde.", "correct": false },
+      { "text": "Para distinguirla de la palabra homófona 'mia' sin acento.", "correct": false },
+      { "text": "Porque todas las palabras que terminan en 'a' deben llevar tilde.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Observa la interacción entre la vocal débil 'i' y la fuerte 'a'.",
+    "explanation": "Se escribe un acento sobre la vocal débil 'i' para romper el diptongo que naturalmente formaría con la 'a'. Esto indica que la palabra se pronuncia en dos sílabas (mí-a), creando un hiato acentual.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona la palabra con la descripción de su acentuación: A) correo, B) buey, C) río",
+    "options": [
+      { "text": "A-Hiato de vocales fuertes, B-Diptongo en una monosílaba, C-Hiato por tilde en vocal débil", "correct": true },
+      { "text": "A-Diptongo, B-Hiato, C-Palabra llana sin tilde", "correct": false },
+      { "text": "A-Hiato por tilde, B-Diptongo, C-Hiato de vocales fuertes", "correct": false },
+      { "text": "A-Palabra esdrújula, B-Palabra aguda, C-Palabra llana", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Analiza la interacción de las vocales en cada palabra.",
+    "explanation": "'Correo' (co-rre-o) tiene un hiato natural porque 'e' y 'o' son vocales fuertes. 'Buey' es una monosílaba con diptongo. 'Río' (rí-o) tiene un hiato creado por la tilde en la vocal débil 'i'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "En español, las palabras de _______ sílaba no llevan acento ortográfico a menos que pertenezcan a un grupo limitado de _______.",
+    "options": [
+      { "text": "una sola, parejas homófonas", "correct": true },
+      { "text": "dos, verbos irregulares", "correct": false },
+      { "text": "tres, palabras esdrújulas", "correct": false },
+      { "text": "una sola, sustantivos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta regla tiene una excepción importante que se detalla en la sección seis del documento.",
+    "explanation": "La regla general es que las monosílabas no se acentúan. La excepción son aquellas que forman parte de una pareja homófona, donde una lleva tilde diacrítica para distinguirse de la otra.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La palabra 'farmacéutico' tiene cinco sílabas porque...",
+    "options": [
+      { "text": "el grupo 'eu' es un diptongo y cuenta como una sola sílaba.", "correct": true },
+      { "text": "el grupo 'eu' es un hiato y cuenta como dos sílabas.", "correct": false },
+      { "text": "es una palabra sobresdrújula con una estructura compleja.", "correct": false },
+      { "text": "la letra 'c' separa las vocales en sílabas distintas.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Analiza la combinación de la vocal fuerte 'e' y la débil 'u'.",
+    "explanation": "En 'farmacéutico' (far-ma-céu-ti-co), la combinación 'eu' es un diptongo porque une una vocal fuerte y una débil en la misma sílaba tónica, sin que la tilde rompa la unión.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Para que dos palabras monosílabas formen una pareja homófona que justifique el uso de la tilde diacrítica, deben escribirse igual y ser de dos _______ diferentes.",
+    "options": [
+      { "text": "categorías gramaticales", "correct": true },
+      { "text": "pronunciaciones", "correct": false },
+      { "text": "longitudes", "correct": false },
+      { "text": "orígenes etimológicos", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en el/él, tu/tú, donde uno es artículo/adjetivo y el otro es pronombre.",
+    "explanation": "Una de las condiciones para que una monosílaba lleve tilde diacrítica es que exista una palabra homófona (que se escribe igual) pero que pertenezca a una categoría gramatical distinta (p. ej. pronombre vs. adjetivo, sustantivo vs. pronombre, etc.).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La palabra 'hacia' (preposición) se diferencia de 'hacía' (verbo) por...",
+    "options": [
+      { "text": "la tilde en la 'i' que crea un hiato en el verbo.", "correct": true },
+      { "text": "el número de letras en cada palabra.", "correct": false },
+      { "text": "la pronunciación de la letra 'h'.", "correct": false },
+      { "text": "la vocal final de cada palabra.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Compara la división silábica de 'ha-cia' con 'ha-cí-a'.",
+    "explanation": "La diferencia clave es la tilde en 'hacía'. Esta tilde sobre la vocal débil 'i' rompe el diptongo natural ('ia') y crea un hiato (ha-cí-a), distinguiéndola de la palabra de dos sílabas 'hacia' (ha-cia).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones utiliza correctamente los monosílabos 'de' y 'dé'?",
+    "options": [
+      { "text": "Quiero que me dé un vaso de agua, por favor.", "correct": true },
+      { "text": "Quiero que me de un vaso dé agua ahora mismo.", "correct": false },
+      { "text": "Quiero que me de un vaso de agua de la jarra.", "correct": false },
+      { "text": "El vaso dé cristal es de mi abuela.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es el verbo 'dar' y el otro es una preposición.",
+    "explanation": "Se usa 'dé' con tilde para la forma del verbo 'dar'. Se usa 'de' sin tilde para la preposición. La oración correcta es \"Quiero que me dé (verbo) un vaso de (preposición) agua\".",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es el uso correcto de 'si' y 'sí' en una oración?",
+    "options": [
+      { "text": "Si estudias, te irá bien; yo creo que sí.", "correct": true },
+      { "text": "Sí vienes, te doy un regalo; creo que si.", "correct": false },
+      { "text": "No sé si lo hizo para si mismo.", "correct": false },
+      { "text": "El dijo que si, que vendría a la fiesta.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es una conjunción condicional y el otro es un adverbio de afirmación o pronombre.",
+    "explanation": "'Si' sin tilde es la conjunción condicional. 'Sí' con tilde es el adverbio de afirmación o el pronombre reflexivo (precedido de preposición, como 'para sí').",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Completa la oración con la forma correcta de 'se' o 'sé': No _______ por qué te portas así. ¡_______ bueno!",
+    "options": [
+      { "text": "sé, sé", "correct": true },
+      { "text": "se, se", "correct": false },
+      { "text": "sé, se", "correct": false },
+      { "text": "se, sé", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Distingue entre el pronombre y las formas de los verbos 'saber' y 'ser'.",
+    "explanation": "El primer espacio requiere 'sé' del verbo 'saber' (No sé). El segundo espacio requiere 'sé' del verbo 'ser' en modo imperativo (¡Sé bueno!). El pronombre átono 'se' no aplica en estos casos.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿En cuál oración se usa correctamente 'mas' y 'más'?",
+    "options": [
+      { "text": "Quisiera más tiempo, mas no es posible.", "correct": true },
+      { "text": "Quisiera mas tiempo, más no es posible.", "correct": false },
+      { "text": "Quisiera más tiempo, más no es posible tenerlo.", "correct": false },
+      { "text": "Quisiera mas tiempo libre, mas no tengo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es un adverbio de cantidad, el otro una conjunción adversativa equivalente a 'pero'.",
+    "explanation": "'Más' con tilde es el adverbio de cantidad. 'Mas' sin tilde es la conjunción adversativa. La oración correcta es \"Quisiera más (cantidad) tiempo, mas (pero) no es posible\".",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son parejas de monosílabos donde uno lleva tilde diacrítica y el otro no:",
+    "options": [
+      { "text": "el/él, tu/tú, mi/mí", "correct": true },
+      { "text": "fue/fui, dio/di, vio/vi", "correct": false },
+      { "text": "sol, pan, sal, mar", "correct": false },
+      { "text": "que/qué, te/té, se/sé", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Busca las parejas de la lista oficial de homófonas.",
+    "explanation": "La lista de monosílabos homófonos que usan tilde diacrítica incluye el/él, tu/tú, mi/mí, te/té, se/sé, de/dé, si/sí, y mas/más, entre otros.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Elige la oración con el uso correcto de 'tu' y 'tú'.",
+    "options": [
+      { "text": "¿Tú crees que tu idea funcionará en la práctica?", "correct": true },
+      { "text": "¿Tu crees que tú idea funcionará bien?", "correct": false },
+      { "text": "¿Tú crees que tú idea es la mejor de todas?", "correct": false },
+      { "text": "¿Tu crees que tu idea funcionará?", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es pronombre personal y el otro es adjetivo posesivo.",
+    "explanation": "'Tú' con tilde es el pronombre personal (sujeto). 'Tu' sin tilde es el adjetivo posesivo que acompaña a un sustantivo ('tu idea').",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el monosílabo tónico con su categoría gramatical: A) él, B) más, C) té",
+    "options": [
+      { "text": "A-Pronombre, B-Adverbio, C-Sustantivo", "correct": true },
+      { "text": "A-Artículo, B-Conjunción, C-Pronombre", "correct": false },
+      { "text": "A-Pronombre, B-Sustantivo, C-Adverbio", "correct": false },
+      { "text": "A-Verbo, B-Adverbio, C-Sustantivo", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Cada uno se distingue de su par átono: el, mas, te.",
+    "explanation": "'Él' es un pronombre personal. 'Más' es un adverbio de cantidad. 'Té' es un sustantivo (la bebida).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Aun sin tilde es sinónimo de _______, mientras que aún con tilde significa _______. Completa con las opciones correctas.",
+    "options": [
+      { "text": "incluso, todavía", "correct": true },
+      { "text": "todavía, incluso", "correct": false },
+      { "text": "también, ya", "correct": false },
+      { "text": "incluso, tampoco", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno es una palabra de una sílaba y el otro de dos.",
+    "explanation": "La palabra 'aún' (pronunciada en dos sílabas, a-ún) significa 'todavía'. La palabra 'aun' (pronunciada en una sílaba) significa 'incluso'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la regla de acentuación para los adverbios terminados en '-mente'?",
+    "options": [
+      { "text": "Conservan la tilde si el adjetivo original del que derivan la tenía.", "correct": true },
+      { "text": "Siempre llevan tilde en la sílaba '-men-', sin excepción.", "correct": false },
+      { "text": "Nunca llevan tilde, aunque el adjetivo original la tuviera.", "correct": false },
+      { "text": "Se les añade una tilde nueva en la última sílaba.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Piensa en cómo se forman 'fácilmente' y 'lentamente'.",
+    "explanation": "Si el adjetivo original lleva tilde, esta se mantiene en su forma adverbial. Por ejemplo, de 'rápida' (con tilde) se forma 'rápidamente' (con tilde), pero de 'lenta' (sin tilde) se forma 'lentamente' (sin tilde).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Identifica la oración que utiliza correctamente la tilde en los pronombres interrogativos.",
+    "options": [
+      { "text": "No sé qué quieres ni cuándo volverás a casa.", "correct": true },
+      { "text": "No sé que quieres ni cuando volverás a la oficina.", "correct": false },
+      { "text": "No sé qué quieres ni cuando volverás por aquí.", "correct": false },
+      { "text": "Dime que quieres y cuándo piensas volver.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Los interrogativos llevan tilde incluso en preguntas indirectas.",
+    "explanation": "Los pronombres interrogativos como 'qué' y 'cuándo' siempre llevan acento ortográfico para distinguirlos de sus formas relativas ('que' y 'cuando'), incluso cuando están dentro de una oración que no tiene signos de interrogación (pregunta indirecta).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Según las normas de 2010, ¿cuál es el uso correcto de la palabra 'solo'?",
+    "options": [
+      { "text": "Juan prefiere trabajar solo en su oficina.", "correct": true },
+      { "text": "Juan trabaja sólo en el turno de la mañana.", "correct": false },
+      { "text": "Prefiero que me dejes sólo por un momento.", "correct": false },
+      { "text": "Mi respuesta es: sólo si es estrictamente necesario.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La RAE eliminó una tilde diacrítica para esta palabra.",
+    "explanation": "Desde los cambios de 2010, la palabra 'solo' (ya sea adjetivo que significa 'sin compañía' o adverbio que significa 'solamente') nunca lleva acento ortográfico. La ambigüedad debe resolverse por el contexto.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Son adverbios terminados en '-mente' que están correctamente escritos:",
+    "options": [
+      { "text": "fácilmente, rápidamente, cómodamente", "correct": true },
+      { "text": "facilmente, rapidamente, comodamente", "correct": false },
+      { "text": "simplemente, totalménte, críticaménte", "correct": false },
+      { "text": "ágilmente, espiritualménte, lentaménte", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "El adverbio hereda la tilde del adjetivo base.",
+    "explanation": "Los adverbios terminados en '-mente' conservan la tilde si el adjetivo del que provienen la tenía. 'Fácil', 'rápida' y 'cómoda' llevan tilde, por lo que 'fácilmente', 'rápidamente' y 'cómodamente' también la llevan.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la diferencia de uso entre 'porque' y 'por qué'?",
+    "options": [
+      { "text": "'Porque' es una conjunción causal y 'por qué' se usa para preguntas.", "correct": true },
+      { "text": "'Porque' se usa en preguntas y 'por qué' en respuestas.", "correct": false },
+      { "text": "Ambas significan lo mismo y su uso es intercambiable.", "correct": false },
+      { "text": "'Porque' es un sustantivo y 'por qué' es un adjetivo.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Uno responde y el otro pregunta.",
+    "explanation": "'Porque' (junto y sin tilde) es una conjunción que introduce la causa o razón de algo. 'Por qué' (separado y con tilde) se utiliza para iniciar preguntas sobre la causa o razón.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Relaciona el interrogativo con su pronombre de relativo correspondiente: A) qué, B) quién, C) dónde",
+    "options": [
+      { "text": "A-que, B-quien, C-donde", "correct": true },
+      { "text": "A-quien, B-que, C-donde", "correct": false },
+      { "text": "A-donde, B-quien, C-que", "correct": false },
+      { "text": "A-que, B-donde, C-quien", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La única diferencia en la escritura es la tilde.",
+    "explanation": "Los pronombres interrogativos (qué, quién, dónde, cómo, cuándo, cuál) llevan tilde para distinguirlos de sus formas átonas, que funcionan como pronombres de relativo o conjunciones (que, quien, donde, como, cuando, cual).",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "La oración \"El profesor nos explicó el _______ y el _______\" debe completarse con las formas tónicas de los interrogativos para funcionar como sustantivos.",
+    "options": [
+      { "text": "cómo, porqué", "correct": true },
+      { "text": "como, porque", "correct": false },
+      { "text": "cómo, porque", "correct": false },
+      { "text": "como, porqué", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "En este caso, las palabras que normalmente preguntan se usan para nombrar el 'modo' y el 'motivo'.",
+    "explanation": "Las formas interrogativas pueden sustantivarse, usualmente precedidas por un artículo. En este caso, 'el cómo' se refiere al modo, y 'el porqué' (junto y con tilde) es el sustantivo que significa 'el motivo'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "¿Cuál es la regla actual sobre el uso de la tilde en la conjunción 'o' entre números?",
+    "options": [
+      { "text": "Nunca se usa tilde en la palabra 'o'.", "correct": true },
+      { "text": "Se debe usar tilde ('ó') para no confundirla con el cero.", "correct": false },
+      { "text": "Solo se usa tilde si los números son mayores de 100.", "correct": false },
+      { "text": "Es opcional, pero se recomienda no usarla.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es otra de las simplificaciones de las reglas de 2010.",
+    "explanation": "Antes de 2010, se tildaba la 'o' entre cifras ('5 ó 6') para evitar confundirla con el número '0'. La norma actual, para simplificar, eliminó esta regla y ahora la conjunción 'o' nunca lleva tilde.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Selecciona la oración que aplica correctamente la regla de 2010 sobre los pronombres demostrativos.",
+    "options": [
+      { "text": "De todos los libros, prefiero este.", "correct": true },
+      { "text": "De todos los libros, prefiero éste.", "correct": false },
+      { "text": "Aquel es mi hermano y aquél es mi primo.", "correct": false },
+      { "text": "Ese coche es rápido, pero ése es más rápido.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "La tilde en 'este', 'ese' y 'aquel' fue eliminada.",
+    "explanation": "Las normas de 2010 eliminaron la tilde diacrítica en los pronombres demostrativos (este, ese, aquel y sus femeninos y plurales). Por lo tanto, nunca deben llevar acento ortográfico.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "Un adverbio que termina en \"-mente\" tiene _______ sílabas tónicas: una en el sufijo y otra que se mantiene del _______ original.",
+    "options": [
+      { "text": "dos, adjetivo", "correct": true },
+      { "text": "una, verbo", "correct": false },
+      { "text": "dos, sustantivo", "correct": false },
+      { "text": "tres, adverbio", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Esta es una excepción a la regla de una sola sílaba tónica por palabra.",
+    "explanation": "Los adverbios terminados en '-mente' son la única excepción a la regla de que una palabra tiene una sola sílaba tónica. Tienen dos: una en el adjetivo base y otra en el sufijo '-mente'.",
+    "tags": ["GENERAL"]
+  },
+  {
+    "question": "En la frase \"No sabemos dónde poner el sofá\", la palabra 'dónde' lleva tilde porque...",
+    "options": [
+      { "text": "introduce una pregunta indirecta.", "correct": true },
+      { "text": "es una palabra esdrújula.", "correct": false },
+      { "text": "es la primera palabra de la oración.", "correct": false },
+      { "text": "termina en una vocal fuerte.", "correct": false },
+      { "text": "No puedo identificar la respuesta 😥", "correct": false }
+    ],
+    "hint": "Aunque no hay signos de interrogación, la oración expresa una duda o pregunta.",
+    "explanation": "Los interrogativos como 'dónde' llevan acento ortográfico incluso cuando se encuentran dentro de una pregunta indirecta, que es una oración que equivale a una pregunta pero no tiene la forma directa ni los signos correspondientes.",
+    "tags": ["GENERAL"]
   }
 ]
