@@ -390,7 +390,7 @@
     "tags": ["GENERAL"]
   },
   {
-    "question": "Aun sin tilde es sinónimo de _______, mientras que aún con tilde significa _______. Completa con las opciones correctas.",
+    "question": "-Aun- sin tilde es sinónimo de _______, mientras que -aún- con tilde significa _______. Completa con las opciones correctas.",
     "options": [
       { "text": "incluso, todavía", "correct": true },
       { "text": "todavía, incluso", "correct": false },
