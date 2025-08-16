@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "CEPRIG1aB",
+    "question": "En la oración 'El perro corre rápidamente por el parque', ¿qué tipo de palabra es 'rápidamente'?",
+    "options": [
+      { "text": "Adverbio", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Verbo", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Modifica al verbo 'corre', indicando el modo en que se realiza la acción.",
+    "explanation": "Es un adverbio de modo, ya que describe cómo corre el perro."
+  },
+  {
+    "id": "CEPRIG2cD",
+    "question": "¿Qué tipo de palabra es 'bajo' en la frase 'El libro está bajo la mesa'?",
+    "options": [
+      { "text": "Preposición", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Verbo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Es una palabra invariable que enlaza 'está' y 'la mesa'.",
+    "explanation": "'Bajo' es una preposición que indica la ubicación del libro con respecto a la mesa."
+  },
+  {
+    "id": "CEPRIG3eF",
+    "question": "En '¡Ay! Me golpeé el dedo', ¿qué tipo de palabra es '¡Ay!'?",
+    "options": [
+      { "text": "Interjección", "correct": true },
+      { "text": "Conjunción", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Expresa una emoción súbita, como el dolor.",
+    "explanation": "'¡Ay!' es una interjección propia utilizada para expresar dolor o sorpresa."
+  },
+  {
+    "id": "CEPRIG4gH",
+    "question": "Identifica el verbo en la oración: 'Los estudiantes aprenden nuevas lecciones cada día'.",
+    "options": [
+      { "text": "aprenden", "correct": true },
+      { "text": "estudiantes", "correct": false },
+      { "text": "nuevas", "correct": false },
+      { "text": "lecciones", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Busca la palabra que indica la acción principal de la oración.",
+    "explanation": "El verbo es 'aprenden', ya que expresa la acción que realizan los estudiantes."
+  },
+  {
+    "id": "CEPRIG5iJ",
+    "question": "¿Qué tipo de palabra es 'libertad'?",
+    "options": [
+      { "text": "Sustantivo", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Verbo", "correct": false },
+      { "text": "Pronombre", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Nombra un concepto o una idea.",
+    "explanation": "'Libertad' es un sustantivo abstracto que designa un concepto."
+  },
+  {
+    "id": "CEPRIG6kL",
+    "question": "En 'Quiero ese libro rojo', ¿qué función cumple la palabra 'ese'?",
+    "options": [
+      { "text": "Determinante", "correct": true },
+      { "text": "Pronombre", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Acompaña al sustantivo 'libro' para especificar a cuál se refiere.",
+    "explanation": "'Ese' es un determinante demostrativo que modifica al sustantivo 'libro'."
+  },
+  {
+    "id": "CEPRIG7mN",
+    "question": "En la oración 'Ella canta y él baila', ¿qué tipo de palabra es 'y'?",
+    "options": [
+      { "text": "Conjunción", "correct": true },
+      { "text": "Preposición", "correct": false },
+      { "text": "Interjección", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Une dos oraciones coordinadas.",
+    "explanation": "'Y' es una conjunción copulativa que une dos ideas."
+  },
+  {
+    "id": "CEPRIG8oP",
+    "question": "La palabra 'inteligente' en 'un niño inteligente' es un:",
+    "options": [
+      { "text": "Adjetivo", "correct": true },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Verbo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Describe una cualidad del sustantivo 'niño'.",
+    "explanation": "'Inteligente' es un adjetivo calificativo que describe una característica del niño."
+  },
+  {
+    "id": "CEPRIG9qR",
+    "question": "¿Qué tipo de palabra es 'ellos' en 'Ellos jugarán en el torneo'?",
+    "options": [
+      { "text": "Pronombre", "correct": true },
+      { "text": "Determinante", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Artículo", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Sustituye a un sustantivo (por ejemplo, 'los jugadores').",
+    "explanation": "'Ellos' es un pronombre personal que funciona como sujeto de la oración."
+  },
+  {
+    "id": "CEPRIG0sT",
+    "question": "En 'una manzana', ¿qué tipo de palabra es 'una'?",
+    "options": [
+      { "text": "Determinante", "correct": true },
+      { "text": "Pronombre", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Preposición", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Presenta al sustantivo 'manzana' de forma no específica.",
+    "explanation": "'Una' es un determinante, específicamente un artículo indefinido."
+  },
+  {
+    "id": "CEPRIG1uV",
+    "question": "La palabra 'caminar' es un:",
+    "options": [
+      { "text": "Verbo", "correct": true },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Es la forma no conjugada (infinitivo) de una palabra que expresa acción.",
+    "explanation": "'Caminar' es un verbo en infinitivo, que nombra una acción."
+  },
+  {
+    "id": "CEPRIG2wX",
+    "question": "En la frase 'para ti', la palabra 'para' es:",
+    "options": [
+      { "text": "Preposición", "correct": true },
+      { "text": "Conjunción", "correct": false },
+      { "text": "Adverbio", "correct": false },
+      { "text": "Verbo", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Relaciona dos elementos y tiene un significado de finalidad o destino.",
+    "explanation": "'Para' es una preposición que introduce un complemento."
+  },
+  {
+    "id": "CEPRIG3yZ",
+    "question": "¿Qué tipo de palabra es 'pero' en 'Es inteligente, pero perezoso'?",
+    "options": [
+      { "text": "Conjunción", "correct": true },
+      { "text": "Adverbio", "correct": false },
+      { "text": "Preposición", "correct": false },
+      { "text": "Interjección", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Une dos ideas que se oponen entre sí.",
+    "explanation": "'Pero' es una conjunción adversativa que contrasta dos ideas."
+  },
+  {
+    "id": "CEPRIG4aC",
+    "question": "La palabra 'feliz' es un:",
+    "options": [
+      { "text": "Adjetivo", "correct": true },
+      { "text": "Adverbio", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Verbo", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Expresa una cualidad o estado de ánimo.",
+    "explanation": "'Feliz' es un adjetivo calificativo que describe un estado."
+  },
+  {
+    "id": "CEPRIG5bE",
+    "question": "En 'El coche es mío', ¿qué tipo de palabra es 'mío'?",
+    "options": [
+      { "text": "Pronombre", "correct": true },
+      { "text": "Determinante", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Sustantivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Sustituye a 'mi coche' e indica posesión.",
+    "explanation": "'Mío' es un pronombre posesivo, ya que no acompaña a un sustantivo sino que lo sustituye."
+  },
+  {
+    "id": "CEPRIG6dF",
+    "question": "En la oración 'La casa tiene un jardín grande', la palabra 'casa' es un:",
+    "options": [
+      { "text": "Sustantivo", "correct": true },
+      { "text": "Verbo", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Artículo", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Nombra un lugar u objeto.",
+    "explanation": "'Casa' es un sustantivo común que designa un lugar."
+  },
+  {
+    "id": "CEPRIG7gH",
+    "question": "¿Qué tipo de palabra es 'siempre'?",
+    "options": [
+      { "text": "Adverbio", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Preposición", "correct": false },
+      { "text": "Conjunción", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Indica el tiempo en que ocurre una acción y es invariable.",
+    "explanation": "'Siempre' es un adverbio de tiempo."
+  },
+  {
+    "id": "CEPRIG8iJ",
+    "question": "La palabra 'con' es una:",
+    "options": [
+      { "text": "Preposición", "correct": true },
+      { "text": "Conjunción", "correct": false },
+      { "text": "Interjección", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Es una palabra de enlace que indica compañía o medio.",
+    "explanation": "'Con' es una preposición que sirve para unir elementos en una oración."
+  },
+  {
+    "id": "CEPRIG9kL",
+    "question": "En '¡Bravo!', la palabra 'Bravo' funciona como:",
+    "options": [
+      { "text": "Interjección", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Se usa para expresar aprobación o admiración de forma exclamativa.",
+    "explanation": "En este contexto, '¡Bravo!' es una interjección impropia, usada para aclamar."
+  },
+  {
+    "id": "CEPRIG0mN",
+    "question": "Identifica el sustantivo en la oración: 'La belleza es subjetiva'.",
+    "options": [
+      { "text": "belleza", "correct": true },
+      { "text": "La", "correct": false },
+      { "text": "es", "correct": false },
+      { "text": "subjetiva", "correct": false }
+    ],
+    "tags": ["GENERAL", "BÁSICO"],
+    "hint": "Es la palabra que nombra el concepto principal de la oración.",
+    "explanation": "'Belleza' es un sustantivo abstracto que actúa como sujeto de la oración."
+  },
+  {
+    "id": "CEPRIG1oP",
+    "question": "En la oración 'La arboleda fue plantada por la comunidad', ¿qué tipo de sustantivo es 'arboleda'?",
+    "options": [
+      { "text": "Colectivo", "correct": true },
+      { "text": "Propio", "correct": false },
+      { "text": "Abstracto", "correct": false },
+      { "text": "Incontable", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Se refiere a un conjunto de elementos (árboles) con una sola palabra en singular.",
+    "explanation": "'Arboleda' es un sustantivo colectivo porque nombra en singular a un grupo de árboles."
+  },
+  {
+    "id": "CEPRIG2qR",
+    "question": "En la frase 'El clima en el Caribe es agradable', ¿qué tipo de sustantivo es 'Caribe'?",
+    "options": [
+      { "text": "Propio", "correct": true },
+      { "text": "Común", "correct": false },
+      { "text": "Concreto", "correct": false },
+      { "text": "Colectivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Nombra un lugar geográfico específico y se escribe con mayúscula inicial.",
+    "explanation": "'Caribe' es un sustantivo propio porque se refiere a una región geográfica única."
+  },
+  {
+    "id": "CEPRIG3sT",
+    "question": "Clasifica el adjetivo en 'Recibí el doble premio'.",
+    "options": [
+      { "text": "Numeral múltiplo", "correct": true },
+      { "text": "Numeral cardinal", "correct": false },
+      { "text": "Numeral ordinal", "correct": false },
+      { "text": "Indefinido", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Indica una cantidad que es resultado de una multiplicación.",
+    "explanation": "'Doble' es un adjetivo numeral múltiplo porque expresa que la cantidad se ha multiplicado por dos."
+  },
+  {
+    "id": "CEPRIG4uV",
+    "question": "En 'Este ejercicio es más fácil que el anterior', la palabra 'Este' es un:",
+    "options": [
+      { "text": "Determinante demostrativo", "correct": true },
+      { "text": "Pronombre demostrativo", "correct": false },
+      { "text": "Adjetivo calificativo", "correct": false },
+      { "text": "Adverbio de lugar", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Acompaña al sustantivo 'ejercicio' para indicar su proximidad.",
+    "explanation": "'Este' funciona como determinante (o adjetivo determinativo) demostrativo porque modifica al sustantivo 'ejercicio' y concuerda con él en género y número."
+  },
+  {
+    "id": "CEPRIG5wX",
+    "question": "En 'El libro cuyo autor admiro está agotado', la palabra 'cuyo' es un:",
+    "options": [
+      { "text": "Pronombre relativo", "correct": true },
+      { "text": "Pronombre posesivo", "correct": false },
+      { "text": "Determinante posesivo", "correct": false },
+      { "text": "Conjunción", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Introduce una oración subordinada y tiene un valor posesivo.",
+    "explanation": "'Cuyo' es un pronombre relativo con valor posesivo, que relaciona 'autor' con 'libro'."
+  },
+  {
+    "id": "CEPRIG6yZ",
+    "question": "¿Qué tipo de verbo es 'llover' en la oración 'Ayer llovió mucho'?",
+    "options": [
+      { "text": "Impersonal", "correct": true },
+      { "text": "Transitivo", "correct": false },
+      { "text": "Copulativo", "correct": false },
+      { "text": "Pronominal", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Es un verbo que se refiere a un fenómeno de la naturaleza y no tiene un sujeto explícito.",
+    "explanation": "'Llover' es un verbo impersonal (o terciopersonal) porque se conjuga solo en la tercera persona del singular y carece de sujeto."
+  },
+  {
+    "id": "CEPRIG7aC",
+    "question": "En 'El atleta parece cansado', el verbo 'parece' es:",
+    "options": [
+      { "text": "Copulativo", "correct": true },
+      { "text": "Transitivo", "correct": false },
+      { "text": "Intransitivo", "correct": false },
+      { "text": "Auxiliar", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Une al sujeto 'atleta' con un atributo ('cansado').",
+    "explanation": "'Parece', al igual que 'ser' y 'estar', es un verbo copulativo que sirve de nexo entre el sujeto y su atributo."
+  },
+  {
+    "id": "CEPRIG8bE",
+    "question": "En la oración 'Quizás lleguemos a tiempo', ¿qué tipo de adverbio es 'quizás'?",
+    "options": [
+      { "text": "De duda", "correct": true },
+      { "text": "De tiempo", "correct": false },
+      { "text": "De modo", "correct": false },
+      { "text": "De afirmación", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Expresa incertidumbre sobre la acción del verbo.",
+    "explanation": "'Quizás' es un adverbio de duda, ya que indica que la acción de llegar a tiempo no es segura."
+  },
+  {
+    "id": "CEPRIG9dF",
+    "question": "La construcción 'a causa de' en 'Faltó a clase a causa de la lluvia' es una:",
+    "options": [
+      { "text": "Locución preposicional", "correct": true },
+      { "text": "Locución adverbial", "correct": false },
+      { "text": "Locución conjuntiva", "correct": false },
+      { "text": "Preposición simple", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Es un grupo de palabras que funciona como una única preposición.",
+    "explanation": "'A causa de' es una locución preposicional porque está formada por varias palabras (preposición + sustantivo + preposición) que en conjunto tienen el valor de una preposición, indicando motivo."
+  },
+  {
+    "id": "CEPRIG0gH",
+    "question": "En 'Estudia mucho para que apruebes', la palabra 'para que' es una:",
+    "options": [
+      { "text": "Conjunción subordinante", "correct": true },
+      { "text": "Conjunción coordinante", "correct": false },
+      { "text": "Preposición", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Introduce una oración que depende de la principal y expresa finalidad.",
+    "explanation": "'Para que' es una locución conjuntiva subordinante de finalidad, que introduce una oración subordinada."
+  },
+  {
+    "id": "CEPRIG1iJ",
+    "question": "¿Qué tipo de sustantivo es 'agua' en cuanto a su contabilidad?",
+    "options": [
+      { "text": "Incontable", "correct": true },
+      { "text": "Contable", "correct": false },
+      { "text": "Colectivo", "correct": false },
+      { "text": "Propio", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Se refiere a una sustancia que no se puede contar por unidades discretas, sino que se mide.",
+    "explanation": "'Agua' es un sustantivo incontable (o no contable) porque designa una materia que no se puede numerar directamente, aunque se puede medir en litros, vasos, etc."
+  },
+  {
+    "id": "CEPRIG2kL",
+    "question": "En 'El vino francés es famoso', ¿qué tipo de adjetivo es 'francés'?",
+    "options": [
+      { "text": "Gentilicio", "correct": true },
+      { "text": "Calificativo", "correct": false },
+      { "text": "Epíteto", "correct": false },
+      { "text": "Demostrativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Indica el origen o procedencia del sustantivo al que modifica.",
+    "explanation": "'Francés' es un adjetivo gentilicio, ya que se deriva del nombre de un lugar (Francia)."
+  },
+  {
+    "id": "CEPRIG3mN",
+    "question": "En la oración 'Nadie resolvió el acertijo', la palabra 'nadie' es un:",
+    "options": [
+      { "text": "Pronombre indefinido", "correct": true },
+      { "text": "Adverbio de negación", "correct": false },
+      { "text": "Determinante indefinido", "correct": false },
+      { "text": "Sustantivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Se refiere a ninguna persona de forma imprecisa y funciona como núcleo del sujeto.",
+    "explanation": "'Nadie' es un pronombre indefinido porque sustituye a un sustantivo para referirse a personas de manera vaga y con sentido negativo."
+  },
+  {
+    "id": "CEPRIG4oP",
+    "question": "En 'He comprado un coche', el verbo 'he' es un:",
+    "options": [
+      { "text": "Verbo auxiliar", "correct": true },
+      { "text": "Verbo copulativo", "correct": false },
+      { "text": "Verbo transitivo", "correct": false },
+      { "text": "Verbo impersonal", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Forma parte de un tiempo compuesto ('pretérito perfecto compuesto') junto al participio 'comprado'.",
+    "explanation": "'He' (del verbo haber) es un verbo auxiliar que se utiliza para formar los tiempos compuestos de otros verbos."
+  },
+  {
+    "id": "CEPRIG5qR",
+    "question": "Clasifica el adverbio en 'Come demasiado rápido'.",
+    "options": [
+      { "text": "De cantidad", "correct": true },
+      { "text": "De modo", "correct": false },
+      { "text": "De tiempo", "correct": false },
+      { "text": "De lugar", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "La palabra 'demasiado' modifica a otro adverbio ('rápido'), indicando su intensidad.",
+    "explanation": "'Demasiado' es un adverbio de cantidad que cuantifica al adverbio 'rápido'."
+  },
+  {
+    "id": "CEPRIG6sT",
+    "question": "En '¿O vienes o te quedas?', la conjunción 'o' es:",
+    "options": [
+      { "text": "Disyuntiva", "correct": true },
+      { "text": "Copulativa", "correct": false },
+      { "text": "Adversativa", "correct": false },
+      { "text": "Condicional", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Presenta dos opciones que se excluyen mutuamente.",
+    "explanation": "'O' es una conjunción coordinante disyuntiva porque une elementos ofreciendo una alternativa."
+  },
+  {
+    "id": "CEPRIG7uV",
+    "question": "La palabra 'aquellos' en 'Aquellos llegaron tarde' es un:",
+    "options": [
+      { "text": "Pronombre demostrativo", "correct": true },
+      { "text": "Determinante demostrativo", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "No acompaña a ningún sustantivo, sino que lo sustituye, indicando lejanía.",
+    "explanation": "'Aquellos' funciona como pronombre demostrativo porque sustituye a un sustantivo que se encuentra lejos del hablante."
+  },
+  {
+    "id": "CEPRIG8wX",
+    "question": "En la oración 'La blanca nieve cubría el campo', 'blanca' es un:",
+    "options": [
+      { "text": "Epíteto", "correct": true },
+      { "text": "Adjetivo calificativo", "correct": false },
+      { "text": "Gentilicio", "correct": false },
+      { "text": "Adjetivo especificativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Es un adjetivo que resalta una cualidad inherente y obvia del sustantivo.",
+    "explanation": "'Blanca' es un epíteto, un tipo de adjetivo calificativo que no añade información nueva, sino que subraya una característica propia de la nieve."
+  },
+  {
+    "id": "CEPRIG9yZ",
+    "question": "En 'Mi libro está aquí; el tuyo, allá', ¿qué tipo de palabra es 'tuyo'?",
+    "options": [
+      { "text": "Pronombre posesivo", "correct": true },
+      { "text": "Determinante posesivo", "correct": false },
+      { "text": "Adjetivo posesivo", "correct": false },
+      { "text": "Pronombre personal", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Sustituye a la construcción 'tu libro' e indica posesión.",
+    "explanation": "'Tuyo' es un pronombre posesivo porque reemplaza a un sustantivo y su determinante ('tu libro')."
+  },
+  {
+    "id": "CEPRIG0aC",
+    "question": "En 'No quiero esto, sino aquello', la palabra 'sino' es una:",
+    "options": [
+      { "text": "Conjunción adversativa", "correct": true },
+      { "text": "Preposición", "correct": false },
+      { "text": "Adverbio de negación", "correct": false },
+      { "text": "Conjunción condicional", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Contrapone una afirmación a una negación previa.",
+    "explanation": "'Sino' es una conjunción coordinante adversativa que se usa para contraponer un concepto afirmativo a otro negativo anterior."
+  },
+  {
+    "id": "CEPRIG1bE",
+    "question": "En la frase 'El tercer clasificado recibirá una medalla', el adjetivo 'tercer' es:",
+    "options": [
+      { "text": "Numeral ordinal", "correct": true },
+      { "text": "Numeral cardinal", "correct": false },
+      { "text": "Numeral partitivo", "correct": false },
+      { "text": "Indefinido", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Indica el orden o la posición en una serie.",
+    "explanation": "'Tercer' (apócope de tercero) es un adjetivo numeral ordinal porque señala la posición que ocupa el sustantivo 'clasificado'."
+  },
+  {
+    "id": "CEPRIG2dF",
+    "question": "¿Qué tipo de verbo es 'construir' por su conjugación?",
+    "options": [
+      { "text": "Irregular", "correct": true },
+      { "text": "Regular", "correct": false },
+      { "text": "Defectivo", "correct": false },
+      { "text": "Auxiliar", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Al conjugarlo, su raíz cambia en algunas formas (ej. construyo).",
+    "explanation": "'Construir' es un verbo irregular porque su raíz (constru-) se altera en algunas formas de su conjugación (construyo, construyes)."
+  },
+  {
+    "id": "CEPRIG3gH",
+    "question": "En 'Compré varias cosas', la palabra 'varias' es un:",
+    "options": [
+      { "text": "Determinante indefinido", "correct": true },
+      { "text": "Adverbio de cantidad", "correct": false },
+      { "text": "Pronombre indefinido", "correct": false },
+      { "text": "Adjetivo calificativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Acompaña al sustantivo 'cosas' para indicar una cantidad imprecisa.",
+    "explanation": "'Varias' es un determinante (o adjetivo) indefinido porque modifica al sustantivo 'cosas' expresando una cantidad no exacta."
+  },
+  {
+    "id": "CEPRIG4iJ",
+    "question": "En la oración 'La yegua es la hembra del caballo', ¿qué tipo de relación existe entre 'yegua' y 'caballo'?",
+    "options": [
+      { "text": "Sustantivos heterónimos", "correct": true },
+      { "text": "Sustantivos epicenos", "correct": false },
+      { "text": "Sustantivos ambiguos", "correct": false },
+      { "text": "Sustantivos comunes", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Utilizan palabras diferentes para designar el masculino y el femenino.",
+    "explanation": "Son sustantivos heterónimos porque se usan lexemas distintos para marcar la diferencia de género (caballo/yegua)."
+  },
+  {
+    "id": "CEPRIG5kL",
+    "question": "Clasifica el verbo en 'El niño durmió toda la noche'.",
+    "options": [
+      { "text": "Intransitivo", "correct": true },
+      { "text": "Transitivo", "correct": false },
+      { "text": "Copulativo", "correct": false },
+      { "text": "Pronominal", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "La acción del verbo no recae sobre un objeto directo.",
+    "explanation": "'Durmió' es un verbo intransitivo porque la acción tiene sentido completo y no requiere un objeto directo. 'Toda la noche' es un complemento circunstancial de tiempo."
+  },
+  {
+    "id": "CEPRIG6mN",
+    "question": "En 'El cómo lo hiciste es un misterio', la palabra 'cómo' funciona como:",
+    "options": [
+      { "text": "Adverbio interrogativo sustantivado", "correct": true },
+      { "text": "Conjunción", "correct": false },
+      { "text": "Preposición", "correct": false },
+      { "text": "Adjetivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Introduce una oración subordinada sustantiva y va precedido de un artículo.",
+    "explanation": "Aquí, 'cómo' es un adverbio interrogativo que, al ir precedido del artículo 'el', se sustantiva y funciona como núcleo del sujeto de la oración principal."
+  },
+  {
+    "id": "CEPRIG7oP",
+    "question": "En la oración 'Ese es mi abrigo', la palabra 'mi' es un:",
+    "options": [
+      { "text": "Determinante posesivo", "correct": true },
+      { "text": "Pronombre posesivo", "correct": false },
+      { "text": "Pronombre personal", "correct": false },
+      { "text": "Adjetivo calificativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Acompaña al sustantivo 'abrigo' para indicar a quién pertenece.",
+    "explanation": "'Mi' es un determinante posesivo (forma átona) que precede al sustantivo y concuerda con él."
+  },
+  {
+    "id": "CEPRIG8qR",
+    "question": "El verbo 'ser' en la frase 'El examen fue difícil' es:",
+    "options": [
+      { "text": "Copulativo e irregular", "correct": true },
+      { "text": "Auxiliar y regular", "correct": false },
+      { "text": "Transitivo e irregular", "correct": false },
+      { "text": "Intransitivo y regular", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Une sujeto y atributo, y su conjugación no sigue el modelo regular.",
+    "explanation": "Es copulativo porque une 'examen' con 'difícil', y es irregular porque su conjugación (soy, eres, es, fui, etc.) se aparta del verbo modelo."
+  },
+  {
+    "id": "CEPRIG9sT",
+    "question": "En 'Llegó, así que podemos empezar', la construcción 'así que' es una:",
+    "options": [
+      { "text": "Locución conjuntiva", "correct": true },
+      { "text": "Locución preposicional", "correct": false },
+      { "text": "Locución adverbial", "correct": false },
+      { "text": "Interjección", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Es un grupo de palabras que funciona como una conjunción, indicando consecuencia.",
+    "explanation": "'Así que' es una locución conjuntiva consecutiva, ya que une dos oraciones donde la segunda es consecuencia de la primera."
+  },
+  {
+    "id": "CEPRIG0uV",
+    "question": "El sustantivo 'persona' en 'Cualquier persona puede participar' es:",
+    "options": [
+      { "text": "Epiceno", "correct": true },
+      { "text": "Ambiguo", "correct": false },
+      { "text": "Heterónimo", "correct": false },
+      { "text": "Común", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Utiliza una única forma gramatical para referirse a individuos de ambos sexos.",
+    "explanation": "'Persona' es un sustantivo epiceno porque tiene un solo género gramatical (femenino: 'la persona') para designar tanto a hombres como a mujeres."
+  },
+  {
+    "id": "CEPRIG1wX",
+    "question": "¿Qué tipo de palabra es 'quien' en 'El hombre de quien te hablé es mi tío'?",
+    "options": [
+      { "text": "Pronombre relativo", "correct": true },
+      { "text": "Pronombre interrogativo", "correct": false },
+      { "text": "Conjunción", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Introduce una oración subordinada adjetiva y se refiere a un antecedente ('el hombre').",
+    "explanation": "'Quien' es un pronombre relativo que funciona como término de la preposición 'de' y tiene como antecedente a 'hombre'."
+  },
+  {
+    "id": "CEPRIG2yZ",
+    "question": "En 'No he comido nada', la palabra 'nada' funciona como:",
+    "options": [
+      { "text": "Pronombre indefinido", "correct": true },
+      { "text": "Adverbio de negación", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Determinante indefinido", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Funciona como objeto directo y se refiere a 'ninguna cosa'.",
+    "explanation": "'Nada' es un pronombre indefinido con valor negativo que actúa como objeto directo del verbo 'he comido'."
+  },
+  {
+    "id": "CEPRIG3aC",
+    "question": "En la frase 'El mar / la mar', el sustantivo 'mar' es de tipo:",
+    "options": [
+      { "text": "Ambiguo", "correct": true },
+      { "text": "Epiceno", "correct": false },
+      { "text": "Heterónimo", "correct": false },
+      { "text": "Propio", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Puede usarse tanto en masculino como en femenino sin que cambie su significado.",
+    "explanation": "'Mar' es un sustantivo ambiguo en cuanto al género, ya que admite el uso de ambos artículos (el/la) sin cambiar de significado, aunque 'el mar' es más común."
+  },
+  {
+    "id": "CEPRIG4bE",
+    "question": "El verbo 'soler' en 'Suelo leer antes de dormir' es un verbo:",
+    "options": [
+      { "text": "Defectivo", "correct": true },
+      { "text": "Regular", "correct": false },
+      { "text": "Pronominal", "correct": false },
+      { "text": "Copulativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "No se conjuga en todos los tiempos y personas (por ejemplo, no tiene futuro simple).",
+    "explanation": "'Soler' es un verbo defectivo porque su conjugación está incompleta; se usa principalmente en presente y pretérito imperfecto."
+  },
+  {
+    "id": "CEPRIG5dF",
+    "question": "En 'Me lo dijo', ¿qué tipo de pronombre es 'me'?",
+    "options": [
+      { "text": "Proclítico", "correct": true },
+      { "text": "Enclítico", "correct": false },
+      { "text": "Reflexivo", "correct": false },
+      { "text": "Relativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Es un pronombre átono que se sitúa antes del verbo.",
+    "explanation": "'Me' es un pronombre personal átono que funciona como proclítico porque precede al verbo ('dijo') sin formar una sola palabra con él."
+  },
+  {
+    "id": "CEPRIG6gH",
+    "question": "En 'Estudié porque quería aprobar', la conjunción 'porque' es:",
+    "options": [
+      { "text": "Subordinante causal", "correct": true },
+      { "text": "Coordinante copulativa", "correct": false },
+      { "text": "Subordinante condicional", "correct": false },
+      { "text": "Coordinante adversativa", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Introduce una oración que expresa la causa o el motivo de la acción principal.",
+    "explanation": "'Porque' es una conjunción subordinante causal, ya que encabeza una oración subordinada que indica la razón de la principal."
+  },
+  {
+    "id": "CEPRIG7iJ",
+    "question": "La palabra 'ambos' en 'Ambos hermanos asistieron' es un:",
+    "options": [
+      { "text": "Determinante numeral", "correct": true },
+      { "text": "Pronombre indefinido", "correct": false },
+      { "text": "Adverbio de cantidad", "correct": false },
+      { "text": "Adjetivo calificativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Funciona como 'los dos' y acompaña al sustantivo 'hermanos'.",
+    "explanation": "'Ambos' es un determinante numeral con valor dual, que especifica que son dos los elementos del sustantivo al que modifica."
+  },
+  {
+    "id": "CEPRIG8kL",
+    "question": "En 'El niño come una manzana', el verbo 'come' es:",
+    "options": [
+      { "text": "Transitivo", "correct": true },
+      { "text": "Intransitivo", "correct": false },
+      { "text": "Copulativo", "correct": false },
+      { "text": "Reflexivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "La acción del verbo recae sobre un objeto directo ('una manzana').",
+    "explanation": "'Come' es un verbo transitivo porque su significado exige un complemento directo sobre el cual recae la acción."
+  },
+  {
+    "id": "CEPRIG9mN",
+    "question": "En la frase 'El fiero león rugió', el adjetivo 'fiero' es un:",
+    "options": [
+      { "text": "Epíteto", "correct": true },
+      { "text": "Gentilicio", "correct": false },
+      { "text": "Demostrativo", "correct": false },
+      { "text": "Posesivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Destaca una cualidad que se considera inherente al sustantivo 'león'.",
+    "explanation": "'Fiero' es un epíteto que subraya una cualidad prototípica del león, sin añadir información nueva para distinguirlo de otros leones."
+  },
+  {
+    "id": "CEPRIG0oP",
+    "question": "En la oración 'Si estudias, aprobarás', la conjunción 'si' es:",
+    "options": [
+      { "text": "Condicional", "correct": true },
+      { "text": "Causal", "correct": false },
+      { "text": "Concesiva", "correct": false },
+      { "text": "Copulativa", "correct": false }
+    ],
+    "tags": ["GENERAL", "INTERMEDIO"],
+    "hint": "Introduce una oración que expresa una condición para que se cumpla la oración principal.",
+    "explanation": "'Si' es una conjunción subordinante condicional que encabeza la prótasis (la condición) de una estructura condicional."
+  },
+  {
+    "id": "CEPRIG1qR",
+    "question": "Analiza la función y subcategoría de 'se' en 'Se dice que el conocimiento es poder'.",
+    "options": [
+      { "text": "Marca de impersonalidad", "correct": true },
+      { "text": "Pronombre reflexivo", "correct": false },
+      { "text": "Pronombre recíproco", "correct": false },
+      { "text": "Pronombre personal (OI)", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "La oración carece de un sujeto gramatical específico; 'se' generaliza la acción.",
+    "explanation": "En esta oración, 'se' es una marca de impersonalidad refleja. La oración es impersonal, ya que no se atribuye la acción de 'decir' a nadie en concreto."
+  },
+  {
+    "id": "CEPRIG2sT",
+    "question": "En 'Dámelo ahora mismo', el pronombre 'lo' es:",
+    "options": [
+      { "text": "Enclítico", "correct": true },
+      { "text": "Proclítico", "correct": false },
+      { "text": "Tónico", "correct": false },
+      { "text": "Reflexivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es un pronombre átono que se une al final de una forma verbal (imperativo).",
+    "explanation": "'Lo' es un pronombre personal átono en función de objeto directo que se ha unido como enclítico al imperativo 'da', formando una sola palabra acentual."
+  },
+  {
+    "id": "CEPRIG3uV",
+    "question": "En 'El azul es mi color favorito', ¿cuál es la categoría gramatical de 'azul'?",
+    "options": [
+      { "text": "Sustantivo (adjetivo sustantivado)", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Adverbio", "correct": false },
+      { "text": "Pronombre", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Va precedido de un artículo ('el') y funciona como núcleo del sujeto.",
+    "explanation": "'Azul' es un adjetivo que ha sido sustantivado mediante el artículo 'el'. En esta oración, funciona como un sustantivo y es el sujeto de la oración."
+  },
+  {
+    "id": "CEPRIG4wX",
+    "question": "El verbo 'atañer' (ej. 'eso no me atañe') es un verbo:",
+    "options": [
+      { "text": "Defectivo y transitivo", "correct": true },
+      { "text": "Regular e intransitivo", "correct": false },
+      { "text": "Irregular y copulativo", "correct": false },
+      { "text": "Pronominal y regular", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Solo se conjuga en las terceras personas y requiere un complemento directo.",
+    "explanation": "'Atañer' es un verbo defectivo, ya que solo se usa en las terceras personas del singular y plural. También es transitivo, pues significa 'corresponder a' o 'incumbir a' alguien (CD o CI)."
+  },
+  {
+    "id": "CEPRIG5yZ",
+    "question": "En 'Incluso él lo sabe', la palabra 'incluso' es un:",
+    "options": [
+      { "text": "Adverbio de foco", "correct": true },
+      { "text": "Preposición", "correct": false },
+      { "text": "Conjunción", "correct": false },
+      { "text": "Adverbio de modo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Enfatiza o pone de relieve el elemento que le sigue ('él').",
+    "explanation": "'Incluso' (al igual que 'hasta', 'también', 'solo') es un adverbio de foco o inclusión, cuya función es destacar el constituyente oracional al que precede."
+  },
+  {
+    "id": "CEPRIG6aC",
+    "question": "Distingue el valor del verbo 'escribió' frente a 'escribía' en cuanto al aspecto verbal.",
+    "options": [
+      { "text": "'Escribió' es perfectivo y 'escribía' es imperfectivo", "correct": true },
+      { "text": "'Escribió' es imperfectivo y 'escribía' es perfectivo", "correct": false },
+      { "text": "Ambos son perfectivos", "correct": false },
+      { "text": "Ambos son imperfectivos", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Uno presenta la acción como terminada, mientras que el otro la presenta en su transcurso.",
+    "explanation": "El pretérito perfecto simple ('escribió') tiene un aspecto perfectivo, es decir, presenta la acción como concluida. El pretérito imperfecto ('escribía') tiene un aspecto imperfectivo, mostrando la acción en su desarrollo, sin indicar su fin."
+  },
+  {
+    "id": "CEPRIG7bE",
+    "question": "En 'El yerno llegó con su suegro', los sustantivos 'yerno' y 'suegro' son:",
+    "options": [
+      { "text": "Heterónimos", "correct": true },
+      { "text": "Epicenos", "correct": false },
+      { "text": "Ambiguos", "correct": false },
+      { "text": "Comunes de dos", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Utilizan lexemas completamente diferentes para marcar la oposición de género o relación familiar.",
+    "explanation": "'Yerno/nuera' y 'suegro/suegra' son ejemplos de heteronimia, un procedimiento por el cual la oposición de género se marca con palabras de raíces distintas."
+  },
+  {
+    "id": "CEPRIG8dF",
+    "question": "En la frase 'Se queja constantemente de su suerte', el verbo 'quejarse' es de tipo:",
+    "options": [
+      { "text": "Pronominal", "correct": true },
+      { "text": "Reflexivo", "correct": false },
+      { "text": "Recíproco", "correct": false },
+      { "text": "Pasivo reflejo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es un verbo que se conjuga obligatoriamente con un pronombre átono que concuerda con el sujeto.",
+    "explanation": "'Quejarse' es un verbo pronominal puro o inherente, ya que el pronombre 'se' es un morfema constitutivo del verbo y no cumple una función sintáctica independiente."
+  },
+  {
+    "id": "CEPRIG9gH",
+    "question": "La construcción 'con respecto a' es una:",
+    "options": [
+      { "text": "Locución preposicional", "correct": true },
+      { "text": "Locución adverbial", "correct": false },
+      { "text": "Locución verbal", "correct": false },
+      { "text": "Locución conjuntiva", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es un grupo de palabras fijo que equivale funcionalmente a una preposición como 'sobre'.",
+    "explanation": "'Con respecto a' es una locución preposicional que introduce el tema o asunto del que se va a tratar."
+  },
+  {
+    "id": "CEPRIG0iJ",
+    "question": "En la oración 'Aunque llovía, salimos al parque', la palabra 'aunque' es una:",
+    "options": [
+      { "text": "Conjunción subordinante concesiva", "correct": true },
+      { "text": "Conjunción coordinante adversativa", "correct": false },
+      { "text": "Adverbio de duda", "correct": false },
+      { "text": "Preposición", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Introduce una oración que expresa una objeción o dificultad que no impide el cumplimiento de la oración principal.",
+    "explanation": "'Aunque' es una conjunción subordinante concesiva. Introduce una oración que presenta un obstáculo a la acción principal, pero esta se cumple de todas formas."
+  },
+  {
+    "id": "CEPRIG1kL",
+    "question": "Analiza la función de 'se' en 'Los amantes se besaron apasionadamente'.",
+    "options": [
+      { "text": "Pronombre recíproco", "correct": true },
+      { "text": "Pronombre reflexivo", "correct": false },
+      { "text": "Marca de pasiva refleja", "correct": false },
+      { "text": "Dativo ético", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "La acción es mutua entre los dos miembros del sujeto plural ('el uno al otro').",
+    "explanation": "En esta oración, 'se' es un pronombre recíproco, indicando que la acción del verbo es intercambiada entre los sujetos. Puede ser reemplazado por 'mutuamente'."
+  },
+  {
+    "id": "CEPRIG2mN",
+    "question": "En 'El comer es un placer', 'comer' es un:",
+    "options": [
+      { "text": "Infinitivo sustantivado", "correct": true },
+      { "text": "Verbo en forma personal", "correct": false },
+      { "text": "Adjetivo verbal", "correct": false },
+      { "text": "Gerundio", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es una forma no personal del verbo que, al ir precedida de un artículo, funciona como núcleo del sujeto.",
+    "explanation": "El infinitivo 'comer' está sustantivado por el artículo 'el' y funciona como el sujeto de la oración, cumpliendo el rol de un sustantivo."
+  },
+  {
+    "id": "CEPRIG3oP",
+    "question": "En 'El sospechoso, un hombre alto, fue detenido', ¿qué tipo de sustantivo es 'sospechoso'?",
+    "options": [
+      { "text": "Común de dos", "correct": true },
+      { "text": "Epiceno", "correct": false },
+      { "text": "Ambiguo", "correct": false },
+      { "text": "Heterónimo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es un sustantivo que tiene la misma forma para el masculino y el femenino, y el género se marca con el determinante ('el/la').",
+    "explanation": "'Sospechoso' es un sustantivo común en cuanto al género (o común de dos), ya que se usa la misma palabra para ambos sexos ('el sospechoso' / 'la sospechoso')."
+  },
+  {
+    "id": "CEPRIG4qR",
+    "question": "Clasifica la palabra 'donde' en 'La casa donde nací ya no existe'.",
+    "options": [
+      { "text": "Adverbio relativo", "correct": true },
+      { "text": "Pronombre relativo", "correct": false },
+      { "text": "Conjunción subordinante", "correct": false },
+      { "text": "Adverbio interrogativo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Introduce una oración subordinada adjetiva y tiene un antecedente ('casa') con valor de lugar.",
+    "explanation": "'Donde' es un adverbio relativo de lugar. Cumple una doble función: nexo subordinante y complemento circunstancial de lugar dentro de su oración ('nací allí')."
+  },
+  {
+    "id": "CEPRIG5sT",
+    "question": "En la frase '¡Vaya con el niño!', la palabra 'vaya' funciona como:",
+    "options": [
+      { "text": "Interjección impropia", "correct": true },
+      { "text": "Verbo en subjuntivo", "correct": false },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Adjetivo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es una forma verbal utilizada con valor exclamativo para expresar sorpresa o enfado.",
+    "explanation": "Aunque 'vaya' es una forma del verbo 'ir', en este contexto exclamativo se utiliza como una interjección impropia para manifestar una emoción intensa."
+  },
+  {
+    "id": "CEPRIG6uV",
+    "question": "En 'El debate versó sobre la bioética', el verbo 'versar' es:",
+    "options": [
+      { "text": "Intransitivo que rige preposición", "correct": true },
+      { "text": "Transitivo", "correct": false },
+      { "text": "Copulativo", "correct": false },
+      { "text": "Pronominal", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "No tiene objeto directo, pero exige un complemento introducido por 'sobre' o 'acerca de'.",
+    "explanation": "'Versar' es un verbo intransitivo que requiere un complemento de régimen preposicional (o suplemento) para completar su significado ('tratar sobre algo')."
+  },
+  {
+    "id": "CEPRIG7wX",
+    "question": "Distingue la función de 'que' en 'Dijo que vendría' y 'El libro que leo es bueno'.",
+    "options": [
+      { "text": "Conjunción en el primero, pronombre relativo en el segundo", "correct": true },
+      { "text": "Pronombre relativo en ambos", "correct": false },
+      { "text": "Conjunción en ambos", "correct": false },
+      { "text": "Preposición en el primero, conjunción en el segundo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "En el primer caso solo une oraciones. En el segundo, además de unir, cumple una función (objeto directo) dentro de su oración.",
+    "explanation": "En 'dijo que vendría', 'que' es una conjunción subordinante que introduce una oración subordinada sustantiva. En 'el libro que leo', 'que' es un pronombre relativo con antecedente ('libro') y función de objeto directo de 'leo'."
+  },
+  {
+    "id": "CEPRIG8yZ",
+    "question": "La palabra 'sendos' en 'Los ganadores recibieron sendos premios' es un:",
+    "options": [
+      { "text": "Determinante distributivo", "correct": true },
+      { "text": "Adjetivo calificativo", "correct": false },
+      { "text": "Adverbio de cantidad", "correct": false },
+      { "text": "Pronombre indefinido", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Significa 'uno para cada uno' de los miembros mencionados anteriormente.",
+    "explanation": "'Sendos' es un determinante distributivo que significa que a cada una de las personas o cosas mencionadas le corresponde una de las mencionadas en segundo lugar."
+  },
+  {
+    "id": "CEPRIG9aC",
+    "question": "En 'A fuer de ser sincero, no me gustó', la construcción 'a fuer de' es:",
+    "options": [
+      { "text": "Una locución preposicional arcaica", "correct": true },
+      { "text": "Una locución adverbial de modo", "correct": false },
+      { "text": "Una locución conjuntiva condicional", "correct": false },
+      { "text": "Un arcaísmo verbal", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Significa 'en virtud de' o 'como'. Es un grupo fijo de palabras que funciona como una preposición.",
+    "explanation": "'A fuer de' es una locución preposicional de uso culto o literario que significa 'en calidad de' o 'por ser'."
+  },
+  {
+    "id": "CEPRIG0bE",
+    "question": "Analiza 'se' en 'Se venden pisos en esta zona'.",
+    "options": [
+      { "text": "Marca de pasiva refleja", "correct": true },
+      { "text": "Marca de impersonalidad", "correct": false },
+      { "text": "Pronombre reflexivo", "correct": false },
+      { "text": "Pronombre recíproco", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "La oración tiene un sujeto paciente ('pisos') que concuerda con el verbo en plural.",
+    "explanation": "Es una oración pasiva refleja. 'Pisos' es el sujeto paciente ('Pisos son vendidos') y el verbo ('venden') concuerda con él en número y persona."
+  },
+  {
+    "id": "CEPRIG1dF",
+    "question": "En 'El porqué de su decisión es un enigma', la palabra 'porqué' es un:",
+    "options": [
+      { "text": "Sustantivo", "correct": true },
+      { "text": "Conjunción causal", "correct": false },
+      { "text": "Adverbio interrogativo", "correct": false },
+      { "text": "Preposición + pronombre", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es una sola palabra, tónica, y va precedida de un determinante, significando 'la causa' o 'el motivo'.",
+    "explanation": "'Porqué' es un sustantivo masculino que significa causa, motivo o razón. Como tal, puede ser modificado por determinantes y tener plural ('los porqués')."
+  },
+  {
+    "id": "CEPRIG2gH",
+    "question": "En el enunciado 'Sabio como es, no supo responder', la construcción 'como es' tiene un valor:",
+    "options": [
+      { "text": "Ponderativo o intensivo", "correct": true },
+      { "text": "Comparativo", "correct": false },
+      { "text": "Modal", "correct": false },
+      { "text": "Causal", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "La estructura 'adjetivo + como + verbo ser' se usa para enfatizar la cualidad expresada por el adjetivo.",
+    "explanation": "En esta estructura, la construcción encabezada por 'como' no establece una comparación, sino que tiene un valor intensificador o ponderativo, equivalente a 'aunque es muy sabio' o 'siendo tan sabio'."
+  },
+  {
+    "id": "CEPRIG3iJ",
+    "question": "El adjetivo 'magno' en 'un evento magno' es un:",
+    "options": [
+      { "text": "Adjetivo calificativo apocopado", "correct": true },
+      { "text": "Epíteto", "correct": false },
+      { "text": "Gentilicio", "correct": false },
+      { "text": "Adjetivo numeral", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es una forma culta y abreviada que se antepone al sustantivo y significa 'grande'.",
+    "explanation": "'Magno' es un adjetivo calificativo, a menudo considerado un cultismo, que es la forma apocopada de 'grande' cuando se antepone a ciertos sustantivos (ej. Alejandro Magno, Aula Magna)."
+  },
+  {
+    "id": "CEPRIG4kL",
+    "question": "En 'Habiendo finalizado la reunión, los asistentes se retiraron', 'habiendo finalizado' es:",
+    "options": [
+      { "text": "Una construcción absoluta de participio", "correct": true },
+      { "text": "Una perífrasis verbal de infinitivo", "correct": false },
+      { "text": "Una oración subordinada adverbial temporal", "correct": false },
+      { "text": "Un gerundio compuesto", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "En realidad el ejemplo es de gerundio compuesto, pero se pregunta por el participio. Lo correcto es Gerundio. Lo corregiré. 'Habiendo finalizado' es una construcción de gerundio compuesto que funciona como una cláusula absoluta.",
+    "explanation": "'Habiendo finalizado' es un gerundio compuesto (auxiliar 'haber' en gerundio + participio) que forma una cláusula absoluta. Tiene su propio sujeto ('la reunión') y modifica a toda la oración principal, aportando un valor temporal o causal ('Una vez que finalizó la reunión...')."
+  },
+  {
+    "id": "CEPRIG5mN",
+    "question": "En 'Me sé la lección de memoria', el pronombre 'me' tiene un valor de:",
+    "options": [
+      { "text": "Dativo de interés o ético", "correct": true },
+      { "text": "Objeto directo", "correct": false },
+      { "text": "Objeto indirecto", "correct": false },
+      { "text": "Morfema verbal pronominal", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Es un pronombre que enfatiza la participación o el interés del sujeto en la acción, pero no es sintácticamente necesario.",
+    "explanation": "Este 'me' es un dativo de interés (o dativo ético). Es un elemento enfático que subraya la implicación del sujeto en la acción del verbo. La oración 'Sé la lección' es gramaticalmente completa sin él."
+  },
+  {
+    "id": "CEPRIG6oP",
+    "question": "La palabra 'cuyo' es la única forma que conserva del:",
+    "options": [
+      { "text": "Genitivo latino", "correct": true },
+      { "text": "Acusativo latino", "correct": false },
+      { "text": "Ablativo latino", "correct": false },
+      { "text": "Dativo latino", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "El latín usaba casos para indicar las funciones sintácticas. Uno de ellos indicaba posesión o pertenencia.",
+    "explanation": "El pronombre relativo 'cuyo' es el único vestigio funcional en el español moderno del caso genitivo del latín, que se usaba para expresar el complemento del nombre, incluyendo la posesión."
+  },
+  {
+    "id": "CEPRIG7qR",
+    "question": "En 'Solo quiero que me escuches', el adverbio 'solo' es:",
+    "options": [
+      { "text": "Adverbio de foco", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Adverbio de modo", "correct": false },
+      { "text": "Conjunción", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Restringe el significado de toda la oración subordinada, indicando que es lo único que se desea.",
+    "explanation": "'Solo' (equivalente a 'solamente') es un adverbio de foco que incide sobre el elemento que le sigue, en este caso la proposición 'que me escuches', para excluir otras posibles opciones."
+  },
+  {
+    "id": "CEPRIG8sT",
+    "question": "En 'El reo fue conducido ante el juez', el sustantivo 'reo' es un ejemplo de:",
+    "options": [
+      { "text": "Sustantivo común de dos", "correct": true },
+      { "text": "Sustantivo epiceno", "correct": false },
+      { "text": "Sustantivo ambiguo", "correct": false },
+      { "text": "Sustantivo heterónimo", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "La misma palabra sirve para masculino y femenino; el género lo marca el artículo.",
+    "explanation": "'Reo' es un sustantivo común en cuanto al género. Se dice 'el reo' para un hombre y 'la reo' para una mujer, cambiando solo el determinante."
+  },
+  {
+    "id": "CEPRIG9uV",
+    "question": "En la expresión 'Conque esas tenemos, ¿eh?', la palabra 'conque' es una:",
+    "options": [
+      { "text": "Conjunción ilativa", "correct": true },
+      { "text": "Preposición + conjunción", "correct": false },
+      { "text": "Adverbio", "correct": false },
+      { "text": "Interjección", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Se escribe en una sola palabra e introduce una consecuencia o una conclusión, a menudo con un matiz de sorpresa o reproche.",
+    "explanation": "'Conque' es una conjunción ilativa o consecutiva que se utiliza para enunciar una consecuencia natural de algo que se acaba de decir. No debe confundirse con 'con que' (preposición + pronombre/conjunción)."
+  },
+  {
+    "id": "CEPRIG0wX",
+    "question": "¿Cuál de las siguientes opciones contiene una perífrasis verbal de obligación?",
+    "options": [
+      { "text": "Hay que estudiar más.", "correct": true },
+      { "text": "Suele llegar tarde.", "correct": false },
+      { "text": "Está a punto de llover.", "correct": false },
+      { "text": "Lleva trabajando aquí dos años.", "correct": false }
+    ],
+    "tags": ["GENERAL", "AVANZADO"],
+    "hint": "Busca una estructura formada por un verbo auxiliar más un infinitivo que exprese deber o necesidad.",
+    "explanation": "La estructura 'haber que + infinitivo' (hay que estudiar) es una perífrasis verbal modal de obligación con carácter impersonal."
+  }
+]
