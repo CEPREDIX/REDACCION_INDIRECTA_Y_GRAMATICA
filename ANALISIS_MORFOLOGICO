@@ -1,0 +1,2773 @@
+[
+  {
+    "id": "CEPRIG01aa",
+    "question": "En la oración 'La jauría persiguió al ciervo por el bosque', ¿qué tipo de sustantivo es 'jauría'?",
+    "image": "https://tomi-digital-resources.storage.googleapis.com/images/1261472/4cce2809-a47d-4a70-b2ef-611e616fafdf.jpg",
+    "options": [
+      { "text": "Colectivo", "correct": true },
+      { "text": "Propio", "correct": false },
+      { "text": "Abstracto", "correct": false },
+      { "text": "Contable", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se refiere a un grupo de individuos con una sola palabra.",
+    "explanation": "Un sustantivo colectivo es aquel que, en singular, designa a un conjunto de seres u objetos, como 'jauría' que se refiere a un grupo de perros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ab",
+    "question": "Identifica la opción que solo contiene sustantivos propios.",
+    "image": "https://tomi-digital-resources.storage.googleapis.com/images/1261472/4cce2809-a47d-4a70-b2ef-611e616fafdf.jpg",
+    "options": [
+      { "text": "México, Júpiter, Ricardo", "correct": true },
+      { "text": "País, Planeta, Niño", "correct": false },
+      { "text": "Ciudad, Río, Montaña", "correct": false },
+      { "text": "Amor, Odio, Felicidad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Nombran a un ser u objeto de forma específica para distinguirlo de los demás de su misma clase.",
+    "explanation": "Los sustantivos propios como 'México', 'Júpiter' y 'Ricardo' se escriben con mayúscula inicial y nombran entidades únicas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ac",
+    "question": "El ______ es la categoría gramatical que expresa una acción, proceso o estado que ha ______ o sucederá.",
+    "image": null,
+    "options": [
+      { "text": "verbo, sucedido", "correct": true },
+      { "text": "sustantivo, nombrado", "correct": false },
+      { "text": "adjetivo, calificado", "correct": false },
+      { "text": "adverbio, modificado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el núcleo del predicado en una oración.",
+    "explanation": "La definición corresponde al verbo, que indica lo que hace o le sucede al sujeto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ad",
+    "question": "¿Qué palabra es un sustantivo abstracto en la siguiente lista?",
+    "image": null,
+    "options": [
+      { "text": "Esperanza", "correct": true },
+      { "text": "Libro", "correct": false },
+      { "text": "Mesa", "correct": false },
+      { "text": "Lápiz", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "No puede ser percibido por los cinco sentidos.",
+    "explanation": "Los sustantivos abstractos nombran ideas, sentimientos o cualidades que no tienen una existencia física, como 'esperanza'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ae",
+    "question": "En 'El niño corre rápidamente', ¿cuál es el verbo?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "corre", "correct": true },
+      { "text": "niño", "correct": false },
+      { "text": "El", "correct": false },
+      { "text": "rápidamente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Indica la acción que realiza el sujeto.",
+    "explanation": "La palabra 'corre' es la acción que está ejecutando 'El niño' (sujeto).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01af",
+    "question": "La palabra 'aunque' es un tipo de nexo. ¿Qué función cumple en la oración 'Saldré a pasear, aunque llueva'?",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Indicar una objeción o concesión", "correct": true },
+      { "text": "Indicar una causa", "correct": false },
+      { "text": "Indicar una consecuencia", "correct": false },
+      { "text": "Indicar una condición", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Presenta un obstáculo para la acción principal que no impide que se realice.",
+    "explanation": "'Aunque' es una conjunción concesiva que introduce una dificultad a la idea principal, pero no la invalida.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ag",
+    "question": "Completa la oración: El _______ 'y' sirve para ______ ideas o elementos similares en una oración.",
+    "image": null,
+    "options": [
+      { "text": "nexo, unir", "correct": true },
+      { "text": "verbo, separar", "correct": false },
+      { "text": "artículo, modificar", "correct": false },
+      { "text": "pronombre, sustituir", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una conjunción copulativa.",
+    "explanation": "El nexo o conjunción 'y' tiene la función de añadir o sumar elementos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ah",
+    "question": "Relaciona el tipo de sustantivo con su ejemplo: A) Propio, B) Común, C) Colectivo; I) Rebaño, II) Lápiz, III) Ana.",
+    "image": "https://tomi-digital-resources.storage.googleapis.com/images/1261472/4cce2809-a47d-4a70-b2ef-611e616fafdf.jpg",
+    "options": [
+      { "text": "A-III; B-II; C-I", "correct": true },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Propio nombra algo específico, común algo general y colectivo un grupo.",
+    "explanation": "'Ana' es un nombre propio, 'lápiz' es un objeto común y 'rebaño' es un conjunto de ovejas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ai",
+    "question": "Son ejemplos de verbos en modo indicativo:",
+    "image": null,
+    "options": [
+      { "text": "Corro, comí, estudiaré", "correct": true },
+      { "text": "Corre, come, estudia", "correct": false },
+      { "text": "Corriera, comiese, estudiara", "correct": false },
+      { "text": "Correr, comer, estudiar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Este modo expresa acciones reales y concretas.",
+    "explanation": "El modo indicativo se usa para describir hechos objetivos o reales, ya sea en presente, pasado o futuro.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01aj",
+    "question": "El nexo 'pero' es una conjunción...",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Adversativa", "correct": true },
+      { "text": "Copulativa", "correct": false },
+      { "text": "Disyuntiva", "correct": false },
+      { "text": "Causal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Indica oposición o contraste entre dos ideas.",
+    "explanation": "Las conjunciones adversativas, como 'pero', 'mas', 'sin embargo', unen dos ideas contrapuestas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ak",
+    "question": "Completa la frase: Los sustantivos ______ como 'equipo' o 'flota', nombran en ______ a un conjunto de seres.",
+    "image": null,
+    "options": [
+      { "text": "colectivos, singular", "correct": true },
+      { "text": "propios, plural", "correct": false },
+      { "text": "comunes, singular", "correct": false },
+      { "text": "abstractos, plural", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Una sola palabra para un grupo.",
+    "explanation": "La característica principal de los sustantivos colectivos es que, a pesar de estar en número singular, se refieren a múltiples entidades.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01al",
+    "question": "¿Cuál de las siguientes oraciones utiliza un verbo en modo subjuntivo?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Espero que llegues pronto.", "correct": true },
+      { "text": "Juan llegó temprano.", "correct": false },
+      { "text": "¡Llega temprano!", "correct": false },
+      { "text": "Juan llegará temprano.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa deseo, duda o posibilidad.",
+    "explanation": "El modo subjuntivo ('llegues') se utiliza para expresar acciones no reales, sino deseadas o hipotéticas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01am",
+    "question": "Identifica la palabra que NO es un sustantivo.",
+    "image": null,
+    "options": [
+      { "text": "Hermoso", "correct": true },
+      { "text": "Casa", "correct": false },
+      { "text": "Perro", "correct": false },
+      { "text": "Amistad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca la palabra que describe una cualidad.",
+    "explanation": "'Hermoso' es un adjetivo, ya que califica a un sustantivo. 'Casa', 'perro' y 'amistad' son sustantivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01an",
+    "question": "El nexo 'o' en '¿Quieres té o café?' es una conjunción...",
+    "image": null,
+    "options": [
+      { "text": "Disyuntiva", "correct": true },
+      { "text": "Copulativa", "correct": false },
+      { "text": "Adversativa", "correct": false },
+      { "text": "Explicativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Presenta opciones que se excluyen mutuamente.",
+    "explanation": "Las conjunciones disyuntivas como 'o' y 'u' se usan para dar a elegir entre dos o más alternativas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ao",
+    "question": "En 'Nosotros cantamos en el coro', el verbo es 'cantamos'. ¿A qué persona y número corresponde?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Primera persona del plural", "correct": true },
+      { "text": "Tercera persona del singular", "correct": false },
+      { "text": "Segunda persona del plural", "correct": false },
+      { "text": "Primera persona del singular", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El pronombre 'Nosotros' te da la clave.",
+    "explanation": "El verbo 'cantamos' está conjugado para la primera persona del plural (nosotros/as).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ap",
+    "question": "La oración '¡Sal de aquí ahora mismo!' utiliza el modo verbal...",
+    "image": null,
+    "options": [
+      { "text": "Imperativo", "correct": true },
+      { "text": "Indicativo", "correct": false },
+      { "text": "Subjuntivo", "correct": false },
+      { "text": "Infinitivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se usa para dar órdenes, ruegos o instrucciones.",
+    "explanation": "El modo imperativo se emplea para expresar mandatos o peticiones directamente al interlocutor.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01aq",
+    "question": "Son sustantivos que nombran cosas que se pueden contar:",
+    "image": null,
+    "options": [
+      { "text": "Contables", "correct": true },
+      { "text": "Incontables", "correct": false },
+      { "text": "Colectivos", "correct": false },
+      { "text": "Abstractos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Por ejemplo: un libro, dos libros, tres libros.",
+    "explanation": "Los sustantivos contables son aquellos que se pueden enumerar y, por lo tanto, tienen forma plural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ar",
+    "question": "El _______ 'porque' se utiliza para expresar la ______ de una acción.",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "nexo, causa", "correct": true },
+      { "text": "verbo, consecuencia", "correct": false },
+      { "text": "adjetivo, cualidad", "correct": false },
+      { "text": "adverbio, modo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Responde a la pregunta '¿Por qué?'.",
+    "explanation": "'Porque' es una conjunción causal que introduce la razón o el motivo de lo expresado en la oración principal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01as",
+    "question": "Relaciona el modo verbal con su función: A) Indicativo, B) Subjuntivo, C) Imperativo; I) Orden, II) Hecho real, III) Deseo o duda.",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Realidad, posibilidad y mandato.",
+    "explanation": "El indicativo expresa hechos, el subjuntivo expresa deseos o dudas, y el imperativo expresa órdenes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01at",
+    "question": "Selecciona la opción que contiene un sustantivo incontable.",
+    "image": null,
+    "options": [
+      { "text": "Agua", "correct": true },
+      { "text": "Moneda", "correct": false },
+      { "text": "Silla", "correct": false },
+      { "text": "Árbol", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "No se puede enumerar por unidades separadas.",
+    "explanation": "Los sustantivos incontables, como 'agua', 'arena' o 'aire', nombran sustancias o conceptos que no se pueden contar individualmente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01au",
+    "question": "Son ejemplos de nexos copulativos:",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "y, e, ni", "correct": true },
+      { "text": "o, u", "correct": false },
+      { "text": "pero, mas, sino", "correct": false },
+      { "text": "porque, pues, ya que", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su función es sumar o añadir elementos.",
+    "explanation": "Las conjunciones copulativas 'y', 'e' (cuando la siguiente palabra empieza por i- o hi-) y 'ni' (para la negación) sirven para enlazar elementos análogos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01av",
+    "question": "El infinitivo, el gerundio y el participio son...",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Formas no personales del verbo", "correct": true },
+      { "text": "Tiempos del modo indicativo", "correct": false },
+      { "text": "Tipos de sustantivos", "correct": false },
+      { "text": "Clases de conjunciones", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "No expresan persona, número, tiempo o modo por sí mismos.",
+    "explanation": "También llamados verboides, el infinitivo (cantar), el gerundio (cantando) y el participio (cantado) son formas del verbo que no se conjugan.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01aw",
+    "question": "¿Qué tipo de sustantivo es 'tristeza'?",
+    "image": null,
+    "options": [
+      { "text": "Abstracto", "correct": true },
+      { "text": "Concreto", "correct": false },
+      { "text": "Colectivo", "correct": false },
+      { "text": "Propio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es un sentimiento que no se puede tocar.",
+    "explanation": "La 'tristeza' es un sustantivo abstracto porque nombra una emoción, algo que no tiene una forma física perceptible.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ax",
+    "question": "En la oración 'Si ______ tiempo, iré al cine', el verbo debe estar en ______ para expresar la condición.",
+    "image": null,
+    "options": [
+      { "text": "tuviera, subjuntivo", "correct": true },
+      { "text": "tengo, indicativo", "correct": false },
+      { "text": "ten, imperativo", "correct": false },
+      { "text": "tuve, indicativo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Las oraciones condicionales irreales o poco probables usan un modo verbal específico.",
+    "explanation": "Para expresar una condición hipotética o poco probable, la prótasis (la parte con 'si') requiere el verbo en pretérito imperfecto de subjuntivo ('tuviera' o 'tuviese').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ay",
+    "question": "El nexo 'es decir' es de tipo...",
+    "image": null,
+    "options": [
+      { "text": "Explicativo", "correct": true },
+      { "text": "Adversativo", "correct": false },
+      { "text": "Consecutivo", "correct": false },
+      { "text": "Condicional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Aclara o reformula lo que se ha dicho antes.",
+    "explanation": "Los nexos explicativos, como 'es decir', 'o sea', 'esto es', introducen una aclaración o una forma diferente de expresar la misma idea.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01az",
+    "question": "¿Cuál de estos verbos es irregular?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Ser", "correct": true },
+      { "text": "Amar", "correct": false },
+      { "text": "Comer", "correct": false },
+      { "text": "Vivir", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su raíz o sus desinencias cambian al conjugarlo respecto a su modelo.",
+    "explanation": "El verbo 'ser' es altamente irregular (soy, eres, es, fui, era...), ya que su conjugación no sigue el patrón de los verbos regulares.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ba",
+    "question": "La palabra 'constelación' es un sustantivo...",
+    "image": null,
+    "options": [
+      { "text": "Colectivo", "correct": true },
+      { "text": "Individual", "correct": false },
+      { "text": "Abstracto", "correct": false },
+      { "text": "Incontable", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Designa un conjunto de estrellas.",
+    "explanation": "Aunque está en singular, 'constelación' se refiere a un grupo de estrellas, por lo que es un sustantivo colectivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bb",
+    "question": "Completa la oración: 'No iré a la fiesta, ______ tengo que estudiar para el examen.'",
+    "image": null,
+    "options": [
+      { "text": "puesto que", "correct": true },
+      { "text": "aunque", "correct": false },
+      { "text": "sino", "correct": false },
+      { "text": "por lo tanto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se necesita un nexo que indique el motivo o la causa.",
+    "explanation": "'Puesto que' es una locución conjuntiva causal que introduce la razón por la cual no irá a la fiesta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bc",
+    "question": "El tiempo verbal 'Había cantado' corresponde al...",
+    "image": null,
+    "options": [
+      { "text": "Pretérito pluscuamperfecto de indicativo", "correct": true },
+      { "text": "Pretérito perfecto compuesto de indicativo", "correct": false },
+      { "text": "Futuro perfecto de indicativo", "correct": false },
+      { "text": "Condicional perfecto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Se forma con el imperfecto del verbo 'haber' más el participio.",
+    "explanation": "El pretérito pluscuamperfecto (había + participio) indica una acción pasada anterior a otra también pasada.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bd",
+    "question": "Son sustantivos que se forman a partir de un verbo:",
+    "image": null,
+    "options": [
+      { "text": "Deverbales", "correct": true },
+      { "text": "Derivados", "correct": false },
+      { "text": "Primitivos", "correct": false },
+      { "text": "Compuestos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Por ejemplo, de 'aterrizar' se forma 'aterrizaje'.",
+    "explanation": "Los sustantivos deverbales son aquellos que provienen de un verbo, designando la acción o el efecto de dicho verbo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01be",
+    "question": "En la oración 'Quien bien te quiere te hará llorar', 'quien' es un nexo...",
+    "image": null,
+    "options": [
+      { "text": "Subordinante relativo", "correct": true },
+      { "text": "Coordinante copulativo", "correct": false },
+      { "text": "Coordinante adversativo", "correct": false },
+      { "text": "Subordinante causal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Introduce una proposición que funciona como sujeto de 'te hará llorar'.",
+    "explanation": "'Quien' es un pronombre relativo que introduce una proposición subordinada adjetiva (que aquí está sustantivada) y funciona como nexo subordinante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bf",
+    "question": "Identifica el verbo en voz pasiva.",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "El premio fue ganado por el equipo.", "correct": true },
+      { "text": "El equipo ganó el premio.", "correct": false },
+      { "text": "El equipo había ganado el premio.", "correct": false },
+      { "text": "Gana el premio, equipo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sujeto no realiza la acción, sino que la recibe. Se forma con 'ser' + participio.",
+    "explanation": "La voz pasiva se construye con el verbo 'ser' conjugado más el participio del verbo principal. El sujeto ('El premio') es paciente, ya que recibe la acción del verbo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bg",
+    "question": "El sustantivo 'cortaplumas' es un ejemplo de sustantivo...",
+    "image": null,
+    "options": [
+      { "text": "Compuesto", "correct": true },
+      { "text": "Derivado", "correct": false },
+      { "text": "Simple", "correct": false },
+      { "text": "Parasintético", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Está formado por la unión de dos o más palabras.",
+    "explanation": "Los sustantivos compuestos se crean al combinar dos o más lexemas. En este caso, 'corta' (del verbo cortar) y 'plumas' (sustantivo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bh",
+    "question": "Relaciona el nexo con su tipo: A) Consecutivo, B) Concesivo, C) Causal; I) Aunque, II) Porque, III) Así que.",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Causa (motivo), Concesión (obstáculo), Consecuencia (resultado).",
+    "explanation": "'Así que' introduce una consecuencia; 'aunque' introduce una objeción; 'porque' introduce una causa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bi",
+    "question": "El ______ es un modo verbal que se utiliza para formular hipótesis o situaciones ______.",
+    "image": null,
+    "options": [
+      { "text": "condicional, hipotéticas", "correct": true },
+      { "text": "indicativo, reales", "correct": false },
+      { "text": "subjuntivo, ordenadas", "correct": false },
+      { "text": "imperativo, dudosas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "A menudo se considera un tiempo del indicativo, pero tiene un valor modal particular.",
+    "explanation": "El condicional simple (cantaría) o compuesto (habría cantado) se usa para expresar acciones que dependen de una condición, o para expresar sugerencias o cortesía.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bj",
+    "question": "Los sustantivos epicenos son aquellos que...",
+    "image": null,
+    "options": [
+      { "text": "Tienen una sola forma para designar a ambos sexos, añadiendo 'macho' o 'hembra'.", "correct": true },
+      { "text": "Cambian de género y significado (el/la cólera).", "correct": false },
+      { "text": "Tienen la misma forma para masculino y femenino (el/la artista).", "correct": false },
+      { "text": "No tienen género.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Piensa en animales como 'la jirafa' o 'el cóndor'.",
+    "explanation": "Los sustantivos epicenos, como 'víctima', 'personaje' o muchos nombres de animales, tienen un único género gramatical para referirse a individuos de ambos sexos. La distinción se hace añadiendo 'macho' o 'hembra' si es necesario.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bk",
+    "question": "En 'Al llegar, me di cuenta del error', la construcción 'Al llegar' es una proposición subordinada...",
+    "image": null,
+    "options": [
+      { "text": "Adverbial de tiempo", "correct": true },
+      { "text": "Adjetiva de relativo", "correct": false },
+      { "text": "Sustantiva de sujeto", "correct": false },
+      { "text": "Adverbial de modo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La estructura 'al + infinitivo' equivale a 'cuando + verbo conjugado'.",
+    "explanation": "La construcción 'al + infinitivo' tiene un valor semántico temporal, indicando el momento en que ocurre la acción principal. Equivale a 'Cuando llegué, me di cuenta del error'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bl",
+    "question": "¿Qué verbo está en forma de participio irregular?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Escrito", "correct": true },
+      { "text": "Cantado", "correct": false },
+      { "text": "Comido", "correct": false },
+      { "text": "Vivido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "No termina en -ado o -ido.",
+    "explanation": "Algunos verbos tienen participios irregulares. El participio del verbo 'escribir' es 'escrito', no 'escribido'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bm",
+    "question": "Identifica la oración que utiliza una conjunción ilativa.",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Pienso, luego existo.", "correct": true },
+      { "text": "No quiero esto sino aquello.", "correct": false },
+      { "text": "O vienes o te quedas.", "correct": false },
+      { "text": "Aunque insistas, no iré.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este tipo de conjunción indica una consecuencia o deducción de lo anterior.",
+    "explanation": "Las conjunciones ilativas o consecutivas (luego, conque, así pues, por lo tanto) señalan que una idea es la consecuencia de la otra. 'Existo' es la consecuencia de 'Pienso'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bn",
+    "question": "Son sustantivos que designan a un miembro individual de una colectividad:",
+    "image": null,
+    "options": [
+      { "text": "Individuales", "correct": true },
+      { "text": "Colectivos", "correct": false },
+      { "text": "Contables", "correct": false },
+      { "text": "Propios", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Por ejemplo, 'oveja' es el individual de 'rebaño'.",
+    "explanation": "Los sustantivos individuales (perro, árbol, soldado) se oponen a los colectivos (jauría, arboleda, ejército) al nombrar a un solo ser.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bo",
+    "question": "El verbo 'soler' (como en 'yo suelo comer aquí') es un verbo...",
+    "image": null,
+    "options": [
+      { "text": "Defectivo", "correct": true },
+      { "text": "Regular", "correct": false },
+      { "text": "Auxiliar", "correct": false },
+      { "text": "Transitivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "No se puede conjugar en todos los tiempos y personas.",
+    "explanation": "Los verbos defectivos son aquellos que tienen una conjugación incompleta. 'Soler' se usa principalmente en presente (suelo) y pretérito imperfecto (solía), pero carece de futuro, condicional o pretérito perfecto simple.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bp",
+    "question": "El nexo 'si' introduce principalmente oraciones subordinadas...",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Condicionales", "correct": true },
+      { "text": "Causales", "correct": false },
+      { "text": "Temporales", "correct": false },
+      { "text": "Finales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Expresa una condición necesaria para que se cumpla la oración principal.",
+    "explanation": "'Si' es la conjunción condicional por excelencia, estableciendo un requisito o condición.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bq",
+    "question": "Completa con el verbo correcto: 'Ayer, el niño no ______ en la cama.'",
+    "image": null,
+    "options": [
+      { "text": "cupo", "correct": true },
+      { "text": "cabió", "correct": false },
+      { "text": "cupió", "correct": false },
+      { "text": "cabeó", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El verbo 'caber' es irregular en el pretérito perfecto simple.",
+    "explanation": "La conjugación correcta del verbo caber en la tercera persona del singular del pretérito perfecto simple de indicativo es 'cupo'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01br",
+    "question": "Los sustantivos 'artista' y 'testigo' son de tipo...",
+    "image": null,
+    "options": [
+      { "text": "Común en cuanto al género", "correct": true },
+      { "text": "Epiceno", "correct": false },
+      { "text": "Ambiguo", "correct": false },
+      { "text": "Heterónimo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La misma palabra sirve para masculino y femenino; el género lo marca el artículo.",
+    "explanation": "Los sustantivos comunes en cuanto al género tienen una única forma para ambos sexos, y es el determinante (el/la) el que especifica el género: el artista / la artista.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bs",
+    "question": "La perífrasis verbal 'tener que + infinitivo' expresa...",
+    "image": null,
+    "options": [
+      { "text": "Obligación", "correct": true },
+      { "text": "Probabilidad", "correct": false },
+      { "text": "Inminencia", "correct": false },
+      { "text": "Repetición", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Por ejemplo: 'Tengo que estudiar'.",
+    "explanation": "Es una perífrasis verbal modal de obligación, que indica la necesidad o el deber de realizar la acción expresada por el infinitivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bt",
+    "question": "En 'Estudia mucho para que apruebes', el nexo 'para que' introduce una subordinada...",
+    "image": null,
+    "options": [
+      { "text": "Adverbial final", "correct": true },
+      { "text": "Adverbial causal", "correct": false },
+      { "text": "Adverbial consecutiva", "correct": false },
+      { "text": "Adverbial condicional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Indica el propósito o la finalidad de la acción principal.",
+    "explanation": "Las locuciones conjuntivas 'para que' y 'a fin de que' introducen proposiciones subordinadas adverbiales finales, que expresan el objetivo con el que se realiza la acción principal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bu",
+    "question": "Son sustantivos heterónimos:",
+    "image": null,
+    "options": [
+      { "text": "Hombre, mujer", "correct": true },
+      { "text": "Perro, perra", "correct": false },
+      { "text": "El artista, la artista", "correct": false },
+      { "text": "El cóndor macho, el cóndor hembra", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Utilizan palabras completamente diferentes para el masculino y el femenino.",
+    "explanation": "La heteronimia es el fenómeno por el cual los miembros de un par de género se designan con términos de raíz diferente, como 'toro' y 'vaca' o 'caballo' y 'yegua'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bv",
+    "question": "Identifica la opción con un verbo en aspecto perfectivo.",
+    "image": null,
+    "options": [
+      { "text": "Leí el libro.", "correct": true },
+      { "text": "Leía el libro.", "correct": false },
+      { "text": "Estoy leyendo el libro.", "correct": false },
+      { "text": "Suelo leer libros.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El aspecto perfectivo indica que la acción ha finalizado.",
+    "explanation": "Los tiempos perfectos (como el pretérito perfecto simple 'leí') presentan la acción como terminada, mientras que los imperfectos ('leía') la presentan en su transcurso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bw",
+    "question": "En la frase 'Lo importante es que participes', la proposición 'que participes' funciona como:",
+    "image": null,
+    "options": [
+      { "text": "Sustantivo (atributo)", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Adverbio", "correct": false },
+      { "text": "Sustantivo (sujeto)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La proposición puede ser sustituida por 'eso' y va después de un verbo copulativo.",
+    "explanation": "Es una proposición subordinada sustantiva en función de atributo. El verbo 'ser' es copulativo y 'lo importante' es el sujeto. La subordinada ('que participes') es lo que se dice del sujeto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bx",
+    "question": "Relaciona la perífrasis verbal con su significado: A) Deber de + inf, B) Ir a + inf, C) Volver a + inf; I) Futuro inminente, II) Repetición, III) Probabilidad o suposición.",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Analiza: 'Deben de ser las cinco', 'Voy a salir', 'Volvió a llamar'.",
+    "explanation": "'Deber de + infinitivo' expresa suposición; 'Ir a + infinitivo' expresa una acción futura cercana; 'Volver a + infinitivo' expresa la repetición de una acción.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01by",
+    "question": "El sustantivo 'la nada' es un ejemplo de sustantivación a partir de un...",
+    "image": null,
+    "options": [
+      { "text": "Pronombre indefinido", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Verbo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La palabra original es 'nada', que se usa para indicar ausencia. Al añadirle un artículo, se convierte en sustantivo.",
+    "explanation": "La sustantivación es un proceso que permite que una palabra de otra categoría gramatical funcione como un sustantivo, generalmente mediante el uso de un determinante. 'Nada' es un pronombre, pero 'la nada' es un sustantivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01bz",
+    "question": "El verbo 'amanecer' en 'Hoy amaneció nublado' es un verbo...",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Impersonal", "correct": true },
+      { "text": "Transitivo", "correct": false },
+      { "text": "Reflexivo", "correct": false },
+      { "text": "Copulativo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Se refiere a un fenómeno de la naturaleza y no admite un sujeto.",
+    "explanation": "Los verbos impersonales o unipersonales son aquellos que se conjugan solo en tercera persona del singular y no tienen un sujeto léxico, como los que describen fenómenos meteorológicos (llover, nevar, tronar).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ca",
+    "question": "La conjunción 'sino' (en 'No es blanco, sino negro') requiere dos condiciones para su uso: que la primera proposición sea ______ y que las ideas sean ______.",
+    "image": null,
+    "options": [
+      { "text": "negativa, excluyentes", "correct": true },
+      { "text": "afirmativa, complementarias", "correct": false },
+      { "text": "negativa, similares", "correct": false },
+      { "text": "dubitativa, opcionales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Contrapone una idea afirmativa a una negativa previa.",
+    "explanation": "'Sino' es una conjunción adversativa que se usa para contraponer un concepto afirmativo a otro negativo expresado antes. No debe confundirse con la construcción 'si no'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cb",
+    "question": "En la oración 'Me gusta que sonrías', la proposición 'que sonrías' funciona como:",
+    "image": null,
+    "options": [
+      { "text": "Sujeto", "correct": true },
+      { "text": "Objeto directo", "correct": false },
+      { "text": "Objeto indirecto", "correct": false },
+      { "text": "Atributo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Prueba a sustituir la proposición por 'eso' y reordenar la oración: 'Eso me gusta'.",
+    "explanation": "Con verbos como 'gustar', 'encantar' o 'interesar', lo que gusta funciona como sujeto gramatical. En este caso, el sujeto es toda la proposición subordinada sustantiva 'que sonrías'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cc",
+    "question": "Selecciona la opción con un verbo pronominal que no es reflexivo.",
+    "image": null,
+    "options": [
+      { "text": "Ellos se quejaron del servicio.", "correct": true },
+      { "text": "Ella se peina frente al espejo.", "correct": false },
+      { "text": "Nosotros nos lavamos las manos.", "correct": false },
+      { "text": "Tú te vistes muy rápido.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La acción no recae sobre el propio sujeto. El pronombre es una parte inherente del verbo.",
+    "explanation": "El verbo 'quejarse' es pronominal, exige el pronombre para conjugarse (no se puede decir *yo quejo). En cambio, en los otros ejemplos (peinarse, lavarse, vestirse), la acción sí recae sobre el sujeto (ella peina a sí misma).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cd",
+    "question": "Son sustantivos que en plural pueden cambiar de significado o tener matices diferentes:",
+    "image": null,
+    "options": [
+      { "text": "Celos, esposas, vacaciones", "correct": true },
+      { "text": "Libro, mesa, silla", "correct": false },
+      { "text": "Amor, odio, rencor", "correct": false },
+      { "text": "Lunes, crisis, tesis", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Algunas palabras solo se usan en plural o su significado singular es distinto (ej. 'esposa' de un hombre vs 'esposas' para las muñecas).",
+    "explanation": "Este fenómeno se llama 'pluralia tantum' (palabras que solo existen en plural como 'víveres') o cambio semántico. 'Celo' (cuidado) vs. 'celos' (sentimiento); 'esposa' (cónyuge) vs. 'esposas' (grilletes).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ce",
+    "question": "La construcción 'con todo y que' es una locución conjuntiva...",
+    "image": null,
+    "options": [
+      { "text": "Concesiva", "correct": true },
+      { "text": "Consecutiva", "correct": false },
+      { "text": "Causal", "correct": false },
+      { "text": "Condicional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Equivale a 'a pesar de que' o 'aunque'.",
+    "explanation": "'Con todo y que' es una locución que introduce una objeción o un obstáculo a la idea principal, por lo que su valor es concesivo. Ejemplo: 'Con todo y que estudió, reprobó'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cf",
+    "question": "Identifica la oración con un verbo en futuro perfecto de subjuntivo, un tiempo verbal de uso muy restringido en el español actual.",
+    "image": null,
+    "options": [
+      { "text": "Quien hubiere cometido tal delito, será castigado.", "correct": true },
+      { "text": "Si hubiera sabido, habría venido.", "correct": false },
+      { "text": "Cuando hayas terminado, avísame.", "correct": false },
+      { "text": "Ojalá que haya aprobado el examen.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Se forma con 'hubiere' + participio y se encuentra casi exclusivamente en textos jurídicos o literarios antiguos.",
+    "explanation": "El futuro perfecto de subjuntivo (hubiere cantado) expresa una acción futura y terminada, hipotética, anterior a otra acción futura. Su uso hoy es anómalo y se restringe al lenguaje legal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cg",
+    "question": "El sustantivo 'la dote' es ambiguo en cuanto al género. Esto significa que...",
+    "image": null,
+    "options": [
+      { "text": "Puede usarse tanto en masculino como en femenino sin cambiar de significado.", "correct": true },
+      { "text": "Utiliza palabras diferentes para cada género.", "correct": false },
+      { "text": "Requiere 'macho' o 'hembra' para especificar el sexo.", "correct": false },
+      { "text": "Cambia de significado según el género que se le asigne.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Piensa en palabras como 'el mar' y 'la mar' o 'el azúcar' y 'la azúcar'.",
+    "explanation": "Los sustantivos ambiguos en cuanto al género son aquellos que admiten ser usados con determinantes masculinos o femeninos sin que esto altere su significado. Otros ejemplos son 'arte' y 'calor'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ch",
+    "question": "En 'Acabó el trabajo como le indicaron', el nexo 'como' introduce una subordinada adverbial de...",
+    "image": "https://tomi-digital-resources.storage.googleapis.com/images/classes/lessons/lsn-82408-60082d5b1d556.jpeg",
+    "options": [
+      { "text": "Modo", "correct": true },
+      { "text": "Tiempo", "correct": false },
+      { "text": "Lugar", "correct": false },
+      { "text": "Comparación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Responde a la pregunta '¿Cómo acabó el trabajo?'.",
+    "explanation": "El adverbio relativo 'como' introduce proposiciones subordinadas adverbiales de modo, explicando la manera en que se realiza la acción principal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ci",
+    "question": "Relaciona el verbo irregular con el fenómeno que presenta: A) Andar, B) Caber, C) Satisfacer; I) Pret. perfecto simple con raíz propia, II) Presente con 'g' epentética, III) Se conjuga como 'hacer'.",
+    "image": null,
+    "options": [
+      { "text": "A-I; B-I; C-III", "correct": true },
+      { "text": "A-II; B-IIII; C-I", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Piensa en 'anduve', 'cupo' y 'satisfago' o 'satisfice'.",
+    "explanation": "Tanto 'andar' (anduve) como 'caber' (cupe) tienen un pretérito fuerte con una raíz distinta a la del infinitivo. 'Satisfacer' sigue el modelo de conjugación de 'hacer' (satisfago/hago, satisfice/hice, satisfaré/haré).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cj",
+    "question": "La oración 'De haberlo sabido, no habría venido' contiene una forma verbal que equivale a una oración condicional. ¿Cuál es?",
+    "image": null,
+    "options": [
+      { "text": "De haberlo sabido", "correct": true },
+      { "text": "No habría venido", "correct": false },
+      { "text": "Haberlo sabido", "correct": false },
+      { "text": "Habría venido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La construcción 'de + infinitivo compuesto' puede reemplazar a 'si + pluscuamperfecto de subjuntivo'.",
+    "explanation": "La estructura 'de + infinitivo compuesto' (de haber sabido) es un recurso para expresar la prótasis (la condición) de una oración condicional irreal del pasado, de forma más concisa que la expresión completa 'Si lo hubiera sabido'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ck",
+    "question": "En la oración 'La ciudad cuyo nombre no recuerdo está al norte', el nexo 'cuyo' es un...",
+    "image": null,
+    "options": [
+      { "text": "Determinante relativo posesivo", "correct": true },
+      { "text": "Pronombre relativo", "correct": false },
+      { "text": "Adverbio relativo", "correct": false },
+      { "text": "Conjunción subordinante", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Concuerda en género y número con lo poseído ('nombre') y no con el poseedor ('ciudad').",
+    "explanation": "'Cuyo' es un relativo que tiene un valor posesivo. Introduce una proposición adjetiva y funciona como un determinante, ya que siempre precede a un sustantivo ('cuyo nombre', 'cuya casa').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cl",
+    "question": "¿Cuál es el sustantivo colectivo de 'hueso'?",
+    "image": null,
+    "options": [
+      { "text": "Osamenta", "correct": true },
+      { "text": "Huesera", "correct": false },
+      { "text": "Óseo", "correct": false },
+      { "text": "Esqueleto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Se refiere al conjunto de huesos de un esqueleto.",
+    "explanation": "Mientras que 'esqueleto' es el conjunto ordenado, 'osamenta' es el sustantivo colectivo que se refiere al conjunto de huesos en sí.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cm",
+    "question": "Son verbos transitivos",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Comprar, leer", "correct": true },
+      { "text": "Nacer, morir", "correct": false },
+      { "text": "Llegar, ir", "correct": false },
+      { "text": "Ser, estar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La acción del verbo recae sobre un objeto directo.",
+    "explanation": "Los verbos transitivos son aquellos cuyo significado exige un complemento directo para tener sentido completo (comprar algo, leer algo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cn",
+    "question": "El verbo 'concernir' es defectivo. ¿En qué personas se conjuga principalmente?",
+    "image": null,
+    "options": [
+      { "text": "Tercera persona (singular y plural)", "correct": true },
+      { "text": "Primera persona (singular)", "correct": false },
+      { "text": "Todas las personas", "correct": false },
+      { "text": "Segunda persona (singular y plural)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Se usa en frases como 'Eso no te concierne' o 'Los temas que nos conciernen'.",
+    "explanation": "El verbo 'concernir' (que significa 'afectar' o 'corresponder a') es defectivo y solo se utiliza en las terceras personas del singular y del plural, además de en infinitivo y gerundio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01co",
+    "question": "El nexo 'mientras' puede tener valor temporal o...",
+    "image": null,
+    "options": [
+      { "text": "Adversativo", "correct": true },
+      { "text": "Causal", "correct": false },
+      { "text": "Final", "correct": false },
+      { "text": "Consecutivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Compara: 'Llegué mientras dormías' (tiempo) y 'Tú estudias, mientras que yo trabajo' (oposición).",
+    "explanation": "Además de su uso temporal (simultaneidad), 'mientras' (a menudo como 'mientras que') puede adquirir un valor adversativo, contraponiendo dos acciones o situaciones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cp",
+    "question": "¿Qué tipo de sustantivo nombra a seres u objetos que se pueden percibir con los sentidos?",
+    "image": null,
+    "options": [
+      { "text": "Concreto", "correct": true },
+      { "text": "Abstracto", "correct": false },
+      { "text": "Colectivo", "correct": false },
+      { "text": "Propio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Puedes verlos, oírlos, tocarlos, olerlos o saborearlos.",
+    "explanation": "Los sustantivos concretos, como 'mesa', 'árbol' o 'música', se refieren a realidades materiales o que se perciben por los sentidos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cq",
+    "question": "Un adjetivo calificativo es la palabra que...",
+    "image": null,
+    "options": [
+      { "text": "Expresa una cualidad o propiedad del sustantivo.", "correct": true },
+      { "text": "Sustituye al nombre.", "correct": false },
+      { "text": "Indica una acción o estado.", "correct": false },
+      { "text": "Une dos oraciones.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Por ejemplo, 'coche rojo'. 'Rojo' es la cualidad.",
+    "explanation": "La función principal de los adjetivos calificativos es modificar al sustantivo, añadiéndole información sobre sus características.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cr",
+    "question": "Las palabras como 'este', 'esa', 'aquellos' son determinantes...",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzhCbBFdEX2SeYgU6nveuMPXOO47YqQr2zCS92Rv1xaG61LWIe1GEpV54GySsluyQPdV1jjiopkVEmwT6Tb8dgW6Fsgp5qeBjTTurBcV7UMm9TOYUW6Tyo9BVal5TEYdozHnYJf15DMET2/s1600/los-determinantes%255B1%255D.jpg",
+    "options": [
+      { "text": "Demostrativos", "correct": true },
+      { "text": "Posesivos", "correct": false },
+      { "text": "Numerales", "correct": false },
+      { "text": "Indefinidos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Indican la distancia o ubicación del sustantivo respecto al hablante.",
+    "explanation": "Los determinantes demostrativos señalan la proximidad o lejanía del sustantivo al que acompañan.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cs",
+    "question": "¿Qué es un pronombre personal?",
+    "image": "https://www.lenguactic.com/wp-content/uploads/2023/05/tipos-de-pronombres.png",
+    "options": [
+      { "text": "Es la palabra que sustituye a los nombres de las personas que intervienen en la comunicación.", "correct": true },
+      { "text": "Es la palabra que indica posesión o pertenencia.", "correct": false },
+      { "text": "Es la palabra que expresa cantidad u orden.", "correct": false },
+      { "text": "Es la palabra que acompaña al nombre para identificarlo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplos: yo, tú, él, nosotros, ustedes, ellos.",
+    "explanation": "Los pronombres personales (yo, tú, él, ella, etc.) reemplazan a los sustantivos que se refieren a las personas gramaticales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ct",
+    "question": "Una preposición es una palabra invariable que sirve para...",
+    "image": null,
+    "options": [
+      { "text": "Relacionar palabras o grupos de palabras entre sí.", "correct": true },
+      { "text": "Modificar el significado de un verbo.", "correct": false },
+      { "text": "Expresar acciones o estados.", "correct": false },
+      { "text": "Nombrar seres u objetos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplos: a, ante, bajo, con, contra, de, desde.",
+    "explanation": "Las preposiciones son nexos que subordinan un término a otro, estableciendo una relación de dependencia entre ellos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cu",
+    "question": "¿Cuál es la definición de adverbio?",
+    "image": "https://tomi-digital-resources.storage.googleapis.com/images/classes/lessons/lsn-82408-60082d5b1d556.jpeg",
+    "options": [
+      { "text": "Palabra invariable que modifica a un verbo, a un adjetivo o a otro adverbio.", "correct": true },
+      { "text": "Palabra que nombra personas, animales o cosas.", "correct": false },
+      { "text": "Palabra que expresa una cualidad del sustantivo.", "correct": false },
+      { "text": "Palabra que une oraciones.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Añaden información sobre el lugar, tiempo, modo, cantidad, etc.",
+    "explanation": "Los adverbios aportan información circunstancial, modificando y precisando el significado de otras palabras.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cv",
+    "question": "Los sustantivos ______ nombran a un ser u objeto en particular, distinguiéndolo de los demás de su clase.",
+    "image": null,
+    "options": [
+      { "text": "propios", "correct": true },
+      { "text": "comunes", "correct": false },
+      { "text": "colectivos", "correct": false },
+      { "text": "concretos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Siempre se escriben con mayúscula inicial, como 'París' o 'Laura'.",
+    "explanation": "La principal característica de los sustantivos propios es que identifican de forma única a un individuo, lugar o entidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cw",
+    "question": "Los determinantes posesivos, como 'mi', 'tus', 'nuestros', indican...",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzhCbBFdEX2SeYgU6nveuMPXOO47YqQr2zCS92Rv1xaG61LWIe1GEpV54GySsluyQPdV1jjiopkVEmwT6Tb8dgW6Fsgp5qeBjTTurBcV7UMm9TOYUW6Tyo9BVal5TEYdozHnYJf15DMET2/s1600/los-determinantes%255B1%255D.jpg",
+    "options": [
+      { "text": "Pertenencia o posesión", "correct": true },
+      { "text": "Distancia o ubicación", "correct": false },
+      { "text": "Cantidad exacta", "correct": false },
+      { "text": "Una cantidad imprecisa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Responden a la pregunta '¿De quién es?'.",
+    "explanation": "Acompañan al sustantivo para señalar a quién pertenece el objeto, ser o idea nombrado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cx",
+    "question": "¿Qué son los verbos copulativos?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Son verbos que sirven de unión entre el sujeto y un atributo.", "correct": true },
+      { "text": "Son verbos que expresan una acción que recae sobre un objeto directo.", "correct": false },
+      { "text": "Son verbos que no admiten objeto directo.", "correct": false },
+      { "text": "Son verbos que se conjugan con un pronombre.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Los principales son 'ser', 'estar' y 'parecer'.",
+    "explanation": "Los verbos copulativos no tienen un significado pleno; su función es la de nexo o cópula para atribuir una cualidad o estado al sujeto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cy",
+    "question": "Las conjunciones son palabras que sirven para...",
+    "image": null,
+    "options": [
+      { "text": "Unir dos elementos de una misma categoría o dos oraciones.", "correct": true },
+      { "text": "Sustituir al sustantivo.", "correct": false },
+      { "text": "Describir las características de un objeto.", "correct": false },
+      { "text": "Indicar la acción realizada por el sujeto.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Pueden ser coordinantes (y, pero, o) o subordinantes (que, si, porque).",
+    "explanation": "Las conjunciones actúan como enlaces, conectando distintas partes de un discurso para darle cohesión y sentido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01cz",
+    "question": "Los adverbios de ______ responden a la pregunta '¿Cómo?'.",
+    "image": "https://tomi-digital-resources.storage.googleapis.com/images/classes/lessons/lsn-82408-60082d5b1d556.jpeg",
+    "options": [
+      { "text": "modo", "correct": true },
+      { "text": "lugar", "correct": false },
+      { "text": "tiempo", "correct": false },
+      { "text": "cantidad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplos: bien, mal, así, lentamente.",
+    "explanation": "Los adverbios de modo explican la manera en que se desarrolla la acción verbal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01da",
+    "question": "Son pronombres que expresan una cantidad u orden de forma imprecisa:",
+    "image": "https://www.lenguactic.com/wp-content/uploads/2023/05/tipos-de-pronombres.png",
+    "options": [
+      { "text": "Indefinidos", "correct": true },
+      { "text": "Numerales", "correct": false },
+      { "text": "Demostrativos", "correct": false },
+      { "text": "Posesivos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplos: alguien, nadie, mucho, poco, varios.",
+    "explanation": "Los pronombres indefinidos sustituyen a un sustantivo pero sin especificar su identidad o cantidad de forma exacta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01db",
+    "question": "Un adjetivo en grado superlativo...",
+    "image": null,
+    "options": [
+      { "text": "Expresa la cualidad en su grado más alto.", "correct": true },
+      { "text": "Compara la cualidad entre dos seres.", "correct": false },
+      { "text": "Simplemente enuncia la cualidad.", "correct": false },
+      { "text": "Expresa una cualidad negativa.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Puede ser absoluto (altísimo, muy alto) o relativo (el más alto de la clase).",
+    "explanation": "El grado superlativo se usa para indicar que un sustantivo posee una cualidad en un grado superior al de cualquier otro elemento.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dc",
+    "question": "Define a los sustantivos abstractos:",
+    "image": null,
+    "options": [
+      { "text": "Nombran ideas, sentimientos o cualidades que no pueden ser percibidos por los sentidos.", "correct": true },
+      { "text": "Nombran a un conjunto de seres u objetos en singular.", "correct": false },
+      { "text": "Nombran realidades materiales que se pueden tocar, ver u oír.", "correct": false },
+      { "text": "Nombran a seres u objetos de forma general.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La 'belleza', la 'justicia' o el 'amor' son ejemplos.",
+    "explanation": "Los sustantivos abstractos se refieren a conceptos o entidades que no tienen una existencia física e independiente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dd",
+    "question": "Los determinantes numerales cardinales, como 'uno', 'dos', 'veinte', expresan...",
+    "image": null,
+    "options": [
+      { "text": "Una cantidad exacta.", "correct": true },
+      { "text": "El orden en una serie.", "correct": false },
+      { "text": "Una partición de la unidad.", "correct": false },
+      { "text": "Una multiplicación.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Indican el número de elementos de un conjunto.",
+    "explanation": "Los numerales cardinales precisan la cantidad de sustantivos a los que se refieren.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01de",
+    "question": "Un verbo transitivo es aquel que...",
+    "image": null,
+    "options": [
+      { "text": "Requiere un objeto directo sobre el cual recae la acción.", "correct": true },
+      { "text": "No necesita un objeto directo para tener sentido completo.", "correct": false },
+      { "text": "Une al sujeto con un atributo.", "correct": false },
+      { "text": "Se conjuga igual que su verbo modelo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "En 'María come manzanas', 'manzanas' es el objeto directo.",
+    "explanation": "La acción de un verbo transitivo 'transita' desde el sujeto hacia un objeto que la recibe directamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01df",
+    "question": "Las interjecciones son palabras que...",
+    "image": null,
+    "options": [
+      { "text": "Expresan sentimientos muy vivos o se usan para llamar la atención.", "correct": true },
+      { "text": "Modifican al verbo indicando el modo.", "correct": false },
+      { "text": "Relacionan dos partes de una oración.", "correct": false },
+      { "text": "Indican posesión.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplos: ¡Ay!, ¡Hola!, ¡Bravo!, ¡Ojalá! Suelen ir entre signos de exclamación.",
+    "explanation": "Las interjecciones son una clase de palabra que forma enunciados exclamativos por sí misma, expresando impresiones súbitas o emociones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dg",
+    "question": "Los pronombres ______ (qué, quién, cuál) y ______ (cuánto, dónde, cómo) se utilizan para preguntar o exclamar.",
+    "image": "https://www.lenguactic.com/wp-content/uploads/2023/05/tipos-de-pronombres.png",
+    "options": [
+      { "text": "interrogativos, exclamativos", "correct": true },
+      { "text": "personales, posesivos", "correct": false },
+      { "text": "relativos, demostrativos", "correct": false },
+      { "text": "indefinidos, numerales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se reconocen fácilmente porque siempre llevan tilde.",
+    "explanation": "Estos pronombres se usan para introducir preguntas o exclamaciones, y se diferencian de los relativos por el acento diacrítico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dh",
+    "question": "Define a los adverbios de lugar:",
+    "image": null,
+    "options": [
+      { "text": "Son los que aportan información sobre la ubicación.", "correct": true },
+      { "text": "Son los que indican el momento en que sucede la acción.", "correct": false },
+      { "text": "Son los que expresan duda o posibilidad.", "correct": false },
+      { "text": "Son los que informan sobre la intensidad.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Responden a la pregunta '¿Dónde?'. Ejemplos: aquí, allí, cerca, lejos, encima.",
+    "explanation": "Los adverbios de lugar especifican la posición o el destino de la acción verbal o del elemento al que modifican.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01di",
+    "question": "Un verbo irregular es aquel que...",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Al conjugarse, presenta cambios en su raíz, en su desinencia o en ambas.", "correct": true },
+      { "text": "Sigue perfectamente el modelo de su conjugación (amar, temer, partir).", "correct": false },
+      { "text": "No puede conjugarse en todos los tiempos y personas.", "correct": false },
+      { "text": "La acción recae sobre el mismo sujeto que la realiza.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Por ejemplo, el verbo 'ir' cambia completamente: voy, fui.",
+    "explanation": "Los verbos irregulares no siguen los patrones de conjugación de los verbos modelo de la primera, segunda o tercera conjugación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dj",
+    "question": "Las conjunciones disyuntivas, como 'o' y 'u', sirven para...",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Presentar opciones que se excluyen mutuamente.", "correct": true },
+      { "text": "Sumar o añadir elementos.", "correct": false },
+      { "text": "Indicar oposición o contraste.", "correct": false },
+      { "text": "Explicar o aclarar una idea.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ofrecen una elección: '¿Prefieres playa o montaña?'.",
+    "explanation": "La función de las conjunciones disyuntivas es enlazar palabras u oraciones para expresar una alternativa o elección.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dk",
+    "question": "Los determinantes numerales ordinales ('primero', 'segundo', 'décimo') expresan:",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzhCbBFdEX2SeYgU6nveuMPXOO47YqQr2zCS92Rv1xaG61LWIe1GEpV54GySsluyQPdV1jjiopkVEmwT6Tb8dgW6Fsgp5qeBjTTurBcV7UMm9TOYUW6Tyo9BVal5TEYdozHnYJf15DMET2/s1600/los-determinantes%255B1%255D.jpg",
+    "options": [
+      { "text": "Orden o sucesión.", "correct": true },
+      { "text": "Cantidad exacta.", "correct": false },
+      { "text": "Pertenencia.", "correct": false },
+      { "text": "Ubicación espacial.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Indican la posición de un elemento dentro de una serie ordenada.",
+    "explanation": "A diferencia de los cardinales que indican cantidad, los ordinales señalan el lugar que ocupa un sustantivo en una secuencia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dl",
+    "question": "Un sustantivo común es aquel que...",
+    "image": null,
+    "options": [
+      { "text": "Nombra a cualquier ser u objeto de una misma clase o especie, sin diferenciarlo.", "correct": true },
+      { "text": "Nombra a un ser u objeto en particular para diferenciarlo.", "correct": false },
+      { "text": "Nombra a un grupo de seres en singular.", "correct": false },
+      { "text": "Nombra algo que no se puede percibir con los sentidos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplos: niño, río, país. Son palabras genéricas.",
+    "explanation": "Los sustantivos comunes se refieren a categorías generales y se escriben con minúscula, a diferencia de los propios.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dm",
+    "question": "Los pronombres relativos (que, cual, quien, cuyo) se caracterizan porque...",
+    "image": null,
+    "options": [
+      { "text": "Se refieren a un sustantivo mencionado antes (antecedente) e introducen una oración subordinada.", "correct": true },
+      { "text": "Sustituyen a la persona que habla, escucha o de quien se habla.", "correct": false },
+      { "text": "Indican posesión y concuerdan en género y número con lo poseído.", "correct": false },
+      { "text": "Se usan para formular preguntas directas o indirectas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "En 'El libro que leí', 'que' se refiere a 'libro'.",
+    "explanation": "La función de los pronombres relativos es doble: actúan como un pronombre (sustituyendo a su antecedente) y como un nexo subordinante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dn",
+    "question": "¿Qué son los adverbios de tiempo?",
+    "image": "https://tomi-digital-resources.storage.googleapis.com/images/classes/lessons/lsn-82408-60082d5b1d556.jpeg",
+    "options": [
+      { "text": "Son los que ofrecen información sobre el momento en que se realiza la acción.", "correct": true },
+      { "text": "Son los que indican la manera en que se realiza la acción.", "correct": false },
+      { "text": "Son los que expresan la certeza o la duda sobre la acción.", "correct": false },
+      { "text": "Son los que señalan la ubicación de la acción.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Responden a la pregunta '¿Cuándo?'. Ejemplos: hoy, ayer, mañana, ahora, después.",
+    "explanation": "Estos adverbios sitúan la acción verbal en un marco temporal específico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01do",
+    "question": "El artículo determinado (el, la, los, las) se utiliza cuando...",
+    "image": null,
+    "options": [
+      { "text": "El sustantivo al que acompaña es conocido por el hablante y el oyente.", "correct": true },
+      { "text": "El sustantivo es desconocido o se menciona por primera vez.", "correct": false },
+      { "text": "Se quiere expresar una cantidad indefinida.", "correct": false },
+      { "text": "No se quiere especificar el género del sustantivo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se usa para referirse a algo específico. 'Pásame el libro' (uno concreto).",
+    "explanation": "Los artículos determinados o definidos se usan para presentar a un sustantivo que se considera identificable por los interlocutores.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dp",
+    "question": "Un adjetivo en grado comparativo de superioridad...",
+    "image": null,
+    "options": [
+      { "text": "Indica que un ser posee una cualidad en mayor grado que otro. Se forma con 'más... que'.", "correct": true },
+      { "text": "Indica que un ser posee una cualidad en menor grado. Se forma con 'menos... que'.", "correct": false },
+      { "text": "Indica que dos seres poseen una cualidad en igual grado. Se forma con 'tan... como'.", "correct": false },
+      { "text": "Indica que un ser posee la cualidad en el grado más alto.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: 'Juan es más alto que Pedro'.",
+    "explanation": "El grado comparativo establece una relación entre dos términos para comparar una cualidad. El de superioridad usa la estructura 'más + adjetivo + que'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dq",
+    "question": "Las formas no personales del verbo son el infinitivo, el gerundio y el participio. Se llaman así porque...",
+    "image": null,
+    "options": [
+      { "text": "No expresan por sí mismas la persona gramatical, el número, el tiempo o el modo.", "correct": true },
+      { "text": "Nunca pueden funcionar como el núcleo de un predicado.", "correct": false },
+      { "text": "Siempre deben ir acompañadas de un verbo auxiliar.", "correct": false },
+      { "text": "Solo se usan en la voz pasiva.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Terminaciones: -ar, -er, -ir (infinitivo); -ando, -iendo (gerundio); -ado, -ido (participio).",
+    "explanation": "A diferencia de las formas conjugadas (canto, comías), los verboides no tienen desinencias que indiquen las categorías gramaticales de la conjugación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dr",
+    "question": "Los determinantes indefinidos (algún, ninguna, otros, varias) se caracterizan porque...",
+    "image": null,
+    "options": [
+      { "text": "Acompañan al sustantivo para indicar una cantidad o identidad de forma vaga o imprecisa.", "correct": true },
+      { "text": "Señalan la distancia del sustantivo con respecto al hablante.", "correct": false },
+      { "text": "Indican el número exacto de sustantivos.", "correct": false },
+      { "text": "Establecen una relación de pertenencia.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se usan cuando no se puede o no se quiere especificar la cantidad con exactitud.",
+    "explanation": "Los indefinidos cuantifican o identifican al sustantivo de una manera no específica, a diferencia de los numerales o los artículos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ds",
+    "question": "Las conjunciones adversativas, como 'pero', 'mas', 'sin embargo', unen dos ideas para...",
+    "image": null,
+    "options": [
+      { "text": "Expresar oposición o contraste entre ellas.", "correct": true },
+      { "text": "Indicar la causa de una de ellas.", "correct": false },
+      { "text": "Presentar una elección entre ellas.", "correct": false },
+      { "text": "Sumar o acumular las ideas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La segunda idea corrige o matiza la primera: 'Es inteligente, pero vago'.",
+    "explanation": "La función de los nexos adversativos es contraponer dos juicios o conceptos, de forma total o parcial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dt",
+    "question": "En 'El libro que me prestaste es interesante', la palabra 'que' es un pronombre relativo porque...",
+    "image": null,
+    "options": [
+      { "text": "Se refiere a un sustantivo anterior ('libro') y introduce una oración subordinada.", "correct": true },
+      { "text": "Une dos oraciones independientes sin referirse a nada.", "correct": false },
+      { "text": "Introduce una pregunta sobre el libro.", "correct": false },
+      { "text": "Completa el significado del verbo 'ser'.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un pronombre relativo siempre tiene un antecedente (un nombre al que se refiere).",
+    "explanation": "Actúa como pronombre relativo cuando sustituye a un antecedente ('libro') y sirve de nexo para una oración adjetiva ('que me prestaste').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01du",
+    "question": "En 'Quiero que vengas a la fiesta', la palabra 'que' es una conjunción subordinante porque...",
+    "image": null,
+    "options": [
+      { "text": "Introduce una oración subordinada sustantiva que funciona como objeto directo, sin referirse a un antecedente.", "correct": true },
+      { "text": "Se refiere a un sustantivo mencionado previamente.", "correct": false },
+      { "text": "Indica la causa de un evento.", "correct": false },
+      { "text": "Compara dos elementos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Una conjunción solo une; no sustituye a ningún nombre. Prueba a sustituir 'que vengas' por 'eso'.",
+    "explanation": "Actúa como conjunción cuando encabeza una proposición subordinada sustantiva (la oración que funciona como un sustantivo), sin tener un antecedente al que referirse.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dv",
+    "question": "La palabra 'como' es un adverbio relativo de modo en:",
+    "image": null,
+    "options": [
+      { "text": "Lo hice como me indicaste.", "correct": true },
+      { "text": "Como no estudies, suspenderás.", "correct": false },
+      { "text": "¿Cómo te llamas?", "correct": false },
+      { "text": "Como mucho chocolate.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Equivale a 'de la manera en que'. Introduce una oración que explica la forma de hacer algo.",
+    "explanation": "En esta oración, 'como' es un adverbio relativo que introduce una proposición subordinada adverbial de modo. En las otras opciones es conjunción condicional, pronombre interrogativo y verbo (comer).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dw",
+    "question": "La palabra 'como' funciona como una conjunción causal en:",
+    "image": null,
+    "options": [
+      { "text": "Como no tenía dinero, no fue al cine.", "correct": true },
+      { "text": "Es tan alto como su padre.", "correct": false },
+      { "text": "Cocina como un profesional.", "correct": false },
+      { "text": "No sé cómo lo hizo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Puede ser sustituida por 'porque' o 'puesto que'.",
+    "explanation": "Cuando la oración que introduce 'como' precede a la principal y expresa el motivo de la misma, actúa como una conjunción causal. En las otras opciones es nexo comparativo, adverbio de modo y adverbio interrogativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dx",
+    "question": "En 'El lugar donde nos vimos ya no existe', 'donde' es un adverbio relativo porque...",
+    "image": null,
+    "options": [
+      { "text": "Tiene un antecedente ('lugar') e introduce una subordinada adjetiva.", "correct": true },
+      { "text": "No tiene antecedente e introduce una pregunta indirecta.", "correct": false },
+      { "text": "Introduce una pregunta directa sobre la ubicación.", "correct": false },
+      { "text": "Es una conjunción que indica causa.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los adverbios relativos (donde, como, cuando, cuanto) llevan antecedente expreso.",
+    "explanation": "'Donde' sin tilde funciona como adverbio relativo de lugar cuando se refiere a un sustantivo que lo precede y que expresa lugar.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dy",
+    "question": "En 'Dime dónde estuviste', 'dónde' es un adverbio interrogativo porque...",
+    "image": null,
+    "options": [
+      { "text": "Introduce una pregunta indirecta y no tiene antecedente.", "correct": true },
+      { "text": "Se refiere a un lugar mencionado antes.", "correct": false },
+      { "text": "Introduce una oración que indica el modo.", "correct": false },
+      { "text": "Es un nexo que une dos ideas opuestas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los adverbios interrogativos (dónde, cómo, cuándo) llevan tilde y preguntan por una circunstancia.",
+    "explanation": "'Dónde' con tilde se usa para preguntar por un lugar, ya sea en una oración interrogativa directa o, como en este caso, en una indirecta que funciona como objeto directo del verbo 'decir'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01dz",
+    "question": "'Mientras' es una conjunción temporal en la oración:",
+    "image": null,
+    "options": [
+      { "text": "Escucho música mientras trabajo.", "correct": true },
+      { "text": "Luis es rico, mientras que su hermano es pobre.", "correct": false },
+      { "text": "Mientras no te disculpes, no te hablaré.", "correct": false },
+      { "text": "Hazlo mientras puedas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Indica que dos acciones ocurren al mismo tiempo (simultaneidad).",
+    "explanation": "En esta opción, 'mientras' expresa que las acciones de escuchar música y trabajar son simultáneas. En la segunda opción es adversativa y en las otras dos, condicional.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ea",
+    "question": "'Mientras' funciona como conjunción adversativa en:",
+    "image": null,
+    "options": [
+      { "text": "Unos se divertían, mientras que otros se aburrían.", "correct": true },
+      { "text": "No salgas mientras llueva.", "correct": false },
+      { "text": "El ladrón entró mientras todos dormían.", "correct": false },
+      { "text": "Mientras más tienes, más quieres.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Se usa para contrastar o contraponer dos ideas o situaciones.",
+    "explanation": "La locución 'mientras que' tiene un claro valor de oposición, similar a 'pero' o 'en cambio'. En las otras opciones tiene valor temporal/condicional o forma parte de una estructura correlativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01eb",
+    "question": "La palabra 'si' es una conjunción condicional cuando...",
+    "image": null,
+    "options": [
+      { "text": "Expresa la condición necesaria para que se cumpla algo.", "correct": true },
+      { "text": "Introduce una pregunta indirecta sobre una elección.", "correct": false },
+      { "text": "Se refiere a la nota musical.", "correct": false },
+      { "text": "Funciona como pronombre reflexivo de tercera persona.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Ejemplo: 'Si estudias, aprobarás'.",
+    "explanation": "El uso principal de 'si' sin tilde es introducir la prótasis (la parte que contiene la condición) en las oraciones condicionales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ec",
+    "question": "La palabra 'si' es una conjunción completiva (introduce subordinadas sustantivas) en:",
+    "image": null,
+    "options": [
+      { "text": "No sé si vendrá mañana.", "correct": true },
+      { "text": "Si vienes, llámame.", "correct": false },
+      { "text": "¡Si yo fuera rico!", "correct": false },
+      { "text": "Come como si no hubiera un mañana.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Introduce una oración que funciona como objeto directo y expresa duda o una pregunta indirecta total (de sí o no).",
+    "explanation": "En este caso, 'si' introduce una interrogativa indirecta total. Toda la oración 'si vendrá mañana' es el objeto directo de 'sé'. En las otras opciones es condicional, desiderativa y modal-comparativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ed",
+    "question": "'Luego' funciona como adverbio de tiempo en:",
+    "image": null,
+    "options": [
+      { "text": "Primero cenaré y luego veré la película.", "correct": true },
+      { "text": "Pienso, luego existo.", "correct": false },
+      { "text": "No tengo dinero, luego no puedo comprarlo.", "correct": false },
+      { "text": "Lo resolvió luego de mucho pensar.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Puede ser sustituido por 'después' o 'más tarde'.",
+    "explanation": "Como adverbio de tiempo, 'luego' indica posterioridad. En las otras opciones es una conjunción ilativa o consecutiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ee",
+    "question": "'Luego' es una conjunción ilativa o consecutiva en:",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Está lloviendo, luego no saldremos.", "correct": true },
+      { "text": "Nos veremos luego.", "correct": false },
+      { "text": "Iré luego que termine.", "correct": false },
+      { "text": "Llegó y luego se fue.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Expresa una consecuencia o deducción. Se puede sustituir por 'por lo tanto' o 'así que'.",
+    "explanation": "En esta oración, 'luego' indica que 'no salir' es la consecuencia de 'estar lloviendo'. En las demás, funciona como adverbio de tiempo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ef",
+    "question": "En la frase 'Es más listo que su hermano', 'que' es:",
+    "image": null,
+    "options": [
+      { "text": "Una conjunción que introduce el segundo término de una comparación.", "correct": true },
+      { "text": "Un pronombre relativo.", "correct": false },
+      { "text": "Una conjunción que introduce una oración sustantiva.", "correct": false },
+      { "text": "Un pronombre interrogativo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Forma parte de la estructura comparativa 'más... que'.",
+    "explanation": "En las estructuras comparativas de superioridad ('más que') o inferioridad ('menos que'), 'que' es un nexo que introduce el elemento con el que se establece la comparación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01eg",
+    "question": "En la oración '¡Qué día tan maravilloso!', 'qué' es un...",
+    "image": null,
+    "options": [
+      { "text": "Determinante exclamativo.", "correct": true },
+      { "text": "Pronombre exclamativo.", "correct": false },
+      { "text": "Adverbio exclamativo.", "correct": false },
+      { "text": "Conjunción.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Acompaña a un sustantivo ('día') para intensificarlo en una oración exclamativa.",
+    "explanation": "Cuando 'qué' con tilde precede a un sustantivo en una exclamación, funciona como un determinante (o adjetivo) exclamativo. Si fuera pronombre, sustituiría al nombre (ej. ¡Qué me dices!).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01eh",
+    "question": "La palabra 'según' se clasifica gramaticalmente como:",
+    "image": null,
+    "options": [
+      { "text": "Preposición.", "correct": true },
+      { "text": "Adverbio.", "correct": false },
+      { "text": "Conjunción.", "correct": false },
+      { "text": "Adjetivo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Introduce un complemento indicando conformidad o punto de vista: 'Según el autor...'.",
+    "explanation": "Aunque a veces encabeza oraciones y puede parecer una conjunción, la RAE clasifica 'según' como una preposición. Es la única preposición tónica del español.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ei",
+    "question": "¿Cuál de los siguientes verbos es regular?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Temer", "correct": true },
+      { "text": "Poder", "correct": false },
+      { "text": "Hacer", "correct": false },
+      { "text": "Decir", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un verbo regular mantiene su raíz y sigue las desinencias de su modelo de conjugación (amar, temer, partir).",
+    "explanation": "El verbo 'temer' es regular porque al conjugarlo (temo, temes, teme...) su raíz 'tem-' no cambia y sus terminaciones son las esperadas para la segunda conjugación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ej",
+    "question": "En la oración 'Anoche nevó en la sierra', el verbo 'nevó' se clasifica como:",
+    "image": null,
+    "options": [
+      { "text": "Impersonal", "correct": true },
+      { "text": "Personal", "correct": false },
+      { "text": "Copulativo", "correct": false },
+      { "text": "Transitivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se refiere a un fenómeno meteorológico que no es realizado por ningún sujeto.",
+    "explanation": "Los verbos que indican fenómenos de la naturaleza (llover, nevar, tronar) son impersonales, ya que carecen de un sujeto que realice la acción y se conjugan solo en tercera persona del singular.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ek",
+    "question": "Un verbo ______ mantiene su raíz o lexema en todas sus formas, mientras que un verbo ______ la modifica.",
+    "image": null,
+    "options": [
+      { "text": "regular, irregular", "correct": true },
+      { "text": "copulativo, predicativo", "correct": false },
+      { "text": "transitivo, intransitivo", "correct": false },
+      { "text": "personal, impersonal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Compara 'canto, cantas, canta' con 'puedo, puedes, puede'.",
+    "explanation": "La regularidad verbal se define por la permanencia de la raíz y el uso de las desinencias modelo. Los verbos irregulares presentan alteraciones en uno o ambos elementos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01el",
+    "question": "¿Cuál de las siguientes oraciones contiene un verbo copulativo?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Mi hermano parece cansado.", "correct": true },
+      { "text": "Mi hermano corre en el parque.", "correct": false },
+      { "text": "Mi hermano compró pan.", "correct": false },
+      { "text": "Mi hermano duerme mucho.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca los verbos ser, estar o parecer, que unen al sujeto con una cualidad (atributo).",
+    "explanation": "El verbo 'parecer' es copulativo porque sirve de enlace entre el sujeto ('Mi hermano') y su atributo ('cansado').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01em",
+    "question": "Son verbos impersonales:",
+    "image": null,
+    "options": [
+      { "text": "Llover, anochecer", "correct": true },
+      { "text": "Correr, saltar", "correct": false },
+      { "text": "Comer, beber", "correct": false },
+      { "text": "Escribir, leer", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Piensa en acciones que no puede realizar una persona o un animal.",
+    "explanation": "Los verbos impersonales típicamente se refieren a fenómenos meteorológicos o al paso del tiempo, y no admiten un sujeto gramatical.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01en",
+    "question": "El nexo 'así que' se utiliza para introducir una...",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Consecuencia", "correct": true },
+      { "text": "Causa", "correct": false },
+      { "text": "Condición", "correct": false },
+      { "text": "Objeción", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se puede sustituir por 'por lo tanto'.",
+    "explanation": "'Así que' es una conjunción consecutiva (o ilativa) que indica que lo que sigue es el resultado o la consecuencia de lo anterior.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01eo",
+    "question": "Relaciona el verbo con su tipo: A) Cantar, B) Ir, C) Ser; I) Irregular, II) Copulativo, III) Regular.",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Regular sigue el modelo, irregular cambia, copulativo une.",
+    "explanation": "'Cantar' es un verbo regular modelo. 'Ir' es muy irregular (voy, fui). 'Ser' es el principal verbo copulativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ep",
+    "question": "En la oración 'El perro ladra', el verbo 'ladrar' es intransitivo porque...",
+    "image": null,
+    "options": [
+      { "text": "No necesita un objeto directo para tener sentido completo.", "correct": true },
+      { "text": "Es un verbo irregular.", "correct": false },
+      { "text": "Es un verbo copulativo.", "correct": false },
+      { "text": "La acción recae sobre el mismo perro.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La acción de ladrar no 'pasa' a otro objeto. La oración tiene sentido por sí misma.",
+    "explanation": "Los verbos intransitivos son aquellos que no requieren un complemento directo, ya que su significado está completo con el propio verbo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01eq",
+    "question": "Los verbos ______ unen al sujeto con un atributo, mientras que los ______ expresan una acción o estado pleno.",
+    "image": null,
+    "options": [
+      { "text": "copulativos, predicativos", "correct": true },
+      { "text": "regulares, irregulares", "correct": false },
+      { "text": "transitivos, intransitivos", "correct": false },
+      { "text": "personales, impersonales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La diferencia está en si el verbo tiene significado propio o solo funciona como enlace.",
+    "explanation": "Esta es la gran división de los verbos según la naturaleza de su predicado: los copulativos (ser, estar, parecer) y todos los demás, que son predicativos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01er",
+    "question": "¿Cuál de estos verbos es predicativo?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Escribir", "correct": true },
+      { "text": "Ser", "correct": false },
+      { "text": "Estar", "correct": false },
+      { "text": "Parecer", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un verbo predicativo es cualquier verbo que no es copulativo.",
+    "explanation": "Los verbos predicativos tienen significado léxico pleno y pueden formar el predicado por sí mismos (con o sin complementos). 'Ser', 'estar' y 'parecer' son copulativos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01es",
+    "question": "La conjunción 'ni' se usa para...",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Unir dos o más elementos en una oración negativa.", "correct": true },
+      { "text": "Dar a elegir entre dos opciones.", "correct": false },
+      { "text": "Oponer dos ideas.", "correct": false },
+      { "text": "Indicar la consecuencia de algo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la versión negativa de la conjunción 'y'.",
+    "explanation": "'Ni' es una conjunción copulativa que se emplea para enlazar elementos negados. Ejemplo: 'No quiero sopa ni ensalada'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01et",
+    "question": "Completa la oración: 'No solo es inteligente, ______ también es amable'.",
+    "image": null,
+    "options": [
+      { "text": "sino que", "correct": true },
+      { "text": "pero", "correct": false },
+      { "text": "o", "correct": false },
+      { "text": "porque", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca un nexo que añada información afirmativa a una idea previa.",
+    "explanation": "La estructura 'no solo..., sino que/sino también...' es una construcción copulativa que sirve para añadir o sumar información de forma enfática.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01eu",
+    "question": "Un verbo personal es aquel que...",
+    "image": null,
+    "options": [
+      { "text": "Admite un sujeto que realiza la acción.", "correct": true },
+      { "text": "No admite sujeto.", "correct": false },
+      { "text": "Siempre se conjuga con un pronombre.", "correct": false },
+      { "text": "Une al sujeto con un atributo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La gran mayoría de los verbos son de este tipo.",
+    "explanation": "Los verbos personales son los que concuerdan con un sujeto (explícito o elíptico) en persona y número, a diferencia de los impersonales (llover, haber).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ev",
+    "question": "Son conjunciones que indican una opción o elección:",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "o, u", "correct": true },
+      { "text": "y, e", "correct": false },
+      { "text": "pero, mas", "correct": false },
+      { "text": "si, aunque", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se llaman disyuntivas.",
+    "explanation": "Las conjunciones disyuntivas ('o' y su variante 'u' ante palabras que empiezan por o-/ho-) sirven para presentar alternativas que se excluyen.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ew",
+    "question": "¿Cuál de los siguientes verbos es intransitivo?",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Morir", "correct": true },
+      { "text": "Escribir", "correct": false },
+      { "text": "Leer", "correct": false },
+      { "text": "Comer", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La acción del verbo no puede recaer sobre un objeto directo. No se puede *morir algo*.",
+    "explanation": "Los verbos 'escribir', 'leer' y 'comer' son transitivos porque normalmente llevan un objeto directo (escribir una carta, leer un libro, comer una manzana). 'Morir' es intransitivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ex",
+    "question": "El verbo 'haber' en la oración 'Hay muchos libros en la estantería' es:",
+    "image": null,
+    "options": [
+      { "text": "Impersonal", "correct": true },
+      { "text": "Personal", "correct": false },
+      { "text": "Copulativo", "correct": false },
+      { "text": "Auxiliar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cuando 'haber' significa 'existir', no tiene sujeto.",
+    "explanation": "El verbo 'haber' usado para indicar existencia es impersonal y siempre se conjuga en tercera persona del singular. 'Muchos libros' no es el sujeto, sino el objeto directo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ey",
+    "question": "Son conjunciones que expresan una causa o motivo:",
+    "image": null,
+    "options": [
+      { "text": "Porque, pues, ya que", "correct": true },
+      { "text": "Aunque, si bien, a pesar de que", "correct": false },
+      { "text": "Luego, así que, por lo tanto", "correct": false },
+      { "text": "O, u, o bien", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Responden a la pregunta '¿por qué?'.",
+    "explanation": "Las conjunciones y locuciones conjuntivas causales introducen oraciones que explican la razón de la acción principal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ez",
+    "question": "Relaciona la conjunción con el tipo de relación que establece: A) Y, B) Pero, C) Porque; I) Contraste, II) Causa, III) Adición.",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sumar, oponer, explicar.",
+    "explanation": "'Y' suma ideas (copulativa). 'Pero' opone ideas (adversativa). 'Porque' explica la causa (causal).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fa",
+    "question": "El verbo 'estar' puede ser copulativo ('Estoy cansado') o predicativo. ¿En qué oración es predicativo?",
+    "image": null,
+    "options": [
+      { "text": "El libro está en la mesa.", "correct": true },
+      { "text": "El cielo está nublado.", "correct": false },
+      { "text": "La sopa está caliente.", "correct": false },
+      { "text": "Mi amigo está feliz.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cuando 'estar' significa 'ubicarse' o 'permanecer en un lugar', tiene significado pleno y es predicativo.",
+    "explanation": "Si 'estar' va seguido de un complemento de lugar, funciona como verbo predicativo. En las otras opciones, une al sujeto con un atributo y es copulativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fb",
+    "question": "El verbo 'peinarse' en 'Yo me peino' es un verbo...",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Reflexivo", "correct": true },
+      { "text": "Recíproco", "correct": false },
+      { "text": "Cuasirreflejo", "correct": false },
+      { "text": "Intransitivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La acción del verbo la realiza el sujeto y recae sobre el mismo sujeto.",
+    "explanation": "Es un verbo reflexivo porque el sujeto ('Yo') realiza la acción de peinar sobre sí mismo ('me'). El pronombre 'me' funciona como objeto directo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fc",
+    "question": "Un verbo es ______ cuando su acción necesita un complemento directo, y ______ cuando no lo necesita.",
+    "image": null,
+    "options": [
+      { "text": "transitivo, intransitivo", "correct": true },
+      { "text": "predicativo, copulativo", "correct": false },
+      { "text": "regular, irregular", "correct": false },
+      { "text": "reflexivo, recíproco", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Piensa en 'escribir' (algo) frente a 'llegar'.",
+    "explanation": "La transitividad es la propiedad de los verbos de dejar 'pasar' la acción a un objeto. Si la acción queda en el verbo, es intransitivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fd",
+    "question": "En 'Los jugadores se abrazaron al final del partido', el verbo 'abrazarse' es:",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Recíproco", "correct": true },
+      { "text": "Reflexivo", "correct": false },
+      { "text": "Cuasirreflejo", "correct": false },
+      { "text": "Copulativo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La acción es intercambiada mutuamente entre los miembros del sujeto plural.",
+    "explanation": "Es un verbo recíproco porque la acción es ejecutada y recibida mutuamente por los dos o más individuos que forman el sujeto. Un jugador abrazó al otro y viceversa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fe",
+    "question": "Son conjunciones que introducen una objeción o dificultad que no impide la acción principal:",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Aunque, a pesar de que, si bien", "correct": true },
+      { "text": "Porque, ya que, puesto que", "correct": false },
+      { "text": "Si, con tal de que, siempre que", "correct": false },
+      { "text": "Pero, sino, sin embargo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Se llaman conjunciones concesivas.",
+    "explanation": "Las conjunciones concesivas señalan un obstáculo para la idea principal, pero que no es suficiente para evitar que se cumpla.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ff",
+    "question": "¿Cuál de las siguientes oraciones contiene un verbo intransitivo?",
+    "image": null,
+    "options": [
+      { "text": "El avión aterrizó suavemente.", "correct": true },
+      { "text": "El piloto aterrizó el avión suavemente.", "correct": false },
+      { "text": "El niño lee un cuento.", "correct": false },
+      { "text": "Mi madre prepara la cena.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca el verbo cuya acción no recae sobre un objeto directo.",
+    "explanation": "En la primera opción, 'aterrizó' es intransitivo. En la segunda, el mismo verbo se usa como transitivo, ya que 'el avión' es el objeto directo. 'Leer' y 'preparar' son transitivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fg",
+    "question": "Relaciona el tipo de verbo pronominal con su ejemplo: A) Reflexivo, B) Recíproco, C) Cuasirreflejo; I) Mis padres se quieren mucho, II) Me arrepiento de lo que dije, III) Te lavas la cara.",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Reflexivo (a sí mismo), recíproco (mutuamente), cuasirreflejo (el pronombre es parte del verbo).",
+    "explanation": "'Te lavas' es reflexivo. 'Se quieren' es recíproco. 'Arrepentirse' es un verbo pronominal (cuasirreflejo) que no puede usarse sin el pronombre.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fh",
+    "question": "El verbo 'amanecer' es impersonal ('amaneció tarde'), pero puede ser personal. ¿En qué oración es personal?",
+    "image": null,
+    "options": [
+      { "text": "Amanecí con dolor de cabeza.", "correct": true },
+      { "text": "Amaneció lloviendo.", "correct": false },
+      { "text": "En verano amanece muy temprano.", "correct": false },
+      { "text": "Parece que no va a amanecer.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca la oración donde el verbo tiene un sujeto (implícito o explícito) que no es un fenómeno natural.",
+    "explanation": "Cuando 'amanecer' se usa en sentido figurado para indicar 'despertar en un lugar o estado', se convierte en un verbo personal con sujeto, en este caso, 'Yo' (Amanecí).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fi",
+    "question": "Las conjunciones que introducen la condición para que algo se cumpla son las ______, como 'si'; las que introducen un obstáculo son las ______, como 'aunque'.",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "condicionales, concesivas", "correct": true },
+      { "text": "causales, consecutivas", "correct": false },
+      { "text": "adversativas, disyuntivas", "correct": false },
+      { "text": "copulativas, explicativas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Una impone un requisito y la otra presenta una dificultad.",
+    "explanation": "Las conjunciones condicionales establecen una condición, mientras que las concesivas presentan una objeción que no impide la acción principal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fj",
+    "question": "En 'Me marché de la fiesta', el verbo 'marchar' es cuasirreflejo porque...",
+    "image": null,
+    "options": [
+      { "text": "El pronombre 'me' es parte del verbo y no es objeto directo ni indirecto.", "correct": true },
+      { "text": "La acción de marchar recae sobre mí mismo.", "correct": false },
+      { "text": "La acción es mutua con otra persona.", "correct": false },
+      { "text": "El verbo no tiene sujeto.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Compara 'marchar' (caminar) con 'marcharse' (irse de un lugar). El pronombre cambia el significado.",
+    "explanation": "Es un verbo cuasirreflejo o pronominal. El pronombre ('me') es un morfema verbal, no un complemento. La acción de irse no 'recae' sobre uno mismo como en 'lavarse'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fk",
+    "question": "Son verbos transitivos que requieren un objeto directo:",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Tener, dar, decir", "correct": true },
+      { "text": "Ir, venir, llegar", "correct": false },
+      { "text": "Nacer, crecer, morir", "correct": false },
+      { "text": "Ser, estar, parecer", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Prueba a añadir 'algo' o 'a alguien' después del verbo.",
+    "explanation": "Los verbos 'tener', 'dar' y 'decir' necesitan un complemento directo para completar su significado (tener algo, dar algo, decir algo). Los otros grupos son intransitivos o copulativos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fl",
+    "question": "La oración 'Se venden casas' es un ejemplo de...",
+    "image": null,
+    "options": [
+      { "text": "Pasiva refleja", "correct": true },
+      { "text": "Oración impersonal", "correct": false },
+      { "text": "Oración activa", "correct": false },
+      { "text": "Oración recíproca", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Tiene un sujeto paciente ('casas') pero el verbo está en forma activa con el morfema 'se'.",
+    "explanation": "En la pasiva refleja, el pronombre 'se' indica que el sujeto ('casas') no realiza la acción, sino que la recibe. El verbo concuerda en número con el sujeto (Se vende casa / Se venden casas).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fm",
+    "question": "¿Cuál es la diferencia entre un verbo semicopulativo y uno predicativo?",
+    "image": null,
+    "options": [
+      { "text": "El semicopulativo pierde parte de su significado para atribuir una cualidad, mientras que el predicativo lo conserva.", "correct": true },
+      { "text": "El semicopulativo siempre es irregular y el predicativo es regular.", "correct": false },
+      { "text": "El semicopulativo es intransitivo y el predicativo es transitivo.", "correct": false },
+      { "text": "No hay diferencia, son el mismo tipo de verbo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Compara 'El niño se volvió' (predicativo, dio la vuelta) con 'El niño se volvió loco' (semicopulativo, pasó a estar loco).",
+    "explanation": "Los verbos semicopulativos (o semipredicativos) son verbos predicativos que, en ciertos contextos, se vacían de su significado original y funcionan de manera similar a un verbo copulativo, uniendo el sujeto a un atributo (o complemento predicativo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fn",
+    "question": "El verbo 'atañer' es defectivo porque...",
+    "image": null,
+    "options": [
+      { "text": "Solo se conjuga en las terceras personas.", "correct": true },
+      { "text": "No tiene participio.", "correct": false },
+      { "text": "Es siempre regular.", "correct": false },
+      { "text": "Su raíz cambia en todas las conjugaciones.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "No se puede decir 'yo ataño' o 'tú atañes'.",
+    "explanation": "Los verbos defectivos tienen una conjugación incompleta. 'Atañer', que significa 'corresponder o incumbir', se usa casi exclusivamente en la tercera persona del singular y del plural (atañe, atañen).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fo",
+    "question": "La oración 'Se vive bien en este pueblo' es un ejemplo de...",
+    "image": null,
+    "options": [
+      { "text": "Impersonal refleja", "correct": true },
+      { "text": "Pasiva refleja", "correct": false },
+      { "text": "Oración activa", "correct": false },
+      { "text": "Oración reflexiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "No hay un sujeto que concuerde con el verbo, que siempre está en singular.",
+    "explanation": "En la impersonal refleja, el pronombre 'se' oculta al agente de la acción, creando una oración sin sujeto gramatical. A diferencia de la pasiva refleja, el verbo siempre va en singular y no hay un sustantivo con el que pueda concordar.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fp",
+    "question": "Son verbos que pueden funcionar como copulativos, semicopulativos o predicativos según el contexto:",
+    "image": null,
+    "options": [
+      { "text": "Seguir, continuar, resultar", "correct": true },
+      { "text": "Comprar, vender, alquilar", "correct": false },
+      { "text": "Llover, nevar, tronar", "correct": false },
+      { "text": "Oír, ver, sentir", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Piensa en 'Sigue el camino' (predicativo) vs. 'Sigue enfermo' (semicopulativo).",
+    "explanation": "Verbos como 'seguir', 'continuar', 'resultar', 'ponerse', 'volverse' son predicativos por naturaleza, pero pueden perder su significado para funcionar como nexos entre sujeto y atributo, convirtiéndose en semicopulativos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fq",
+    "question": "Un verbo pronominal, como 'arrepentirse' o 'quejarse', se caracteriza porque ______ se conjuga con un pronombre átono que ______ función sintáctica de CD o CI.",
+    "image": null,
+    "options": [
+      { "text": "obligatoriamente, no cumple", "correct": true },
+      { "text": "opcionalmente, cumple", "correct": false },
+      { "text": "siempre, cumple", "correct": false },
+      { "text": "a veces, no cumple", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "El pronombre es una parte inseparable del verbo.",
+    "explanation": "Los verbos estrictamente pronominales o cuasirreflejos exigen la presencia del pronombre (me, te, se...) para poder conjugarse. Este pronombre no es un complemento, sino un morfema que indica la pronominalidad del verbo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fr",
+    "question": "En la oración 'Juan se lava', el verbo es reflexivo. En 'La ropa se lava con detergente', el verbo es...",
+    "image": null,
+    "options": [
+      { "text": "Pasivo reflejo", "correct": true },
+      { "text": "Cuasirreflejo", "correct": false },
+      { "text": "Recíproco", "correct": false },
+      { "text": "Impersonal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La ropa no se lava a sí misma. Es el sujeto que padece la acción.",
+    "explanation": "El pronombre 'se' en la segunda oración es una marca de pasiva refleja. Indica que el sujeto ('La ropa') es paciente y no agente. La oración equivale a 'La ropa es lavada con detergente'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fs",
+    "question": "Relaciona el nexo con el valor que puede tener además del principal: A) Como, B) Mientras, C) Si; I) Adversativo, II) Interrogativo indirecto, III) Causal.",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "A) Como no vengas... B) Yo estudio, mientras tú... C) Dime si...",
+    "explanation": "'Como' puede ser causal ('Como no venía, me fui'). 'Mientras' puede ser adversativo ('Unos ríen, mientras otros lloran'). 'Si' introduce interrogativas indirectas totales ('No sé si es correcto').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ft",
+    "question": "Los verbos defectivos son aquellos que ______. Un ejemplo es 'llover', que es un verbo ______, y 'soler', que es un verbo modal.",
+    "image": null,
+    "options": [
+      { "text": "tienen conjugación incompleta, impersonal", "correct": true },
+      { "text": "son siempre irregulares, personal", "correct": false },
+      { "text": "no admiten objeto directo, transitivo", "correct": false },
+      { "text": "se usan solo en el pasado, copulativo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "No todos los verbos se pueden conjugar en todos los tiempos y personas.",
+    "explanation": "La defectividad es la carencia de ciertas formas en la conjugación. Los impersonales son defectivos porque solo usan la 3a persona del singular. Otros como 'soler' carecen de ciertos tiempos como el futuro.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fu",
+    "question": "En 'El acusado resultó absuelto', el verbo 'resultar' es:",
+    "image": null,
+    "options": [
+      { "text": "Semicopulativo", "correct": true },
+      { "text": "Predicativo", "correct": false },
+      { "text": "Copulativo puro", "correct": false },
+      { "text": "Auxiliar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "El verbo ha perdido su significado de 'tener origen' y funciona como nexo para atribuir una cualidad.",
+    "explanation": "'Resultar', al igual que 'ponerse', 'volverse' o 'quedarse', puede funcionar como verbo semicopulativo al unir un sujeto con un atributo, de forma muy similar a como lo hace 'ser' o 'estar'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fv",
+    "question": "La diferencia fundamental entre un verbo recíproco y uno reflexivo es que...",
+    "image": null,
+    "options": [
+      { "text": "El recíproco exige un sujeto plural o múltiple, mientras que el reflexivo puede tener un sujeto singular.", "correct": true },
+      { "text": "El reflexivo siempre lleva objeto directo, y el recíproco, indirecto.", "correct": false },
+      { "text": "El recíproco es siempre irregular y el reflexivo es regular.", "correct": false },
+      { "text": "El reflexivo es transitivo y el recíproco es intransitivo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Para que una acción sea mutua, se necesita más de un participante.",
+    "explanation": "La reciprocidad implica un intercambio de acción entre dos o más seres, por lo que el sujeto debe ser múltiple ('ellos se saludan'). La reflexividad implica que la acción recae sobre el mismo que la ejecuta, lo cual es posible con un sujeto singular ('él se saluda').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fw",
+    "question": "¿Qué tipo de nexo es 'conque' en la oración 'Ya es tarde, conque vámonos'?",
+    "image": null,
+    "options": [
+      { "text": "Conjunción ilativa", "correct": true },
+      { "text": "Preposición + Pronombre relativo", "correct": false },
+      { "text": "Conjunción condicional", "correct": false },
+      { "text": "Adverbio de modo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "No debe confundirse con 'con que' (separado) ni con 'con qué' (interrogativo). Equivale a 'así que'.",
+    "explanation": "'Conque' es una conjunción ilativa o consecutiva que expresa la consecuencia de lo dicho anteriormente. Se escribe en una sola palabra.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fx",
+    "question": "Los verbos _______ son aquellos que no admiten un complemento directo. Los verbos _______ son los que sí lo exigen o admiten.",
+    "image": null,
+    "options": [
+      { "text": "intransitivos, transitivos", "correct": true },
+      { "text": "copulativos, predicativos", "correct": false },
+      { "text": "regulares, irregulares", "correct": false },
+      { "text": "personales, impersonales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La transitividad se refiere a si la acción 'transita' o pasa del sujeto a un objeto.",
+    "explanation": "Esta es la definición fundamental de la transitividad verbal. Verbos como 'llegar' o 'morir' son intransitivos, mientras que 'comprar' o 'ver' son transitivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fy",
+    "question": "En la oración 'Luis se puso colorado', el verbo 'ponerse' es:",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Semicopulativo", "correct": true },
+      { "text": "Predicativo", "correct": false },
+      { "text": "Copulativo puro", "correct": false },
+      { "text": "Reflexivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El verbo ha perdido su significado de 'colocar' y sirve para atribuir un estado al sujeto.",
+    "explanation": "'Ponerse', al igual que 'volverse' o 'quedarse', puede funcionar como un verbo semicopulativo cuando indica un cambio de estado y une al sujeto con un atributo ('colorado').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01fz",
+    "question": "Son conjunciones o locuciones conjuntivas condicionales:",
+    "image": "https://cdn0.unprofesor.com/es/posts/8/9/1/que_son_las_conjunciones_copulativas_4198_4_600.jpg",
+    "options": [
+      { "text": "Si, como, siempre que", "correct": true },
+      { "text": "Y, e, ni", "correct": false },
+      { "text": "Porque, pues, ya que", "correct": false },
+      { "text": "Aunque, mas, pero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Introducen la condición necesaria para que se cumpla la oración principal.",
+    "explanation": "'Si' es la conjunción condicional por excelencia. Otras como 'como' (en 'Como no vengas...') o locuciones como 'siempre que' también expresan condición.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ga",
+    "question": "Un verbo es pronominal cuando se conjuga necesariamente con un pronombre (ej. quejarse). Señala la opción que contiene un verbo de este tipo.",
+    "image": null,
+    "options": [
+      { "text": "Juan se atrevió a saltar.", "correct": true },
+      { "text": "Juan se lava los dientes.", "correct": false },
+      { "text": "Juan se mira en el espejo.", "correct": false },
+      { "text": "Juan y María se escriben cartas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca el verbo que no tiene sentido sin el pronombre. No se puede *atrever* algo.",
+    "explanation": "El verbo 'atreverse' es pronominal y no puede usarse sin el pronombre átono. Los otros ejemplos son reflexivos ('lavarse', 'mirarse') o recíproco ('escribirse').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01gb",
+    "question": "En la oración 'Los novios se casaron ayer', el verbo 'casarse' funciona como...",
+    "image": null,
+    "options": [
+      { "text": "Pronominal (o cuasirreflejo)", "correct": true },
+      { "text": "Recíproco", "correct": false },
+      { "text": "Reflexivo", "correct": false },
+      { "text": "Pasivo reflejo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Aunque la idea de fondo es mutua, el verbo 'casar' en español requiere el pronombre para tener el significado de 'contraer matrimonio'.",
+    "explanation": "El verbo 'casarse' es pronominal. Aunque implica una acción mutua, gramaticalmente se clasifica como un verbo que exige el pronombre para su conjugación con este significado. El pronombre 'se' es un morfema verbal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01gc",
+    "question": "Las locuciones conjuntivas son ______ que funcionan como una ______.",
+    "image": null,
+    "options": [
+      { "text": "grupos de palabras, conjunción", "correct": true },
+      { "text": "verbos compuestos, preposición", "correct": false },
+      { "text": "sustantivos, adverbio", "correct": false },
+      { "text": "adjetivos, nexo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Ejemplos: 'a pesar de que', 'puesto que', 'sin embargo'.",
+    "explanation": "Una locución conjuntiva es un conjunto fijo de dos o más palabras que desempeña la misma función que una conjunción simple, sirviendo de nexo entre oraciones o partes de una oración.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01gd",
+    "question": "Distingue la oración con verbo semicopulativo de la que tiene un verbo predicativo.",
+    "image": "https://literatinn.com/wp-content/uploads/2024/04/clases-de-verbo-1.jpg",
+    "options": [
+      { "text": "Semicopulativo: 'Se quedó mudo' / Predicativo: 'Se quedó en casa'.", "correct": true },
+      { "text": "Semicopulativo: 'Corría rápido' / Predicativo: 'Era rápido'.", "correct": false },
+      { "text": "Semicopulativo: 'Estaba triste' / Predicativo: 'Anduvo triste'.", "correct": false },
+      { "text": "Semicopulativo: 'Compró flores' / Predicativo: 'Regaló flores'.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "El semicopulativo une al sujeto con un atributo ('mudo'), mientras que el predicativo mantiene su significado pleno ('permanecer en un lugar').",
+    "explanation": "En 'se quedó mudo', el verbo 'quedarse' pierde su significado de permanencia y sirve para atribuir un estado. En 'se quedó en casa', mantiene su significado y es predicativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ge",
+    "question": "Son verbos defectivos que solo se conjugan en las formas cuya desinencia empieza por -i:",
+    "image": null,
+    "options": [
+      { "text": "Abolir, agredir", "correct": true },
+      { "text": "Ser, ir", "correct": false },
+      { "text": "Llover, nevar", "correct": false },
+      { "text": "Soler, atañer", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Por ejemplo, 'abolimos' o 'abolió' son correctas, pero '*abolo*' no lo es según la norma tradicional.",
+    "explanation": "Tradicionalmente, verbos como 'abolir', 'agredir' o 'balbucir' se consideraban defectivos, usándose solo en las formas con '-i' (infinitivo, formas en -imos, -ís, pret. imperfecto, etc.). Aunque hoy la RAE admite su conjugación completa, este es su rasgo defectivo clásico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01gf",
+    "question": "La diferencia entre un verbo reflexivo y uno cuasirreflejo es que en el primero el pronombre tiene función de ______, mientras que en el segundo es un ______.",
+    "image": null,
+    "options": [
+      { "text": "CD o CI, morfema verbal", "correct": true },
+      { "text": "morfema verbal, CD o CI", "correct": false },
+      { "text": "sujeto, atributo", "correct": false },
+      { "text": "atributo, sujeto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Analiza 'Yo me lavo' (lavo a mí mismo - CD) frente a 'Yo me quejo' (*quejo a mí mismo - no tiene sentido).",
+    "explanation": "En los verbos reflexivos, el pronombre átono (me, te, se) es sintácticamente un complemento directo o indirecto. En los cuasirreflejos o pronominales, el pronombre no tiene función sintáctica, sino que es una marca inherente al verbo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01gg",
+    "question": "Relaciona la oración con el tipo de 'se': A) Se arreglan zapatos, B) Se arrepintió tarde, C) Se abrazaron con fuerza; I) Cuasirreflejo, II) Recíproco, III) Pasiva refleja.",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "A) Los zapatos son arreglados. B) El verbo es 'arrepentirse'. C) La acción es mutua.",
+    "explanation": "'Se arreglan zapatos' es pasiva refleja (sujeto paciente 'zapatos'). 'Se arrepintió' es cuasirreflejo (verbo pronominal). 'Se abrazaron' es recíproco (acción mutua).",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
