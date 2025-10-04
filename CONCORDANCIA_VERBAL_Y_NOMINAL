@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "CEPRIG01ku",
+    "question": "Selecciona la oración que presenta una concordancia nominal correcta.",
+    "image": null,
+    "options": [
+      { "text": "Tengo una duda sobre la legalidad de este trabajo.", "correct": true },
+      { "text": "Tengo un duda sobre la legalidad de este trabajo.", "correct": false },
+      { "text": "Tengo una duda sobre la legalidad de esta trabajo.", "correct": false },
+      { "text": "Tengo una dudo sobre la legalidad de este trabajo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sustantivo 'duda' es de género femenino.",
+    "explanation": "La palabra 'duda' es un sustantivo femenino, por lo que debe ir acompañado por el artículo indeterminado en femenino 'una'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01kv",
+    "question": "Elige la frase con la concordancia adjetival adecuada.",
+    "image": null,
+    "options": [
+      { "text": "Tiene el pelo liso y muy largo.", "correct": true },
+      { "text": "Tiene el pelo liso y muy largos.", "correct": false },
+      { "text": "Tiene el pelo lisa y muy largo.", "correct": false },
+      { "text": "Tiene la pelo liso y muy larga.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El adjetivo debe concordar en género y número con 'pelo'.",
+    "explanation": "El sustantivo 'pelo' es masculino y singular, por lo que el adjetivo 'largo' debe concordar con él en ambos aspectos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01kw",
+    "question": "Completa la oración: La muerte de su padre fue ________ para ella.",
+    "image": null,
+    "options": [
+      { "text": "un trauma", "correct": true },
+      { "text": "una trauma", "correct": false },
+      { "text": "un traumo", "correct": false },
+      { "text": "una traume", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo 'trauma' es de origen griego y es masculino.",
+    "explanation": "A pesar de terminar en '-a', 'trauma' es un sustantivo de género masculino. Por lo tanto, la concordancia correcta exige el artículo 'un'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01kx",
+    "question": "Identifica la opción con la concordancia correcta del adjetivo demostrativo.",
+    "image": null,
+    "options": [
+      { "text": "Todavía no he leído la parte final de esta novela.", "correct": true },
+      { "text": "Todavía no he leído la parte final de este novela.", "correct": false },
+      { "text": "Todavía no he leído la parte final de estos novela.", "correct": false },
+      { "text": "Todavía no he leído la parte final de estas novela.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El adjetivo demostrativo concuerda con el sustantivo 'novela'.",
+    "explanation": "El sustantivo 'novela' es femenino y singular, por lo que el adjetivo demostrativo que lo acompaña debe tener la misma concordancia: 'esta'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ky",
+    "question": "El cazador ha matado ________ elefantes en la sabana.",
+    "image": null,
+    "options": [
+      { "text": "muchos", "correct": true },
+      { "text": "mucho", "correct": false },
+      { "text": "mucha", "correct": false },
+      { "text": "muchas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El cuantificador debe concordar en número con 'elefantes'.",
+    "explanation": "El adjetivo cuantificador 'mucho' debe concordar en número con el sustantivo al que modifica. Como 'elefantes' es plural, la forma correcta es 'muchos'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01kz",
+    "question": "Relaciona el sustantivo con su artículo y adjetivo correctos: A) sistema, B) nación, C) agua.",
+    "image": null,
+    "options": [
+      { "text": "A) Vuestro sistema completo; B) La nación grande; C) El agua limpia.", "correct": true },
+      { "text": "A) Vuestra sistema completa; B) El nación grande; C) La agua limpia.", "correct": false },
+      { "text": "A) Vuestro sistema completo; B) El nación grande; C) El agua limpio.", "correct": false },
+      { "text": "A) Vuestra sistema completo; B) La nación grande; C) La agua limpio.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Presta atención al género de 'sistema', 'nación' y 'agua'.",
+    "explanation": "A) 'Sistema' es masculino, por lo tanto 'Vuestro' y 'completo'. B) 'Nación' es femenino, por lo tanto 'La'. C) 'Agua' es femenino, pero usa el artículo 'el' para evitar cacofonía; sin embargo, el adjetivo debe ser femenino ('limpia').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01la",
+    "question": "________ los problemas que tengo se resolverían con dinero.",
+    "image": null,
+    "options": [
+      { "text": "Todos", "correct": true },
+      { "text": "Todas", "correct": false },
+      { "text": "Todo", "correct": false },
+      { "text": "Toda", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El cuantificador debe concordar en género con 'problemas'.",
+    "explanation": "El sustantivo 'problemas' es masculino y plural. Por lo tanto, el adjetivo indefinido que lo acompaña debe concordar en masculino plural: 'Todos'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lb",
+    "question": "Selecciona la oración con la concordancia nominal correcta.",
+    "image": null,
+    "options": [
+      { "text": "No has prestado ninguna atención a este tema.", "correct": true },
+      { "text": "No has prestado ningún atención a este tema.", "correct": false },
+      { "text": "No has prestado ninguno atención a este tema.", "correct": false },
+      { "text": "No has prestado ningunas atención a este tema.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El cuantificador 'ningún' tiene una forma femenina 'ninguna'.",
+    "explanation": "El sustantivo 'atención' es femenino y singular. Por lo tanto, debe ir acompañado de la forma femenina del adjetivo indefinido: 'ninguna'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lc",
+    "question": "Elige la frase que demuestra una concordancia correcta.",
+    "image": null,
+    "options": [
+      { "text": "El agua de esta ciudad es limpia y pura.", "correct": true },
+      { "text": "El agua de esta ciudad es limpio y puro.", "correct": false },
+      { "text": "La agua de esta ciudad es limpia y pura.", "correct": false },
+      { "text": "El agua de esta ciudad son limpios y puros.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda que 'agua' es un sustantivo femenino a pesar de usar el artículo 'el'.",
+    "explanation": "Para evitar la cacofonía de 'la agua', se utiliza el artículo masculino 'el'. Sin embargo, 'agua' sigue siendo un sustantivo femenino, por lo que los adjetivos que lo modifican deben concordar en femenino: 'limpia' y 'pura'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ld",
+    "question": "Este libro resulta muy ________ para todos los públicos.",
+    "image": null,
+    "options": [
+      { "text": "apropiado", "correct": true },
+      { "text": "apropiada", "correct": false },
+      { "text": "apropiados", "correct": false },
+      { "text": "apropiadas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El adjetivo debe concordar con el sustantivo 'libro'.",
+    "explanation": "El sustantivo 'libro' es masculino y singular, por lo que el adjetivo que lo califica debe tener la misma concordancia: 'apropiado'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01le",
+    "question": "Identifica los adjetivos que concuerdan correctamente con sus sustantivos.",
+    "image": null,
+    "options": [
+      { "text": "pantalones vaqueros, bufanda negra", "correct": true },
+      { "text": "pantalones vaquero, bufanda negro", "correct": false },
+      { "text": "pantalones vaqueros, bufanda negro", "correct": false },
+      { "text": "pantalones vaquero, bufanda negra", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cada adjetivo debe concordar con su respectivo sustantivo.",
+    "explanation": "El adjetivo debe concordar en género y número con el sustantivo al que modifica. 'Pantalones' es masculino plural, por lo que requiere 'vaqueros'. 'Bufanda' es femenino singular, por lo que requiere 'negra'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lf",
+    "question": "En esta clase hay ________ alumnos que ya saben español.",
+    "image": null,
+    "options": [
+      { "text": "bastantes", "correct": true },
+      { "text": "bastante", "correct": false },
+      { "text": "sobrados", "correct": false },
+      { "text": "muchísima", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cuando 'bastante' funciona como adjetivo, concuerda en número.",
+    "explanation": "En este contexto, 'bastante' es un adjetivo cuantificador que modifica a 'alumnos' (plural). Por lo tanto, debe concordar en número: 'bastantes'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lg",
+    "question": "La ________ águila real sobrevolaba las ________ cumbres nevadas.",
+    "image": null,
+    "options": [
+      { "text": "majestuosa, altas", "correct": true },
+      { "text": "majestuoso, altas", "correct": false },
+      { "text": "majestuosa, altos", "correct": false },
+      { "text": "majestuosas, altas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Aunque se dice 'el águila', el sustantivo es femenino y los adjetivos deben concordar con él.",
+    "explanation": "'Águila' es un sustantivo femenino. Se usa el artículo 'el' para evitar la cacofonía, pero cualquier adjetivo que lo acompañe debe ir en femenino ('majestuosa'). 'Cumbres' es femenino plural, por lo que requiere 'altas'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lh",
+    "question": "Selecciona la oración con concordancia verbal correcta.",
+    "image": null,
+    "options": [
+      { "text": "El candidato más votado fui yo.", "correct": true },
+      { "text": "El candidato más votado fue yo.", "correct": false },
+      { "text": "El candidato más votado soy yo.", "correct": false },
+      { "text": "El candidato más votado era yo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "En oraciones copulativas, si el atributo es un pronombre personal, el verbo concuerda con este.",
+    "explanation": "Cuando el atributo de una oración con el verbo 'ser' es un pronombre personal (yo, tú, él, etc.), el verbo debe concordar en persona con dicho pronombre. Como el atributo es 'yo' (primera persona), el verbo debe ser 'fui'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01li",
+    "question": "Elige la opción con la concordancia correcta del participio.",
+    "image": null,
+    "options": [
+      { "text": "Cada vez estamos más influidos por la televisión.", "correct": true },
+      { "text": "Cada vez estamos más influido por la televisión.", "correct": false },
+      { "text": "Cada vez está más influidos por la televisión.", "correct": false },
+      { "text": "Cada vez estamos más influida por la televisión.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El participio con función adjetival debe concordar con el sujeto.",
+    "explanation": "El sujeto de la oración es 'nosotros' (implícito en 'estamos'). Como el sujeto es plural y masculino, el participio que funciona como adjetivo debe concordar en plural masculino: 'influidos'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lj",
+    "question": "¿Cuál de estas oraciones es gramaticalmente correcta?",
+    "image": null,
+    "options": [
+      { "text": "Cerca de tu casa había varias gasolineras.", "correct": true },
+      { "text": "Cerca de tu casa habían varias gasolineras.", "correct": false },
+      { "text": "Cerca de tu casa hubieron varias gasolineras.", "correct": false },
+      { "text": "Cerca de tu casa han varias gasolineras.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El verbo 'haber' cuando significa 'existir' es impersonal.",
+    "explanation": "Cuando el verbo 'haber' se usa para indicar existencia, es impersonal y debe conjugarse siempre en tercera persona del singular ('había'), sin importar si el complemento directo ('varias gasolineras') es plural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lk",
+    "question": "Completa la oración: Las noticias ________ muy ________ en el canal 21.",
+    "image": null,
+    "options": [
+      { "text": "son, interesantes", "correct": true },
+      { "text": "es, interesante", "correct": false },
+      { "text": "son, interesante", "correct": false },
+      { "text": "es, interesantes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sujeto 'Las noticias' es femenino y plural.",
+    "explanation": "El sujeto 'Las noticias' es plural, por lo que el verbo debe ir en plural ('son'). El adjetivo también debe concordar en plural con el sujeto ('interesantes').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ll",
+    "question": "Selecciona la frase con la concordancia correcta de género y número.",
+    "image": null,
+    "options": [
+      { "text": "Tus gafas están rotas.", "correct": true },
+      { "text": "Tus gafas está roto.", "correct": false },
+      { "text": "Tus gafas están rotos.", "correct": false },
+      { "text": "Tu gafa está rota.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo 'gafas' es un 'pluralia tantum', siempre se usa en plural.",
+    "explanation": "El sustantivo 'gafas' es femenino y se usa siempre en plural. Por lo tanto, el verbo debe estar en plural ('están') y el adjetivo en femenino plural ('rotas').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lm",
+    "question": "La gente ________ muy simpática y no ________ lo que piensa.",
+    "image": null,
+    "options": [
+      { "text": "es, dice", "correct": true },
+      { "text": "es, dicen", "correct": false },
+      { "text": "son, dice", "correct": false },
+      { "text": "son, dicen", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo colectivo 'gente' es gramaticalmente singular.",
+    "explanation": "Aunque 'gente' se refiere a un conjunto de personas, es un sustantivo singular y femenino. Por lo tanto, el verbo debe conjugarse en singular ('es', 'dice') y el adjetivo debe ser femenino singular ('simpática').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ln",
+    "question": "Relaciona cada construcción con su estado de concordancia: A) El hacha afilado; B) Su señoría es justo; C) La pus y la sangre derramadas.",
+    "image": null,
+    "options": [
+      { "text": "A) Incorrecta; B) Correcta; C) Correcta.", "correct": true },
+      { "text": "A) Correcta; B) Incorrecta; C) Incorrecta.", "correct": false },
+      { "text": "A) Incorrecta; B) Incorrecta; C) Correcta.", "correct": false },
+      { "text": "A) Correcta; B) Correcta; C) Incorrecta.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Analiza la concordancia de género real vs. aparente en cada caso.",
+    "explanation": "A) Es incorrecta. 'Hacha' es femenino, por lo que el adjetivo debe ser 'afilada'. B) Es correcta. 'Señoría' es femenino, pero el adjetivo ('justo') concuerda por silepsis con el sexo masculino del juez. C) Es correcta. Al ser dos sustantivos femeninos, el participio va en femenino plural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lo",
+    "question": "El problema de los ecosistemas ________ las especies invasoras.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "fueron", "correct": false },
+      { "text": "resultan", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "En oraciones copulativas con 'ser', el verbo puede concordar con el atributo si este es plural.",
+    "explanation": "Aunque el núcleo del sujeto ('problema') es singular, en las oraciones copulativas es común y correcto que el verbo 'ser' concuerde con el atributo ('las especies invasoras'), que es plural. Por lo tanto, 'son' es la forma preferida.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lp",
+    "question": "Identifica la oración donde la concordancia del pronombre relativo es impecable.",
+    "image": null,
+    "options": [
+      { "text": "Es uno de esos profesores que siempre exigen el máximo.", "correct": true },
+      { "text": "Es uno de esos profesores que siempre exige el máximo.", "correct": false },
+      { "text": "Soy de los que cree que es mejor esperar.", "correct": false },
+      { "text": "Es una de aquellas películas que nunca se olvida.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "level_tag": ["AVANZADO"],
+    "hint": "En estructuras partitivas como 'uno de los que...', el antecedente del relativo es el sustantivo plural.",
+    "explanation": "El antecedente del pronombre relativo 'que' no es 'uno', sino 'profesores' (plural). Por consiguiente, el verbo de la oración subordinada debe concordar en plural ('exigen').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lq",
+    "question": "La harina, la leche y los huevos, ________ bien ________, forman la base del pastel.",
+    "image": null,
+    "options": [
+      { "text": "mezclados", "correct": true },
+      { "text": "mezcladas", "correct": false },
+      { "text": "mezclado", "correct": false },
+      { "text": "mezclada", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un participio que modifica a varios sustantivos de diferente género.",
+    "explanation": "Cuando un adjetivo o participio modifica a varios sustantivos de géneros diferentes, la concordancia se establece en masculino plural. 'Harina' (fem.), 'leche' (fem.) y 'huevos' (masc.) requieren el participio 'mezclados'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lr",
+    "question": "Su excelencia, el embajador, se mostró ________ y ________.",
+    "image": null,
+    "options": [
+      { "text": "satisfecho, complacido", "correct": true },
+      { "text": "satisfecha, complacida", "correct": false },
+      { "text": "satisfecho, complacida", "correct": false },
+      { "text": "satisfecha, complacido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Este es un caso de silepsis de género con un título de tratamiento.",
+    "explanation": "El sustantivo 'excelencia' es femenino, pero se refiere a un hombre ('el embajador'). La concordancia de los adjetivos se realiza por el sentido (silepsis) con el sexo de la persona, por lo que deben ir en masculino: 'satisfecho' y 'complacido'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ls",
+    "question": "El que los informes no llegaran a tiempo y que las cifras fueran incorrectas ________ la reunión.",
+    "image": null,
+    "options": [
+      { "text": "complicó", "correct": true },
+      { "text": "complicaron", "correct": false },
+      { "text": "complicaste", "correct": false },
+      { "text": "complicamos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Cuando el sujeto es una serie de proposiciones subordinadas sustantivas.",
+    "explanation": "El sujeto de la oración está compuesto por dos proposiciones introducidas por 'que'. En estos casos, se considera una unidad conceptual que funciona como sujeto singular, por lo que el verbo principal va en singular: 'complicó'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lt",
+    "question": "Son elementos que deben concordar en género y número en una oración:",
+    "image": null,
+    "options": [
+      { "text": "Sustantivo, artículo, adjetivo", "correct": true },
+      { "text": "Verbo, adverbio, sustantivo", "correct": false },
+      { "text": "Adjetivo, preposición, verbo", "correct": false },
+      { "text": "Sustantivo, pronombre, conjunción", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Piensa en las palabras que modifican directamente a un nombre.",
+    "explanation": "La concordancia nominal exige que el artículo y el adjetivo que acompañan a un sustantivo concuerden con este en género (masculino/femenino) y número (singular/plural).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lu",
+    "question": "El calor y la humedad ________ insoportables en verano.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "fueron", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un sujeto compuesto por dos elementos unidos por 'y' requiere un verbo en plural.",
+    "explanation": "El sujeto de la oración es 'El calor y la humedad', que es un sujeto compuesto. Por lo tanto, el verbo 'ser' debe conjugarse en la tercera persona del plural: 'son'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lv",
+    "question": "Completa el texto: El ________ de músicos afinaba sus instrumentos. La ________, impaciente, esperaba el comienzo del concierto.",
+    "image": null,
+    "options": [
+      { "text": "grupo, gente", "correct": true },
+      { "text": "grupo, gentes", "correct": false },
+      { "text": "grupos, gente", "correct": false },
+      { "text": "grupos, gentes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Ambos sustantivos son colectivos y se usan en singular.",
+    "explanation": "Tanto 'grupo' como 'gente' son sustantivos colectivos que, a pesar de referirse a una pluralidad, se utilizan gramaticalmente en singular y concuerdan con verbos en singular ('afinaba', 'esperaba').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lw",
+    "question": "La mayor parte de los manifestantes ________ pacíficamente.",
+    "image": null,
+    "options": [
+      { "text": "se dispersó", "correct": true },
+      { "text": "se dispersaron", "correct": false },
+      { "text": "dispersose", "correct": false },
+      { "text": "se dispersaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Con sustantivos partitivos, la concordancia puede ser con el núcleo (singular) o con el complemento (plural). La opción singular es la preferida en la norma culta.",
+    "explanation": "El sujeto es 'La mayor parte de los manifestantes'. El verbo puede concordar con el núcleo 'parte' (singular: 'se dispersó') o con el complemento 'manifestantes' (plural: 'se dispersaron'). La concordancia gramatical con el núcleo singular es la opción más formal y recomendada.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lx",
+    "question": "Ni el entrenador ni los jugadores ________ satisfechos con el resultado.",
+    "image": null,
+    "options": [
+      { "text": "estaban", "correct": true },
+      { "text": "estaba", "correct": false },
+      { "text": "estuvo", "correct": false },
+      { "text": "estuvimos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cuando 'ni...ni' une sujetos de diferente número, el verbo va en plural.",
+    "explanation": "La conjunción correlativa 'ni...ni' une dos sujetos ('el entrenador' y 'los jugadores'). Al ser de diferente número, la norma dicta que el verbo debe concordar en plural ('estaban').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ly",
+    "question": "Se ________ apartamentos con vistas al mar.",
+    "image": null,
+    "options": [
+      { "text": "alquilan", "correct": true },
+      { "text": "alquila", "correct": false },
+      { "text": "alquilamos", "correct": false },
+      { "text": "alquilo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "En la pasiva refleja, el verbo concuerda con el sujeto paciente.",
+    "explanation": "En esta oración, 'apartamentos' es el sujeto paciente. Como es un sustantivo plural, el verbo debe concordar en la tercera persona del plural: 'alquilan'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01lz",
+    "question": "Relaciona el tipo de concordancia verbal con su ejemplo: A) Impersonal con 'haber', B) Con sujeto compuesto, C) Pasiva refleja.",
+    "image": null,
+    "options": [
+      { "text": "A) Había muchas dudas; B) El perro y el gato juegan; C) Se venden pisos.", "correct": true },
+      { "text": "A) Se venden pisos; B) Había muchas dudas; C) El perro y el gato juegan.", "correct": false },
+      { "text": "A) El perro y el gato juegan; B) Se venden pisos; C) Había muchas dudas.", "correct": false },
+      { "text": "A) Habían muchas dudas; B) El perro y el gato juega; C) Se vende pisos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Identifica el sujeto en cada oración para determinar la concordancia.",
+    "explanation": "A) El verbo 'haber' impersonal va siempre en singular. B) Un sujeto compuesto exige un verbo en plural. C) En la pasiva refleja, el verbo concuerda con el sujeto paciente plural ('pisos').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ma",
+    "question": "El ir y venir de los coches ________ desesperante.",
+    "image": null,
+    "options": [
+      { "text": "es", "correct": true },
+      { "text": "son", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "eran", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Un sujeto compuesto por dos infinitivos se considera una unidad conceptual.",
+    "explanation": "Aunque el sujeto está formado por dos infinitivos ('ir y venir') unidos por 'y', se interpreta como un único concepto (el tráfico, el movimiento). Por esta razón, el verbo concuerda en singular ('es').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mb",
+    "question": "A los niños les ________ las golosinas.",
+    "image": null,
+    "options": [
+      { "text": "encantan", "correct": true },
+      { "text": "encanta", "correct": false },
+      { "text": "encantamos", "correct": false },
+      { "text": "encanto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "En verbos como 'gustar' o 'encantar', el sujeto gramatical es lo que gusta o encanta.",
+    "explanation": "En esta estructura, el sujeto de la oración es 'las golosinas' (plural). Por lo tanto, el verbo debe concordar en plural ('encantan'). 'A los niños' funciona como complemento indirecto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mc",
+    "question": "El jurado ________ deliberando durante horas.",
+    "image": null,
+    "options": [
+      { "text": "estuvo", "correct": true },
+      { "text": "estuvieron", "correct": false },
+      { "text": "estuvimos", "correct": false },
+      { "text": "estuviste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo colectivo 'jurado' funciona como un sujeto singular.",
+    "explanation": "Aunque se compone de varias personas, el colectivo 'jurado' es un sustantivo singular y exige que el verbo concuerde en singular ('estuvo') cuando actúa como una unidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01md",
+    "question": "La obra tiene un argumento y un final ________.",
+    "image": null,
+    "options": [
+      { "text": "inesperados", "correct": true },
+      { "text": "inesperado", "correct": false },
+      { "text": "inesperada", "correct": false },
+      { "text": "inesperadas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un adjetivo que califica a dos sustantivos masculinos singulares.",
+    "explanation": "Cuando un adjetivo modifica a dos o más sustantivos, debe ir en plural. Si ambos sustantivos son masculinos ('argumento' y 'final'), el adjetivo también será masculino plural ('inesperados').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01me",
+    "question": "Encontré ________ el aula y la oficina ________.",
+    "image": null,
+    "options": [
+      { "text": "vacías", "correct": true },
+      { "text": "vacíos", "correct": false },
+      { "text": "vacía", "correct": false },
+      { "text": "vacío", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un adjetivo que califica a dos sustantivos femeninos singulares.",
+    "explanation": "El adjetivo 'vacías' modifica a dos sustantivos femeninos ('aula' y 'oficina'). Por lo tanto, debe concordar en femenino plural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mf",
+    "question": "Su santidad, el papa, fue ________ con aplausos.",
+    "image": null,
+    "options": [
+      { "text": "recibido", "correct": true },
+      { "text": "recibida", "correct": false },
+      { "text": "recibidos", "correct": false },
+      { "text": "recibidas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "El participio concuerda por silepsis con el sexo de la persona, no con el género gramatical del título.",
+    "explanation": "El sustantivo 'santidad' es femenino, pero se refiere a un hombre. En estos casos, el participio concuerda por sentido (silepsis) con el sexo de la persona, por lo que la forma correcta es 'recibido' (masculino singular).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mg",
+    "question": "Identifica los elementos con concordancia correcta.",
+    "image": null,
+    "options": [
+      { "text": "la tesis, el tema, el mapa", "correct": true },
+      { "text": "el tesis, la tema, la mapa", "correct": false },
+      { "text": "el tesis, el tema, el mapa", "correct": false },
+      { "text": "la tesis, la tema, el mapa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda el género de sustantivos que terminan en -is, -ma.",
+    "explanation": "'Tesis' es un sustantivo femenino ('la tesis'). Los sustantivos de origen griego terminados en '-ma' suelen ser masculinos ('el tema', 'el mapa').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mh",
+    "question": "Más de un diputado ________ en contra de la propuesta.",
+    "image": null,
+    "options": [
+      { "text": "votó", "correct": true },
+      { "text": "votaron", "correct": false },
+      { "text": "votamos", "correct": false },
+      { "text": "votaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "La construcción 'más de un + sustantivo singular' exige un verbo en singular.",
+    "explanation": "Aunque la lógica sugiera pluralidad, la norma gramatical establece que la construcción 'más de un/una' seguida de un sustantivo singular debe concordar con un verbo en singular ('votó').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mi",
+    "question": "El resto de los documentos ________ archivados en otra carpeta.",
+    "image": null,
+    "options": [
+      { "text": "está", "correct": true },
+      { "text": "están", "correct": false },
+      { "text": "estamos", "correct": false },
+      { "text": "estoy", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Con el partitivo 'el resto de', la concordancia con el núcleo singular es la preferida.",
+    "explanation": "El verbo puede concordar con el núcleo del sujeto ('resto', singular) o con el complemento ('documentos', plural). La concordancia gramatical con el núcleo singular ('está') se considera más formal y es la opción preferida por la RAE.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mj",
+    "question": "Cada ________ tiene sus ________.",
+    "image": null,
+    "options": [
+      { "text": "cual, manías", "correct": true },
+      { "text": "cuales, manías", "correct": false },
+      { "text": "cual, manía", "correct": false },
+      { "text": "cuales, manía", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El pronombre 'cada' siempre va seguido de un sustantivo en singular.",
+    "explanation": "La estructura correcta es 'cada cual' o 'cada uno', que son singulares y exigen un verbo en singular. El posesivo 'sus' concuerda con 'manías' (plural).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mk",
+    "question": "Se buscan ________ con experiencia en el sector.",
+    "image": null,
+    "options": [
+      { "text": "actores", "correct": true },
+      { "text": "actor", "correct": false },
+      { "text": "a actores", "correct": false },
+      { "text": "un actor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El verbo 'buscan' está en plural, indicando que el sujeto paciente también debe serlo.",
+    "explanation": "Esta es una oración en pasiva refleja. El verbo 'buscan' (plural) indica que el sujeto paciente ('actores') debe ser plural. La preposición 'a' no se usa aquí porque convertiría la oración en impersonal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ml",
+    "question": "El hambre y la sed ________ terribles en el desierto.",
+    "image": null,
+    "options": [
+      { "text": "eran", "correct": true },
+      { "text": "era", "correct": false },
+      { "text": "fuimos", "correct": false },
+      { "text": "fui", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un sujeto compuesto por dos sustantivos requiere un verbo en plural.",
+    "explanation": "El sujeto 'El hambre y la sed' está compuesto por dos elementos, por lo que el verbo debe concordar en la tercera persona del plural ('eran').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mm",
+    "question": "Las novela y el cuento premiados son de autores ________.",
+    "image": null,
+    "options": [
+      { "text": "desconocidos", "correct": true },
+      { "text": "desconocidas", "correct": false },
+      { "text": "desconocido", "correct": false },
+      { "text": "desconocida", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un participio y un adjetivo que se refieren a sustantivos de diferente género.",
+    "explanation": "El participio 'premiados' y el adjetivo 'desconocidos' modifican a 'novela' (femenino) y 'cuento' (masculino). La norma dicta que la concordancia se establezca en masculino plural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mn",
+    "question": "Relaciona cada sujeto con su verbo: A) La jauría; B) Ni tú ni yo; C) El 15 % de los votantes.",
+    "image": null,
+    "options": [
+      { "text": "A) ladraba; B) sabemos; C) se abstuvo.", "correct": true },
+      { "text": "A) ladraban; B) sabe; C) se abstuvieron.", "correct": false },
+      { "text": "A) ladraba; B) sabe; C) se abstuvo.", "correct": false },
+      { "text": "A) ladraban; B) sabemos; C) se abstuvieron.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Analiza colectivos, sujetos compuestos con 'yo' y porcentajes.",
+    "explanation": "A) El colectivo 'jauría' concuerda en singular. B) La presencia de 'yo' exige la primera persona del plural. C) Con porcentajes, se prefiere la concordancia en singular.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mo",
+    "question": "El cortocircuito provocó un incendio y una explosión ________.",
+    "image": null,
+    "options": [
+      { "text": "tremendos", "correct": true },
+      { "text": "tremendas", "correct": false },
+      { "text": "tremendo", "correct": false },
+      { "text": "tremenda", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El adjetivo pospuesto a dos sustantivos de diferente género concuerda en masculino plural.",
+    "explanation": "El adjetivo modifica a 'incendio' (masculino) y 'explosión' (femenino). Cuando un adjetivo califica a sustantivos de diferente género, la concordancia se establece en masculino plural: 'tremendos'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mp",
+    "question": "Me parece que ________ demasiadas personas en esta sala.",
+    "image": null,
+    "options": [
+      { "text": "hay", "correct": true },
+      { "text": "han", "correct": false },
+      { "text": "habemos", "correct": false },
+      { "text": "habían", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El verbo 'haber' de existencia es impersonal y siempre va en singular.",
+    "explanation": "Aunque 'personas' es plural, el verbo 'haber' para indicar existencia es impersonal. Su forma correcta es la tercera persona del singular: 'hay'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mq",
+    "question": "El clan de los osos ________ en las montañas.",
+    "image": null,
+    "options": [
+      { "text": "hiberna", "correct": true },
+      { "text": "hibernan", "correct": false },
+      { "text": "hibernamos", "correct": false },
+      { "text": "hiberno", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es el sustantivo colectivo 'clan'.",
+    "explanation": "El sujeto de la oración es 'El clan de los osos'. El núcleo es 'clan', un sustantivo singular. Por lo tanto, el verbo debe concordar en singular: 'hiberna'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mr",
+    "question": "Completa el texto: El fiscal, junto con sus ayudantes, ________ el caso. ________ las pruebas con sumo cuidado.",
+    "image": null,
+    "options": [
+      { "text": "investigó, Analizaron", "correct": true },
+      { "text": "investigaron, Analizó", "correct": false },
+      { "text": "investigó, Analizó", "correct": false },
+      { "text": "investigaron, Analizaron", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Distingue entre concordancia gramatical y concordancia 'ad sensum'.",
+    "explanation": "En la primera oración, el sujeto es solo 'El fiscal', por lo que la concordancia gramatical estricta es en singular ('investigó'). En la segunda, es posible una concordancia por el sentido ('ad sensum'), donde el verbo ('Analizaron') concuerda con la idea plural de que fueron varias personas las que analizaron las pruebas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ms",
+    "question": "Son palabras con género ambiguo en cuanto al número (pueden ser singular o plural con la misma forma):",
+    "image": null,
+    "options": [
+      { "text": "crisis, tesis, análisis", "correct": true },
+      { "text": "lápiz, pez, luz", "correct": false },
+      { "text": "reloj, pared, amor", "correct": false },
+      { "text": "mano, mapa, día", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca sustantivos terminados en -s que no cambian en plural.",
+    "explanation": "Los sustantivos graves o esdrújulos terminados en -s, como 'crisis', 'tesis' y 'análisis', no varían su forma en plural. El número se indica mediante los determinantes que los acompañan (la crisis / las crisis).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mt",
+    "question": "El armazón y la estructura ________ por el óxido.",
+    "image": null,
+    "options": [
+      { "text": "fueron debilitados", "correct": true },
+      { "text": "fue debilitada", "correct": false },
+      { "text": "fueron debilitadas", "correct": false },
+      { "text": "fue debilitado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un sujeto compuesto de diferente género y un participio en la voz pasiva.",
+    "explanation": "El sujeto compuesto ('armazón' masc. + 'estructura' fem.) exige el verbo en plural ('fueron'). El participio, al modificar a ambos, debe concordar en masculino plural ('debilitados').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mu",
+    "question": "El aceite de oliva virgen extra es ________ y ________.",
+    "image": null,
+    "options": [
+      { "text": "caro, saludable", "correct": true },
+      { "text": "cara, saludable", "correct": false },
+      { "text": "caro, salubre", "correct": false },
+      { "text": "caros, saludables", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El núcleo del sujeto es 'aceite'.",
+    "explanation": "El sujeto es 'El aceite', que es masculino singular. Por tanto, los adjetivos que lo califican ('caro', 'saludable') deben concordar en masculino singular.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mv",
+    "question": "La muchedumbre, enardecida, ________ las barreras de seguridad.",
+    "image": null,
+    "options": [
+      { "text": "derribó", "correct": true },
+      { "text": "derribaron", "correct": false },
+      { "text": "derribamos", "correct": false },
+      { "text": "derribaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La concordancia gramatical estricta prevalece con los sustantivos colectivos.",
+    "explanation": "El sujeto es el sustantivo colectivo 'muchedumbre', que es singular. Aunque se refiere a muchas personas, la concordancia verbal formalmente correcta es en singular ('derribó').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mw",
+    "question": "Cada uno de los libros y cada una de las revistas ________ ser catalogado.",
+    "image": null,
+    "options": [
+      { "text": "debe", "correct": true },
+      { "text": "deben", "correct": false },
+      { "text": "debemos", "correct": false },
+      { "text": "debes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Cuando el pronombre 'cada' precede a los elementos de un sujeto compuesto.",
+    "explanation": "La presencia del pronombre indefinido 'cada' antepuesto a los elementos de un sujeto compuesto le confiere un sentido distributivo que exige la concordancia del verbo en singular ('debe').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mx",
+    "question": "Se ________ a los voluntarios para una reunión informativa.",
+    "image": null,
+    "options": [
+      { "text": "convocó", "correct": true },
+      { "text": "convocaron", "correct": false },
+      { "text": "convocamos", "correct": false },
+      { "text": "convocaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta es una oración impersonal con 'se', no una pasiva refleja.",
+    "explanation": "El sintagma 'a los voluntarios' es el complemento directo, no el sujeto. Al llevar la preposición 'a', la oración se interpreta como impersonal. En las oraciones impersonales con 'se', el verbo siempre va en tercera persona del singular ('convocó').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01my",
+    "question": "La avaricia, como otros vicios, ________ al ser humano.",
+    "image": null,
+    "options": [
+      { "text": "destruye", "correct": true },
+      { "text": "destruyen", "correct": false },
+      { "text": "destruimos", "correct": false },
+      { "text": "destruyo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El inciso aclaratorio no forma parte del sujeto principal.",
+    "explanation": "El sujeto de la oración es 'La avaricia' (singular). La construcción 'como otros vicios' es un inciso comparativo que no afecta a la concordancia verbal. Por lo tanto, el verbo debe ir en singular ('destruye').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01mz",
+    "question": "Esto ________ patrañas, no argumentos sólidos.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "fueron", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "El verbo 'ser' concuerda con el atributo cuando el sujeto es un pronombre neutro.",
+    "explanation": "La oración es correcta. Cuando el sujeto es un pronombre demostrativo neutro como 'esto' y el atributo es un sustantivo plural ('patrañas'), el verbo 'ser' debe concordar en plural con dicho atributo ('son').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01na",
+    "question": "El pliego de condiciones, las bases del concurso y la oferta económica ________ sobre la mesa.",
+    "image": null,
+    "options": [
+      { "text": "están", "correct": true },
+      { "text": "está", "correct": false },
+      { "text": "estamos", "correct": false },
+      { "text": "estoy", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un sujeto compuesto por tres elementos requiere un verbo en plural.",
+    "explanation": "El sujeto de la oración es una enumeración de tres elementos. Al ser un sujeto compuesto, el verbo debe ir obligatoriamente en plural ('están').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nb",
+    "question": "Ni el silencio ni la oscuridad me ________.",
+    "image": null,
+    "options": [
+      { "text": "asustan", "correct": true },
+      { "text": "asusta", "correct": false },
+      { "text": "asusto", "correct": false },
+      { "text": "asustamos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La conjunción 'ni...ni' une dos sujetos, formando un sujeto compuesto.",
+    "explanation": "Cuando la conjunción 'ni...ni' une dos sujetos en singular ('el silencio', 'la oscuridad'), el verbo debe concordar en plural ('asustan').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nc",
+    "question": "Una bandada de gaviotas ________ sobre el puerto.",
+    "image": null,
+    "options": [
+      { "text": "revoloteaba", "correct": true },
+      { "text": "revoloteaban", "correct": false },
+      { "text": "revoloteamos", "correct": false },
+      { "text": "revoloteaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es el sustantivo colectivo 'bandada'.",
+    "explanation": "El sujeto de la oración es 'Una bandada de gaviotas', cuyo núcleo es 'bandada' (singular). Por lo tanto, el verbo debe concordar en singular ('revoloteaba').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nd",
+    "question": "El pijama de rayas y la camisa de cuadros estaban ________.",
+    "image": null,
+    "options": [
+      { "text": "sucios", "correct": true },
+      { "text": "sucias", "correct": false },
+      { "text": "sucio", "correct": false },
+      { "text": "sucia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El adjetivo debe concordar con dos sustantivos masculinos.",
+    "explanation": "El adjetivo 'sucios' modifica a dos sustantivos masculinos ('pijama' y 'camisa'). La concordancia correcta es en masculino plural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ne",
+    "question": "La flota de barcos pesqueros ________ al amanecer.",
+    "image": null,
+    "options": [
+      { "text": "zarpó", "correct": true },
+      { "text": "zarparon", "correct": false },
+      { "text": "zarpamos", "correct": false },
+      { "text": "zarpaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sujeto es un sustantivo colectivo singular.",
+    "explanation": "El núcleo del sujeto es 'La flota' (singular), por lo que el verbo debe concordar en la tercera persona del singular ('zarpó').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nf",
+    "question": "El gerente o su secretaria ________ el informe.",
+    "image": null,
+    "options": [
+      { "text": "redactará", "correct": true },
+      { "text": "redactarán", "correct": false },
+      { "text": "redactaremos", "correct": false },
+      { "text": "redactarás", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La conjunción 'o' con valor excluyente une dos sujetos en singular.",
+    "explanation": "Cuando la conjunción 'o' indica que la acción solo puede ser realizada por uno de los sujetos, el verbo concuerda en singular ('redactará').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ng",
+    "question": "Relaciona cada sustantivo con su adjetivo correcto: A) Arma, B) Diploma, C) Mano.",
+    "image": null,
+    "options": [
+      { "text": "A) El arma blanca; B) El diploma merecido; C) La mano derecha.", "correct": true },
+      { "text": "A) La arma blanca; B) La diploma merecida; C) El mano derecho.", "correct": false },
+      { "text": "A) El arma blanco; B) El diploma merecido; C) La mano derecho.", "correct": false },
+      { "text": "A) El arma blanca; B) La diploma merecido; C) La mano derecha.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Presta atención al género real de cada sustantivo.",
+    "explanation": "A) 'Arma' es femenino, pero usa el artículo 'el'; el adjetivo debe ser femenino. B) 'Diploma' es masculino. C) 'Mano' es femenino.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nh",
+    "question": "El estruendo de los truenos ________ a los niños.",
+    "image": null,
+    "options": [
+      { "text": "asustó", "correct": true },
+      { "text": "asustaron", "correct": false },
+      { "text": "asustamos", "correct": false },
+      { "text": "asustaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es 'el estruendo', no 'los truenos'.",
+    "explanation": "El sujeto de la oración es 'El estruendo de los truenos'. El núcleo es 'estruendo' (singular), por lo que el verbo debe concordar en singular: 'asustó'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ni",
+    "question": "La alfombra y la cortina nuevas ________ del mismo color.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "soy", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un sujeto compuesto de dos sustantivos femeninos.",
+    "explanation": "El adjetivo 'nuevas' concuerda en femenino plural con los sustantivos 'alfombra' y 'cortina'. El verbo, al referirse a un sujeto compuesto, debe ir en plural ('son').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nj",
+    "question": "Un sinfín de problemas ________ durante el proyecto.",
+    "image": null,
+    "options": [
+      { "text": "surgieron", "correct": true },
+      { "text": "surgió", "correct": false },
+      { "text": "surgimos", "correct": false },
+      { "text": "surgiste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Con cuantificadores como 'un sinfín de', la concordancia suele hacerse en plural.",
+    "explanation": "Aunque 'sinfín' es singular, los sustantivos cuantificadores como 'sinfín', 'infinidad' o 'multitud' seguidos de un complemento plural suelen concordar con el verbo en plural ('surgieron'), enfatizando la pluralidad de lo cuantificado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nk",
+    "question": "Es urgente que ________ soluciones efectivas.",
+    "image": null,
+    "options": [
+      { "text": "se encuentren", "correct": true },
+      { "text": "se encuentre", "correct": false },
+      { "text": "se encuentra", "correct": false },
+      { "text": "encontrar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El verbo en subjuntivo de la pasiva refleja debe concordar con su sujeto.",
+    "explanation": "El sujeto paciente es 'soluciones efectivas' (plural). Por lo tanto, el verbo en presente de subjuntivo debe concordar en plural: 'se encuentren'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nl",
+    "question": "El dueto de artistas ________ una magnífica actuación.",
+    "image": null,
+    "options": [
+      { "text": "ofreció", "correct": true },
+      { "text": "ofrecieron", "correct": false },
+      { "text": "ofrecimos", "correct": false },
+      { "text": "ofreciste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es el colectivo singular 'dueto'.",
+    "explanation": "El sujeto de la oración es 'El dueto de artistas'. El núcleo es 'dueto' (singular), lo que exige la concordancia del verbo en singular: 'ofreció'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nm",
+    "question": "Completa el texto: El ________ es un sentimiento ________.",
+    "image": null,
+    "options": [
+      { "text": "amor, profundo", "correct": true },
+      { "text": "amor, profunda", "correct": false },
+      { "text": "ama, profundo", "correct": false },
+      { "text": "amor, profundos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Concordancia de género y número entre sustantivo y adjetivo.",
+    "explanation": "'Amor' es un sustantivo masculino singular. El adjetivo que lo califica, 'profundo', debe tener la misma concordancia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nn",
+    "question": "La mitad de la clase ________ la excursión.",
+    "image": null,
+    "options": [
+      { "text": "aprobó", "correct": true },
+      { "text": "aprobaron", "correct": false },
+      { "text": "aprobamos", "correct": false },
+      { "text": "aprobaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Con el partitivo 'la mitad de', la concordancia con el núcleo singular es la preferida.",
+    "explanation": "El verbo puede concordar con el núcleo 'mitad' (singular) o con el sustantivo 'clase' (singular). En este caso, ambas opciones llevan al verbo en singular ('aprobó'). Si fuera 'la mitad de los alumnos', la opción singular seguiría siendo la más formal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01no",
+    "question": "Son palabras que cambian de significado según su género:",
+    "image": null,
+    "options": [
+      { "text": "el cometa / la cometa, el cólera / la cólera", "correct": true },
+      { "text": "el mar / la mar, el arte / las artes", "correct": false },
+      { "text": "el azúcar / la azúcar, el calor / la calor", "correct": false },
+      { "text": "el agua / las aguas, el problema / los problemas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Busca pares de sustantivos homónimos cuyo significado varíe con el artículo.",
+    "explanation": "'El cometa' es un astro, mientras que 'la cometa' es un juguete. 'El cólera' es una enfermedad, mientras que 'la cólera' es ira o enojo. En los otros casos, se trata de género vacilante o cambios de número.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01np",
+    "question": "El gentío, al ver a su ídolo, ________ a corear su nombre.",
+    "image": null,
+    "options": [
+      { "text": "comenzó", "correct": true },
+      { "text": "comenzaron", "correct": false },
+      { "text": "comenzamos", "correct": false },
+      { "text": "comenzaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo colectivo 'gentío' es singular.",
+    "explanation": "A pesar de referirse a una multitud, 'gentío' es un sustantivo singular y exige la concordancia verbal en singular ('comenzó'), especialmente en registros formales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nq",
+    "question": "La serie de catastróficas desdichas ________ al protagonista.",
+    "image": null,
+    "options": [
+      { "text": "abrumó", "correct": true },
+      { "text": "abrumaron", "correct": false },
+      { "text": "abrumamos", "correct": false },
+      { "text": "abrumaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es 'La serie', no 'desdichas'.",
+    "explanation": "El sujeto de la oración es 'La serie de catastróficas desdichas'. El núcleo es 'serie' (singular), por lo que el verbo debe concordar en singular: 'abrumó'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nr",
+    "question": "Yo, así como mi hermano, ________ en el proyecto.",
+    "image": null,
+    "options": [
+      { "text": "colaboro", "correct": true },
+      { "text": "colaboramos", "correct": false },
+      { "text": "colaboran", "correct": false },
+      { "text": "colabora", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "La construcción 'así como' introduce un elemento comparativo, no un sujeto compuesto.",
+    "explanation": "El elemento introducido por 'así como' no forma parte del sujeto gramatical. El único sujeto es 'Yo', por lo que el verbo debe concordar en primera persona del singular: 'colaboro'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ns",
+    "question": "El ________ es una virtud ________.",
+    "image": null,
+    "options": [
+      { "text": "análisis, necesaria", "correct": true },
+      { "text": "análisis, necesario", "correct": false },
+      { "text": "análisis, necesarios", "correct": false },
+      { "text": "análisis, necesarias", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo 'análisis' es masculino, a diferencia de otros acabados en -is como 'crisis'.",
+    "explanation": "A pesar de su terminación, 'análisis' es un sustantivo masculino singular. Sin embargo, en esta frase el sujeto es 'el análisis', y el atributo 'una virtud' es femenino; el adjetivo 'necesaria' concuerda con 'virtud'. Este es un ejercicio complejo de concordancia atributiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nt",
+    "question": "La acusada fue declarada ________ por el tribunal.",
+    "image": null,
+    "options": [
+      { "text": "inocente", "correct": true },
+      { "text": "inocenta", "correct": false },
+      { "text": "inocento", "correct": false },
+      { "text": "inocentes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Hay adjetivos de una sola terminación que son invariables en género.",
+    "explanation": "El adjetivo 'inocente' es invariable en cuanto al género. Sirve tanto para masculino ('el acusado inocente') como para femenino ('la acusada inocente').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nu",
+    "question": "La manada de leones ________ a su presa.",
+    "image": null,
+    "options": [
+      { "text": "acechaba", "correct": true },
+      { "text": "acechaban", "correct": false },
+      { "text": "acechamos", "correct": false },
+      { "text": "acechaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La concordancia gramatical con el colectivo 'manada' debe ser en singular.",
+    "explanation": "El núcleo del sujeto es el sustantivo colectivo 'manada' (singular). Por lo tanto, la concordancia verbal correcta es en singular: 'acechaba'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nv",
+    "question": "Ni los estudiantes ni la profesora ________ la respuesta.",
+    "image": null,
+    "options": [
+      { "text": "sabía", "correct": true },
+      { "text": "sabían", "correct": false },
+      { "text": "sabíamos", "correct": false },
+      { "text": "supo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Con 'ni...ni' y sujetos de diferente número, el verbo puede concordar con el más cercano.",
+    "explanation": "La norma general exige el plural ('sabían'). Sin embargo, cuando los sujetos coordinados con 'ni...ni' son de diferente número, también se acepta la concordancia en singular con el elemento más cercano al verbo. En este caso, 'la profesora' es singular, por lo que 'sabía' es una opción válida y aceptada.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nw",
+    "question": "Se ________ las llaves del coche. ¿Alguien las ha visto?",
+    "image": null,
+    "options": [
+      { "text": "han perdido", "correct": true },
+      { "text": "ha perdido", "correct": false },
+      { "text": "he perdido", "correct": false },
+      { "text": "has perdido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sujeto de la pasiva refleja es 'las llaves del coche'.",
+    "explanation": "En esta construcción de pasiva refleja, el sujeto paciente es 'las llaves' (plural). Por lo tanto, el verbo auxiliar 'haber' debe concordar en plural: 'han perdido'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nx",
+    "question": "El alumnado de la facultad, así como el profesorado, ________ la nueva normativa.",
+    "image": null,
+    "options": [
+      { "text": "rechaza", "correct": true },
+      { "text": "rechazan", "correct": false },
+      { "text": "rechazamos", "correct": false },
+      { "text": "rechazas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "El elemento introducido por 'así como' no se suma al sujeto para la concordancia.",
+    "explanation": "El sujeto gramatical de la oración es únicamente 'El alumnado de la facultad', cuyo núcleo ('alumnado') es singular. La construcción 'así como el profesorado' es un complemento comparativo y no afecta a la concordancia. Por lo tanto, el verbo debe ir en singular: 'rechaza'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ny",
+    "question": "Tanto el director como la jefa de estudios ________ presentes en la reunión.",
+    "image": null,
+    "options": [
+      { "text": "estarán", "correct": true },
+      { "text": "estará", "correct": false },
+      { "text": "estaremos", "correct": false },
+      { "text": "estarás", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La construcción correlativa 'tanto... como...' crea un sujeto compuesto.",
+    "explanation": "Al unir dos sujetos con la construcción 'tanto... como...', se forma un sujeto compuesto que exige la concordancia del verbo en plural ('estarán').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01nz",
+    "question": "El capital ________ para iniciar el negocio es insuficiente.",
+    "image": null,
+    "options": [
+      { "text": "disponible", "correct": true },
+      { "text": "disponibles", "correct": false },
+      { "text": "dispuesto", "correct": false },
+      { "text": "disponibla", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sustantivo 'capital' es masculino singular.",
+    "explanation": "El adjetivo debe concordar con el sustantivo 'capital', que es masculino y singular. La forma correcta es 'disponible'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oa",
+    "question": "Entrar y salir constantemente ________ a los que trabajan.",
+    "image": null,
+    "options": [
+      { "text": "molesta", "correct": true },
+      { "text": "molestan", "correct": false },
+      { "text": "molestamos", "correct": false },
+      { "text": "molestas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Un sujeto compuesto por dos infinitivos se interpreta como una sola acción.",
+    "explanation": "El sujeto de la oración es la acción de 'Entrar y salir'. Este tipo de sujeto, formado por dos infinitivos, se considera una unidad conceptual y, por lo tanto, el verbo concuerda en singular ('molesta').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ob",
+    "question": "Relaciona cada caso de concordancia con su justificación: A) La gente gritaba; B) La gente gritaban; C) La gente, que estaban furiosos, gritaba.",
+    "image": null,
+    "options": [
+      { "text": "A) Concordancia gramatical; B) Incorrecta; C) Silepsis en la subordinada.", "correct": true },
+      { "text": "A) Silepsis; B) Concordancia gramatical; C) Incorrecta.", "correct": false },
+      { "text": "A) Incorrecta; B) Silepsis; C) Concordancia gramatical.", "correct": false },
+      { "text": "A) Concordancia gramatical; B) Silepsis; C) Incorrecta.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Diferencia entre la concordancia estricta (gramatical) y la de sentido (silepsis).",
+    "explanation": "A) Es la concordancia gramatical correcta, ya que 'gente' es singular. B) Es incorrecta. C) Muestra un caso de silepsis: el verbo de la oración principal ('gritaba') concuerda gramaticalmente, pero el de la subordinada ('estaban') concuerda por el sentido con la pluralidad de 'gente'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oc",
+    "question": "El hambre ________ la peor de las consejeras.",
+    "image": null,
+    "options": [
+      { "text": "es", "correct": true },
+      { "text": "son", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "eres", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sustantivo 'hambre' es femenino singular.",
+    "explanation": "Aunque se usa el artículo 'el' para evitar cacofonía, 'hambre' es un sustantivo femenino. El sujeto es singular, por lo que el verbo debe ser 'es'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01od",
+    "question": "Ni el presidente ni sus ministros ________ capaces de solucionar la crisis.",
+    "image": null,
+    "options": [
+      { "text": "fueron", "correct": true },
+      { "text": "fue", "correct": false },
+      { "text": "fui", "correct": false },
+      { "text": "fuimos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sujeto compuesto con 'ni...ni' exige un verbo en plural.",
+    "explanation": "Al unir dos sujetos, uno singular y otro plural, con la conjunción 'ni...ni', el verbo debe concordar en plural ('fueron').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oe",
+    "question": "He comprado una mesa y una silla ________.",
+    "image": null,
+    "options": [
+      { "text": "antiguas", "correct": true },
+      { "text": "antiguos", "correct": false },
+      { "text": "antigua", "correct": false },
+      { "text": "antiguo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un adjetivo que califica a dos sustantivos femeninos.",
+    "explanation": "Cuando un adjetivo modifica a dos o más sustantivos femeninos ('mesa', 'silla'), la concordancia se establece en femenino plural ('antiguas').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01of",
+    "question": "El club de fans ________ a la cantante en el aeropuerto.",
+    "image": null,
+    "options": [
+      { "text": "esperaba", "correct": true },
+      { "text": "esperaban", "correct": false },
+      { "text": "esperamos", "correct": false },
+      { "text": "esperaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es el sustantivo colectivo 'club'.",
+    "explanation": "El sujeto de la oración es 'El club de fans', cuyo núcleo es 'club' (singular). Por lo tanto, el verbo debe concordar en singular: 'esperaba'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01og",
+    "question": "El porcentaje de aprobados ________ este año.",
+    "image": null,
+    "options": [
+      { "text": "ha subido", "correct": true },
+      { "text": "han subido", "correct": false },
+      { "text": "hemos subido", "correct": false },
+      { "text": "has subido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cuando el sujeto es 'el porcentaje de...', el verbo concuerda en singular.",
+    "explanation": "Si el sujeto incluye la palabra 'porcentaje', la concordancia verbal se establece siempre en singular ('ha subido'), ya que el núcleo es 'porcentaje'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oh",
+    "question": "La calma y el sosiego ________ necesarios para la meditación.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "eres", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un sujeto compuesto de dos elementos requiere un verbo plural.",
+    "explanation": "El sujeto de la oración es 'La calma y el sosiego', un sujeto compuesto que exige la concordancia verbal en plural ('son').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oi",
+    "question": "Esa es la razón por la ________ no te llamé.",
+    "image": null,
+    "options": [
+      { "text": "cual", "correct": true },
+      { "text": "cuales", "correct": false },
+      { "text": "que", "correct": false },
+      { "text": "cuyo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El pronombre relativo 'el cual' y sus variantes deben concordar en género y número con su antecedente.",
+    "explanation": "El antecedente del pronombre relativo es 'la razón' (femenino, singular). Por lo tanto, la forma correcta del relativo es 'la cual'. En la opción, solo 'cual' es correcto para completar la estructura.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oj",
+    "question": "Había una vez un rey y una reina que ________ en un castillo.",
+    "image": null,
+    "options": [
+      { "text": "vivían", "correct": true },
+      { "text": "vivía", "correct": false },
+      { "text": "vivíamos", "correct": false },
+      { "text": "viviste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sujeto de la oración de relativo es 'un rey y una reina'.",
+    "explanation": "El pronombre relativo 'que' tiene como antecedente y sujeto a 'un rey y una reina'. Al ser un sujeto compuesto, el verbo debe ir en plural ('vivían').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ok",
+    "question": "El equipo, a pesar de sus diferencias, ________ unido en la final.",
+    "image": null,
+    "options": [
+      { "text": "jugó", "correct": true },
+      { "text": "jugaron", "correct": false },
+      { "text": "jugamos", "correct": false },
+      { "text": "jugaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El inciso aclaratorio no modifica la concordancia del sujeto principal.",
+    "explanation": "El sujeto de la oración es 'El equipo' (singular). El inciso 'a pesar de sus diferencias' no forma parte del sujeto y no afecta a la concordancia. Por lo tanto, el verbo debe ser 'jugó'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ol",
+    "question": "La mayoría de las decisiones ________ por consenso.",
+    "image": null,
+    "options": [
+      { "text": "se tomó", "correct": true },
+      { "text": "se tomaron", "correct": false },
+      { "text": "se tomamos", "correct": false },
+      { "text": "te tomaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Con partitivos como 'la mayoría', se prefiere la concordancia gramatical en singular.",
+    "explanation": "Aunque la concordancia en plural ('se tomaron') es aceptada por el sentido, la concordancia gramatical estricta con el núcleo 'mayoría' (singular) es la preferida en la norma culta. Por tanto, 'se tomó' es la opción más formal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01om",
+    "question": "El humo y la ceniza ________ el cielo.",
+    "image": null,
+    "options": [
+      { "text": "oscurecieron", "correct": true },
+      { "text": "oscureció", "correct": false },
+      { "text": "oscurecimos", "correct": false },
+      { "text": "oscureciste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sujeto compuesto unido por 'y'.",
+    "explanation": "El sujeto 'El humo y la ceniza' está compuesto por dos elementos, lo que exige que el verbo vaya en plural ('oscurecieron').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01on",
+    "question": "Un grupo de científicos ________ el hallazgo.",
+    "image": null,
+    "options": [
+      { "text": "confirmó", "correct": true },
+      { "text": "confirmaron", "correct": false },
+      { "text": "confirmamos", "correct": false },
+      { "text": "confirmaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es el sustantivo colectivo 'grupo'.",
+    "explanation": "El sujeto es 'Un grupo de científicos', cuyo núcleo es 'grupo' (singular). Por lo tanto, el verbo debe concordar en singular ('confirmó').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oo",
+    "question": "Se necesita ________ para el puesto.",
+    "image": null,
+    "options": [
+      { "text": "a un experto", "correct": true },
+      { "text": "un experto", "correct": false },
+      { "text": "expertos", "correct": false },
+      { "text": "a expertos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El verbo en singular indica que se trata de una oración impersonal.",
+    "explanation": "El verbo 'necesita' está en singular, lo que indica que esta es una oración impersonal. El elemento requerido funciona como complemento directo y, al referirse a una persona específica, lleva la preposición 'a'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01op",
+    "question": "La novela, cuyos personajes ________ muy complejos, es una obra maestra.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "soy", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sujeto del verbo en la oración de relativo es 'cuyos personajes'.",
+    "explanation": "Dentro de la oración de relativo ('cuyos personajes son muy complejos'), el sujeto es 'personajes' (plural). Por lo tanto, el verbo debe concordar en plural ('son').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oq",
+    "question": "El comité ________ diversas propuestas.",
+    "image": null,
+    "options": [
+      { "text": "evaluó", "correct": true },
+      { "text": "evaluaron", "correct": false },
+      { "text": "evaluamos", "correct": false },
+      { "text": "evaluaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El colectivo 'comité' funciona como sujeto singular.",
+    "explanation": "El sustantivo colectivo 'comité' es el sujeto de la oración y es gramaticalmente singular, por lo que el verbo debe concordar en singular ('evaluó').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01or",
+    "question": "Me preocupa que ________ tantos accidentes últimamente.",
+    "image": null,
+    "options": [
+      { "text": "haya habido", "correct": true },
+      { "text": "hayan habido", "correct": false },
+      { "text": "ha habido", "correct": false },
+      { "text": "hubiera habido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "El verbo 'haber' es impersonal incluso en tiempos compuestos y en modo subjuntivo.",
+    "explanation": "El verbo 'haber' con el significado de existencia es impersonal. Esto se mantiene en los tiempos compuestos y en el subjuntivo. La forma correcta es la tercera persona del singular: 'haya habido'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01os",
+    "question": "El aroma de las flores ________ el ambiente.",
+    "image": null,
+    "options": [
+      { "text": "impregna", "correct": true },
+      { "text": "impregnan", "correct": false },
+      { "text": "impregnamos", "correct": false },
+      { "text": "impregnas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es 'El aroma', no 'las flores'.",
+    "explanation": "El sujeto es 'El aroma de las flores', cuyo núcleo es 'aroma' (singular). Por consiguiente, el verbo debe concordar en singular: 'impregna'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ot",
+    "question": "La policía ________ a los sospechosos.",
+    "image": null,
+    "options": [
+      { "text": "detuvo", "correct": true },
+      { "text": "detuvieron", "correct": false },
+      { "text": "detuvimos", "correct": false },
+      { "text": "detuviste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo colectivo 'policía' concuerda en singular.",
+    "explanation": "Aunque se refiere a un cuerpo de agentes, el sustantivo 'policía' es singular y exige que el verbo concuerde en singular ('detuvo').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ou",
+    "question": "El rebaño de ovejas ________ por el prado.",
+    "image": null,
+    "options": [
+      { "text": "pasta", "correct": true },
+      { "text": "pastan", "correct": false },
+      { "text": "pastamos", "correct": false },
+      { "text": "pastas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El núcleo del sujeto es el colectivo singular 'rebaño'.",
+    "explanation": "El núcleo del sujeto es 'rebaño', un sustantivo singular. Por lo tanto, el verbo debe concordar en la tercera persona del singular: 'pasta'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ov",
+    "question": "Tú, y no tus amigos, ________ responsable de tus actos.",
+    "image": null,
+    "options": [
+      { "text": "eres", "correct": true },
+      { "text": "son", "correct": false },
+      { "text": "es", "correct": false },
+      { "text": "sois", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El inciso aclaratorio no forma parte del sujeto.",
+    "explanation": "El sujeto de la oración es 'Tú'. El inciso 'y no tus amigos' es un elemento aclaratorio que no afecta a la concordancia. Por lo tanto, el verbo debe concordar con 'Tú' en la segunda persona del singular: 'eres'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ow",
+    "question": "La constelación de Orión ________ visible en invierno.",
+    "image": null,
+    "options": [
+      { "text": "es", "correct": true },
+      { "text": "son", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "eres", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es 'La constelación', no 'Orión'.",
+    "explanation": "El sujeto de la oración es 'La constelación de Orión', cuyo núcleo es 'constelación' (singular). Por lo tanto, el verbo debe concordar en singular: 'es'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01ox",
+    "question": "Se necesita personal cualificado. La oración es:",
+    "image": null,
+    "options": [
+      { "text": "Impersonal con 'se'", "correct": true },
+      { "text": "Pasiva refleja", "correct": false },
+      { "text": "Copulativa", "correct": false },
+      { "text": "Activa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO", "UNAM", "IPN", "UAM", "EXANI", "BUAP"],
+    "hint": "Analiza si 'personal cualificado' es sujeto o complemento directo.",
+    "explanation": "En esta oración, 'personal cualificado' es el complemento directo. Al no llevar la preposición 'a', podría confundirse con un sujeto, pero la concordancia en singular del verbo con un sustantivo sin determinante que puede interpretarse como plural indica impersonalidad. No hay sujeto gramatical, por lo que es una oración impersonal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oy",
+    "question": "La fe y la esperanza ________ lo último que se pierde.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "eres", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Dos sustantivos abstractos unidos por 'y' forman un sujeto plural.",
+    "explanation": "El sujeto compuesto 'La fe y la esperanza' requiere que el verbo concuerde en la tercera persona del plural: 'son'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01oz",
+    "question": "El electorado ________ su descontento en las urnas.",
+    "image": null,
+    "options": [
+      { "text": "manifestó", "correct": true },
+      { "text": "manifestaron", "correct": false },
+      { "text": "manifestamos", "correct": false },
+      { "text": "manifestaste", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo colectivo 'electorado' funciona como sujeto singular.",
+    "explanation": "Aunque se refiere al conjunto de votantes, 'electorado' es un sustantivo singular y exige que el verbo concuerde en singular ('manifestó').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01pa",
+    "question": "Las afueras de la ciudad ________ peligrosas por la noche.",
+    "image": null,
+    "options": [
+      { "text": "son", "correct": true },
+      { "text": "es", "correct": false },
+      { "text": "somos", "correct": false },
+      { "text": "eres", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sustantivo 'afueras' es un 'pluralia tantum', siempre se usa en plural.",
+    "explanation": "Sustantivos como 'afueras', 'víveres' o 'enseres' solo existen en plural. Por lo tanto, el sujeto 'Las afueras' es plural y exige el verbo en plural ('son').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01pb",
+    "question": "A mí ________ los días de lluvia.",
+    "image": null,
+    "options": [
+      { "text": "me deprimen", "correct": true },
+      { "text": "me deprime", "correct": false },
+      { "text": "me deprimo", "correct": false },
+      { "text": "te deprimen", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sujeto de la oración es 'los días de lluvia'.",
+    "explanation": "En esta estructura con un verbo de afección, el sujeto gramatical es 'los días de lluvia' (plural), por lo que el verbo debe concordar en plural ('deprimen'). El pronombre 'me' concuerda con el complemento indirecto 'A mí'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEPRIG01pc",
+    "question": "La pareja de ladrones ________ por la policía.",
+    "image": null,
+    "options": [
+      { "text": "fue detenida", "correct": true },
+      { "text": "fueron detenidos", "correct": false },
+      { "text": "fue detenido", "correct": false },
+      { "text": "fueron detenida", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El núcleo del sujeto es el sustantivo singular 'pareja'.",
+    "explanation": "El núcleo del sujeto es 'La pareja' (singular y femenino). Por lo tanto, el verbo auxiliar ('fue') y el participio ('detenida') deben concordar en femenino singular.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
